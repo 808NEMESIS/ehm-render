@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "vriend-altijd-te-laat",
+ "pillar": "grenzen",
+ "caption": "Your friend, 40 minutes late:",
+ "hook": "Don't say “Haha, no worries! Again.”",
+ "verdict": true,
+ "setting": "restaurant",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Sorry, sorry! Traffic was crazy.",
+   "at": 10,
+   "until": 75
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Haha, no worries! Again.",
+   "at": 77,
+   "until": 134,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Oh, I invited Sam. He's even later.",
+   "at": 136,
+   "until": 235
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Sorry, sorry! Traffic was crazy.",
+   "at": 291,
+   "until": 356
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Hey, I've noticed we're often starting late.",
+   "at": 358,
+   "until": 432,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Deal. I'll set an alarm this time.",
+   "at": 434,
+   "until": 514
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 128
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 207
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 422
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 520
+  }
+ ],
+ "nope": 219,
+ "crumble": 235,
+ "rewind": 255,
+ "expand": 281,
+ "celebrate": 494,
+ "cta": 524,
+ "total": 570,
+ "badge": "+1 self-respect",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

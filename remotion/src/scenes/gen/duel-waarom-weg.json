@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "waarom-weg",
+ "pillar": "werk",
+ "caption": "When they ask why you're leaving:",
+ "hook": "Don't say “Honestly? My boss is a nightmare.”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "So, why are you leaving your current job?",
+   "at": 10,
+   "until": 78
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Honestly? My boss is a nightmare.",
+   "at": 80,
+   "until": 144,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Oh. Wow. Go on...",
+   "at": 146,
+   "until": 191
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Thanks for coming in. We'll be in touch.",
+   "at": 193,
+   "until": 279
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "So, why are you leaving your current job?",
+   "at": 335,
+   "until": 403
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I've learned a lot in my current role.",
+   "at": 405,
+   "until": 468,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "That's great to hear.",
+   "at": 470,
+   "until": 499
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Now I'm looking for more responsibility.",
+   "at": 501,
+   "until": 570,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Perfect. That's exactly what this role offers.",
+   "at": 572,
+   "until": 694
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 136
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 183
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 251
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 460
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 560
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 670
+  }
+ ],
+ "nope": 263,
+ "crumble": 279,
+ "rewind": 299,
+ "expand": 325,
+ "celebrate": 644,
+ "cta": 704,
+ "total": 780,
+ "badge": "+1 class",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

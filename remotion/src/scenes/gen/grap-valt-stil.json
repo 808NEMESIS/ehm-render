@@ -1,0 +1,111 @@
+{
+ "slug": "grap-valt-stil",
+ "caption": "When your joke falls flat:",
+ "setting": "kantoor",
+ "cast": "collega",
+ "gag": "krimp",
+ "outfit": {
+  "body": "#8FB3E8",
+  "deep": "#5E86C4",
+  "acc": "knot"
+ },
+ "shots": true,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 780,
+ "freeze": 239,
+ "rewindStart": 257,
+ "rewindEnd": 307,
+ "goodStart": 317,
+ "lines": [
+  {
+   "who": "collega",
+   "text": "...Was that a joke?",
+   "at": 8,
+   "until": 83
+  },
+  {
+   "who": "ehm",
+   "text": "No, what I meant was...",
+   "at": 41,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "collega",
+   "text": "Explain it again?",
+   "at": 85,
+   "until": 116
+  },
+  {
+   "who": "collega",
+   "text": "Still don't get it.",
+   "at": 118,
+   "until": 147
+  },
+  {
+   "who": "collega",
+   "text": "Maybe draw a diagram?",
+   "at": 149,
+   "until": 182
+  },
+  {
+   "who": "collega",
+   "text": "Everyone's staring at you now.",
+   "at": 184,
+   "until": 999
+  },
+  {
+   "who": "collega",
+   "text": "...Was that a joke?",
+   "at": 329,
+   "until": 422
+  },
+  {
+   "who": "ehm",
+   "text": "Okay, that was funnier in my head.",
+   "at": 362,
+   "until": 481,
+   "tone": "yes"
+  },
+  {
+   "who": "collega",
+   "text": "Ha. Okay, that one's fair.",
+   "at": 424,
+   "until": 564
+  },
+  {
+   "who": "ehm",
+   "text": "Let me try again: this meeting could have been an email.",
+   "at": 483,
+   "until": 628,
+   "tone": "yes"
+  },
+  {
+   "who": "collega",
+   "text": "Mine are worse. Want to hear one?",
+   "at": 566,
+   "until": 628
+  }
+ ],
+ "papers": [
+  91,
+  103,
+  124,
+  136,
+  155,
+  167,
+  190,
+  202
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 586,
+  "until": 721
+ },
+ "bossExit": 628,
+ "bossReturn": 724,
+ "celebrate": 640,
+ "badge": "+1 humor"
+}

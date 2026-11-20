@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "camera-aan-meeting",
+ "pillar": "werk",
+ "caption": "Your boss, on the video call:",
+ "hook": "Don't say “Um, sorry, I look terrible today.”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Can everyone turn their cameras on?",
+   "at": 10,
+   "until": 67
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, sorry, I look terrible today.",
+   "at": 69,
+   "until": 140,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Come on, nobody cares how you look.",
+   "at": 142,
+   "until": 210
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Great! Now share your screen too.",
+   "at": 212,
+   "until": 282
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Can everyone turn their cameras on?",
+   "at": 338,
+   "until": 395
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm keeping my camera off today.",
+   "at": 397,
+   "until": 456,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Sure, no problem.",
+   "at": 458,
+   "until": 492
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm here and following along, though.",
+   "at": 494,
+   "until": 558,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Honestly? Mine's off too. I'm in pajamas.",
+   "at": 560,
+   "until": 693
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 132
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 202
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 254
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 448
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 548
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 669
+  }
+ ],
+ "nope": 266,
+ "crumble": 282,
+ "rewind": 302,
+ "expand": 328,
+ "celebrate": 643,
+ "cta": 703,
+ "total": 780,
+ "badge": "+1 boundaries",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

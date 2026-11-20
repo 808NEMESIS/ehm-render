@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "na-werktijd-appje",
+ "pillar": "grenzen",
+ "caption": "Your boss, at 9:47 PM:",
+ "hook": "Don't say “Sure, I'll do it right now.”",
+ "verdict": true,
+ "setting": "keuken",
+ "cast": "baas",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Hey, quick thing. Can you fix the slides?",
+   "at": 10,
+   "until": 81
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Sure, I'll do it right now.",
+   "at": 83,
+   "until": 133,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "You're the only one who answers. Thanks!",
+   "at": 135,
+   "until": 219
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Hey, quick thing. Can you fix the slides?",
+   "at": 275,
+   "until": 346
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm offline for the evening, so I'll pick this up tomorrow.",
+   "at": 348,
+   "until": 450,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Not urgent. Tomorrow's fine. Enjoy your evening.",
+   "at": 452,
+   "until": 559
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 127
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 191
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 440
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 565
+  }
+ ],
+ "nope": 203,
+ "crumble": 219,
+ "rewind": 239,
+ "expand": 265,
+ "celebrate": 539,
+ "cta": 569,
+ "total": 615,
+ "badge": "+1 evening",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "feedback-vragen",
+ "pillar": "werk",
+ "caption": "When you want real feedback:",
+ "hook": "Don't say “So... it was okay, I guess?”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#8FB3E8",
+  "deep": "#5E86C4",
+  "acc": "knot"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "So, how do you think the pitch went?",
+   "at": 10,
+   "until": 70
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "So... it was okay, I guess?",
+   "at": 72,
+   "until": 133,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "We'll talk about it in your annual review.",
+   "at": 135,
+   "until": 222
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "So, how do you think the pitch went?",
+   "at": 278,
+   "until": 338
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Can I ask you for feedback on the client pitch?",
+   "at": 340,
+   "until": 413,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Shorter intro. The rest was great.",
+   "at": 415,
+   "until": 493
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 127
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 194
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 403
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 499
+  }
+ ],
+ "nope": 206,
+ "crumble": 222,
+ "rewind": 242,
+ "expand": 268,
+ "celebrate": 473,
+ "cta": 503,
+ "total": 555,
+ "badge": "+1 growth",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

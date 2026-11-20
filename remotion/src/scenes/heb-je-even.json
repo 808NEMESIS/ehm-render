@@ -1,0 +1,101 @@
+{
+  "slug": "heb-je-even",
+  "caption": "Your boss at 4:47 PM:",
+  "total": 780,
+  "freeze": 262,
+  "rewindStart": 280,
+  "rewindEnd": 330,
+  "goodStart": 340,
+  "lines": [
+    {
+      "who": "baas",
+      "text": "Hey, got a sec?",
+      "at": 8,
+      "until": 84
+    },
+    {
+      "who": "ehm",
+      "text": "Uh, sure...",
+      "at": 50,
+      "until": 110,
+      "tone": "not"
+    },
+    {
+      "who": "baas",
+      "text": "It's a quick one. Just the slides.",
+      "at": 92,
+      "until": 164
+    },
+    {
+      "who": "baas",
+      "text": "Oh, and the budget. And Tom's report.",
+      "at": 166,
+      "until": 236
+    },
+    {
+      "who": "baas",
+      "text": "Thanks! You're a lifesaver.",
+      "at": 238,
+      "until": 999
+    },
+    {
+      "who": "baas",
+      "text": "Hey, got a sec?",
+      "at": 352,
+      "until": 420
+    },
+    {
+      "who": "ehm",
+      "text": "Right now I can't, I'm up against a deadline.",
+      "at": 388,
+      "until": 470,
+      "tone": "yes"
+    },
+    {
+      "who": "ehm",
+      "text": "Can we do 3pm? Then you'll have my full attention.",
+      "at": 470,
+      "until": 556,
+      "tone": "yes"
+    },
+    {
+      "who": "baas",
+      "text": "Oh thank god. I haven't even started the slides.",
+      "at": 562,
+      "until": 652
+    }
+  ],
+  "papers": [
+    112,
+    122,
+    131,
+    176,
+    184,
+    191,
+    197,
+    203,
+    208,
+    213,
+    218,
+    222,
+    226,
+    230,
+    242,
+    246,
+    250,
+    253,
+    256,
+    259
+  ],
+  "frontStack": 12,
+  "sticker": {
+    "text": "2 more lines that work → free PDF",
+    "at": 600,
+    "until": 745
+  },
+  "bossExit": 652,
+  "bossReturn": 748,
+  "celebrate": 664,
+  "badge": "+1 courage",
+  "clockSpin": true
+}

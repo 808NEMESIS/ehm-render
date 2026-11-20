@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "schoonfamilie-aan-tafel",
+ "pillar": "small_talk",
+ "caption": "Dinner with your partner's family:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "restaurant",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "So... do you like the soup?",
+   "at": 10,
+   "until": 58
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um... great food.",
+   "at": 60,
+   "until": 94,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "...More soup?",
+   "at": 96,
+   "until": 115
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "I'll get more soup, then.",
+   "at": 117,
+   "until": 181
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "So... do you like the soup?",
+   "at": 237,
+   "until": 285
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What was Sam like as a kid?",
+   "at": 287,
+   "until": 336,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Oh, a total menace. Climbed everything!",
+   "at": 338,
+   "until": 417
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Ha, that explains a lot. What were you like at that age?",
+   "at": 419,
+   "until": 518,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Me? Even worse. Don't tell Sam.",
+   "at": 520,
+   "until": 631
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 86
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 107
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 153
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 328
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 508
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 607
+  }
+ ],
+ "nope": 165,
+ "crumble": 181,
+ "rewind": 201,
+ "expand": 227,
+ "celebrate": 581,
+ "cta": 641,
+ "total": 720,
+ "badge": "+1 family",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

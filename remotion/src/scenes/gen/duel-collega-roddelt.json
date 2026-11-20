@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "collega-roddelt",
+ "pillar": "werk",
+ "caption": "When a coworker starts gossiping:",
+ "hook": "Don't say “Oh wow, really? Tell me everything.”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "collega",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Did you hear what happened with Mark?",
+   "at": 10,
+   "until": 65
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Oh wow, really? Tell me everything.",
+   "at": 67,
+   "until": 142,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "So apparently he cried in the bathroom.",
+   "at": 144,
+   "until": 209
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Oh, hi Mark! We were just... talking.",
+   "at": 211,
+   "until": 305
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Did you hear what happened with Mark?",
+   "at": 361,
+   "until": 416
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I don't really know what happened.",
+   "at": 418,
+   "until": 473,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Oh. I thought you knew.",
+   "at": 475,
+   "until": 517
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'd rather not guess about someone who's not here.",
+   "at": 519,
+   "until": 594,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "You're right. That's not fair to him.",
+   "at": 596,
+   "until": 702
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 134
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 201
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 277
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 465
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 584
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 678
+  }
+ ],
+ "nope": 289,
+ "crumble": 305,
+ "rewind": 325,
+ "expand": 351,
+ "celebrate": 652,
+ "cta": 712,
+ "total": 795,
+ "badge": "+1 integrity",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

@@ -1,0 +1,118 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "geld-lenen",
+ "pillar": "grenzen",
+ "caption": "When your friend needs money:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Hey, could you lend me some money?",
+   "at": 10,
+   "until": 68
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um... how much?",
+   "at": 70,
+   "until": 104,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Just $50. Actually, maybe $200.",
+   "at": 106,
+   "until": 165
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "So... could you cover my whole month?",
+   "at": 167,
+   "until": 247
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Hey, could you lend me some money?",
+   "at": 303,
+   "until": 361
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I don't lend money, even to friends.",
+   "at": 363,
+   "until": 425,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "But I'm happy to help you think it through.",
+   "at": 427,
+   "until": 494,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Thanks. I needed a friend more than money.",
+   "at": 496,
+   "until": 616
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 96
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 157
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 219
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 419
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 484
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 592
+  }
+ ],
+ "nope": 231,
+ "crumble": 247,
+ "rewind": 267,
+ "expand": 293,
+ "celebrate": 566,
+ "cta": 626,
+ "total": 705,
+ "badge": "+1 boundary",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

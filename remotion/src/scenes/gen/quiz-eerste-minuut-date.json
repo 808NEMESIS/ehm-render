@@ -1,0 +1,92 @@
+{
+ "kind": "quiz",
+ "slug": "eerste-minuut-date",
+ "pillar": "daten_vriendschap",
+ "cast": "kennis",
+ "caption": "First date. Minute one:",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "prompt": {
+  "text": "Hi! You must be Sam?",
+  "at": 6,
+  "end": 40
+ },
+ "options": [
+  {
+   "letter": "A",
+   "text": "Good to finally meet in person. Was it easy to find?",
+   "correct": true,
+   "reaction": "So easy! I'm glad we did this.",
+   "mood": "blij",
+   "exit": false
+  },
+  {
+   "letter": "B",
+   "text": "So... you're Alex.",
+   "correct": false,
+   "reaction": "Yes. That's... my name.",
+   "mood": "frons",
+   "exit": false
+  },
+  {
+   "letter": "C",
+   "text": "I already picked names for our kids.",
+   "correct": false,
+   "reaction": "...I left my oven on.",
+   "mood": "verbaasd",
+   "exit": true
+  }
+ ],
+ "titleAt": 44,
+ "cardsAt": [
+  52,
+  57,
+  62
+ ],
+ "timerAt": 80,
+ "timerEnd": 170,
+ "reveals": [
+  {
+   "option": 1,
+   "pick": 180,
+   "sayAt": 186,
+   "sayEnd": 212,
+   "cutIn": 218,
+   "reactAt": 222,
+   "reactEnd": 257,
+   "cutOut": 269,
+   "stamp": 269
+  },
+  {
+   "option": 2,
+   "pick": 287,
+   "sayAt": 293,
+   "sayEnd": 348,
+   "cutIn": 354,
+   "reactAt": 358,
+   "reactEnd": 389,
+   "cutOut": 411,
+   "stamp": 411
+  },
+  {
+   "option": 0,
+   "pick": 429,
+   "sayAt": 435,
+   "sayEnd": 521,
+   "cutIn": 527,
+   "reactAt": 531,
+   "reactEnd": 581,
+   "cutOut": 593,
+   "stamp": 593
+  }
+ ],
+ "correct": 0,
+ "celebrate": 607,
+ "cta": 671,
+ "total": 765,
+ "badge": "+1 confidence",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "collega-vraagt-salaris",
+ "pillar": "grenzen",
+ "caption": "When a coworker asks your salary:",
+ "hook": "Don't say “Uh... why, what do you make?”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "collega",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Can I ask... what do you make?",
+   "at": 10,
+   "until": 64
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Uh... why, what do you make?",
+   "at": 66,
+   "until": 123,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Let's never speak of this again.",
+   "at": 125,
+   "until": 196
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Can I ask... what do you make?",
+   "at": 252,
+   "until": 306
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'd rather not share my exact number.",
+   "at": 308,
+   "until": 371,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Yes please. That's exactly what I need.",
+   "at": 373,
+   "until": 457
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 117
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 168
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 361
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 463
+  }
+ ],
+ "nope": 180,
+ "crumble": 196,
+ "rewind": 216,
+ "expand": 242,
+ "celebrate": 437,
+ "cta": 467,
+ "total": 525,
+ "badge": "+1 tact",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

@@ -1,0 +1,127 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "nog-vragen",
+ "pillar": "werk",
+ "caption": "End of the job interview:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Any questions for us?",
+   "at": 10,
+   "until": 60
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "No, I think you covered everything.",
+   "at": 62,
+   "until": 134,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Nothing at all? Hm.",
+   "at": 136,
+   "until": 196
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Maybe.",
+   "at": 198,
+   "until": 249
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Any questions for us?",
+   "at": 305,
+   "until": 355
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What does success look like in this role after six months?",
+   "at": 357,
+   "until": 456,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Great question. Owning the roadmap.",
+   "at": 458,
+   "until": 534
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What do you enjoy most about working here?",
+   "at": 536,
+   "until": 608,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Honestly? The people. You'd fit right in.",
+   "at": 610,
+   "until": 742
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 126
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 188
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 221
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 448
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 598
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 718
+  }
+ ],
+ "nope": 233,
+ "crumble": 249,
+ "rewind": 269,
+ "expand": 295,
+ "celebrate": 692,
+ "cta": 752,
+ "total": 840,
+ "badge": "+1 interview",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "voice",
+ "voice": "kokoro"
+}

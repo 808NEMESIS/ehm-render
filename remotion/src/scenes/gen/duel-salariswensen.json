@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "salariswensen",
+ "pillar": "werk",
+ "caption": "When they ask your salary expectations:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "What salary are you looking for?",
+   "at": 10,
+   "until": 63
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, whatever you usually pay is fine.",
+   "at": 65,
+   "until": 139,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Whatever we usually pay? Interesting.",
+   "at": 141,
+   "until": 213
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Perfect. Welcome to the sandwich package.",
+   "at": 215,
+   "until": 301
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "What salary are you looking for?",
+   "at": 357,
+   "until": 410
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Could you share the range for this role first?",
+   "at": 412,
+   "until": 473,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Our range is $65,000 to $85,000.",
+   "at": 475,
+   "until": 516
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Based on my experience, I'm looking at $70,000 to $80,000.",
+   "at": 518,
+   "until": 610,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Great. I was worried you'd ask for sandwiches.",
+   "at": 612,
+   "until": 736
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 131
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 205
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 273
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 465
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 600
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 712
+  }
+ ],
+ "nope": 285,
+ "crumble": 301,
+ "rewind": 321,
+ "expand": 347,
+ "celebrate": 686,
+ "cta": 746,
+ "total": 825,
+ "badge": "+1 confidence",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

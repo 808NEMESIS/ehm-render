@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "jobaanbod-reageren",
+ "pillar": "werk",
+ "caption": "When they offer you the job:",
+ "hook": "Don't say “Yes! I accept! When can I start?”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Congrats! We'd love to offer you the job.",
+   "at": 10,
+   "until": 78
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Yes! I accept! When can I start?",
+   "at": 80,
+   "until": 147,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "And weekends are... flexible. Welcome aboard!",
+   "at": 149,
+   "until": 242
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Congrats! We'd love to offer you the job.",
+   "at": 298,
+   "until": 366
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Thank you, I'm really excited about this offer.",
+   "at": 368,
+   "until": 452,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Sure. I'll include the signing bonus too.",
+   "at": 454,
+   "until": 542
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 141
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 214
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 442
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 548
+  }
+ ],
+ "nope": 226,
+ "crumble": 242,
+ "rewind": 262,
+ "expand": 288,
+ "celebrate": 522,
+ "cta": 552,
+ "total": 600,
+ "badge": "+1 leverage",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

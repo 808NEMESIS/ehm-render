@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "vriend-altijd-te-laat",
+ "pillar": "grenzen",
+ "caption": "Your friend, 40 minutes late:",
+ "hook": "Don't say “Haha, no worries! Again.”",
+ "verdict": true,
+ "setting": "restaurant",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Sorry, sorry! Traffic was crazy.",
+   "at": 10,
+   "until": 75
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Haha, no worries! Again.",
+   "at": 77,
+   "until": 136,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Knew you wouldn't mind. You're so easy.",
+   "at": 138,
+   "until": 198
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Oh, I invited Sam. He's even later.",
+   "at": 200,
+   "until": 299
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Sorry, sorry! Traffic was crazy.",
+   "at": 355,
+   "until": 420
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Hey, I've noticed we're often starting late.",
+   "at": 422,
+   "until": 494,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Yeah... that's fair.",
+   "at": 496,
+   "until": 526
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Next time, can we pick a time we can both make?",
+   "at": 528,
+   "until": 610,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Deal. I'll set an alarm this time.",
+   "at": 612,
+   "until": 722
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 128
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 190
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 271
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 486
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 600
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 698
+  }
+ ],
+ "nope": 283,
+ "crumble": 299,
+ "rewind": 319,
+ "expand": 345,
+ "celebrate": 672,
+ "cta": 732,
+ "total": 810,
+ "badge": "+1 self-respect",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

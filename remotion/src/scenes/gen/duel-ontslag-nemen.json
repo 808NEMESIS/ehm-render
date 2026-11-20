@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "ontslag-nemen",
+ "pillar": "werk",
+ "caption": "Telling your boss you're leaving:",
+ "hook": "Don't say “So, um, I don't really know how to say this, but...”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#F7A8C4",
+  "deep": "#E07CA2",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "You wanted to talk? I've got five minutes.",
+   "at": 10,
+   "until": 82
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "So, um, I don't really know how to say this, but...",
+   "at": 84,
+   "until": 184,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Wait... are you breaking up with me?",
+   "at": 186,
+   "until": 246
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Fine. Then who's doing the Henderson report?",
+   "at": 248,
+   "until": 336
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "You wanted to talk? I've got five minutes.",
+   "at": 392,
+   "until": 464
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I wanted to tell you first: I've accepted another job.",
+   "at": 466,
+   "until": 553,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Oh. Wow. Congratulations.",
+   "at": 555,
+   "until": 608
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'll make sure the handover goes smoothly.",
+   "at": 610,
+   "until": 673,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Thank you. Honestly, that's how it should go.",
+   "at": 675,
+   "until": 802
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 176
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 238
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 308
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 545
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 663
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 778
+  }
+ ],
+ "nope": 320,
+ "crumble": 336,
+ "rewind": 356,
+ "expand": 382,
+ "celebrate": 752,
+ "cta": 812,
+ "total": 900,
+ "badge": "+1 professional",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

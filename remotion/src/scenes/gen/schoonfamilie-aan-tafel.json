@@ -1,0 +1,123 @@
+{
+ "slug": "schoonfamilie-aan-tafel",
+ "caption": "Dinner with your partner's family:",
+ "setting": "restaurant",
+ "cast": "kennis",
+ "gag": "stapel",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "shots": true,
+ "gagObject": "sandwich",
+ "clockSpin": false,
+ "total": 840,
+ "freeze": 240,
+ "rewindStart": 258,
+ "rewindEnd": 308,
+ "goodStart": 318,
+ "lines": [
+  {
+   "who": "kennis",
+   "text": "So... do you like the soup?",
+   "at": 8,
+   "until": 90
+  },
+  {
+   "who": "ehm",
+   "text": "Um... great food.",
+   "at": 60,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "kennis",
+   "text": "...More soup?",
+   "at": 92,
+   "until": 109
+  },
+  {
+   "who": "kennis",
+   "text": "So. The weather.",
+   "at": 111,
+   "until": 145
+  },
+  {
+   "who": "kennis",
+   "text": "Should we just eat in silence?",
+   "at": 147,
+   "until": 192
+  },
+  {
+   "who": "kennis",
+   "text": "I'll get more soup, then.",
+   "at": 194,
+   "until": 999
+  },
+  {
+   "who": "kennis",
+   "text": "So... do you like the soup?",
+   "at": 330,
+   "until": 427
+  },
+  {
+   "who": "ehm",
+   "text": "What was Sam like as a kid?",
+   "at": 382,
+   "until": 508,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Oh, a total menace. Climbed everything!",
+   "at": 429,
+   "until": 603
+  },
+  {
+   "who": "ehm",
+   "text": "Ha, that explains a lot. What were you like at that age?",
+   "at": 510,
+   "until": 672,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Me? Even worse. Don't tell Sam.",
+   "at": 605,
+   "until": 672
+  }
+ ],
+ "papers": [
+  108,
+  122,
+  132,
+  140,
+  148,
+  155,
+  162,
+  169,
+  175,
+  182,
+  188,
+  194,
+  199,
+  205,
+  211,
+  216,
+  221,
+  227,
+  232,
+  237
+ ],
+ "frontStack": 12,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 625,
+  "until": 765
+ },
+ "bossExit": 672,
+ "bossReturn": 768,
+ "celebrate": 684,
+ "badge": "+1 family"
+}

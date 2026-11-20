@@ -1,0 +1,118 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "heb-je-even",
+ "pillar": "grenzen",
+ "caption": "Your boss, right before your deadline:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Hey, got a sec?",
+   "at": 10,
+   "until": 46
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Uh, sure...",
+   "at": 48,
+   "until": 76,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "It's a quick one. Just the slides.",
+   "at": 78,
+   "until": 138
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Thanks! You're a lifesaver.",
+   "at": 140,
+   "until": 210
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Hey, got a sec?",
+   "at": 266,
+   "until": 302
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Right now I can't, I'm up against a deadline.",
+   "at": 304,
+   "until": 378,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Can we do 3pm? Then you'll have my full attention.",
+   "at": 380,
+   "until": 464,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Oh thank god. I haven't even started the slides.",
+   "at": 466,
+   "until": 600
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 68
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 130
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 182
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 372
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 454
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 576
+  }
+ ],
+ "nope": 194,
+ "crumble": 210,
+ "rewind": 230,
+ "expand": 256,
+ "celebrate": 550,
+ "cta": 610,
+ "total": 690,
+ "badge": "+1 courage",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

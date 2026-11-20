@@ -1,0 +1,92 @@
+{
+ "kind": "quiz",
+ "slug": "vriend-maken-na-les",
+ "pillar": "daten_vriendschap",
+ "cast": "kennis",
+ "caption": "After class. You liked them:",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "prompt": {
+  "text": "Okay, see you around, I guess!",
+  "at": 6,
+  "end": 61
+ },
+ "options": [
+  {
+   "letter": "A",
+   "text": "Okay, bye!",
+   "correct": false,
+   "reaction": "...Bye then.",
+   "mood": "frons",
+   "exit": false
+  },
+  {
+   "letter": "B",
+   "text": "Can I follow you home?",
+   "correct": false,
+   "reaction": "...I'm calling a cab.",
+   "mood": "verbaasd",
+   "exit": true
+  },
+  {
+   "letter": "C",
+   "text": "You were really good today. How long have you been doing this?",
+   "correct": true,
+   "reaction": "Three years! Want to grab a coffee?",
+   "mood": "lach",
+   "exit": false
+  }
+ ],
+ "titleAt": 65,
+ "cardsAt": [
+  73,
+  78,
+  83
+ ],
+ "timerAt": 101,
+ "timerEnd": 191,
+ "reveals": [
+  {
+   "option": 0,
+   "pick": 201,
+   "sayAt": 207,
+   "sayEnd": 227,
+   "cutIn": 233,
+   "reactAt": 237,
+   "reactEnd": 246,
+   "cutOut": 258,
+   "stamp": 258
+  },
+  {
+   "option": 1,
+   "pick": 276,
+   "sayAt": 282,
+   "sayEnd": 313,
+   "cutIn": 319,
+   "reactAt": 323,
+   "reactEnd": 348,
+   "cutOut": 370,
+   "stamp": 370
+  },
+  {
+   "option": 2,
+   "pick": 388,
+   "sayAt": 394,
+   "sayEnd": 478,
+   "cutIn": 484,
+   "reactAt": 488,
+   "reactEnd": 538,
+   "cutOut": 550,
+   "stamp": 550
+  }
+ ],
+ "correct": 2,
+ "celebrate": 564,
+ "cta": 628,
+ "total": 720,
+ "badge": "+1 new friend",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

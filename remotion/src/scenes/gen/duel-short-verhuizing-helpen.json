@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "verhuizing-helpen",
+ "pillar": "grenzen",
+ "caption": "Your friend is moving:",
+ "hook": "Don't say “Um... which weekend was it again?”",
+ "verdict": true,
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#8FB3E8",
+  "deep": "#5E86C4",
+  "acc": "knot"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Can you help me move Saturday?",
+   "at": 10,
+   "until": 59
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um... which weekend was it again?",
+   "at": 61,
+   "until": 119,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "You're the only one who said yes!",
+   "at": 121,
+   "until": 194
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Can you help me move Saturday?",
+   "at": 250,
+   "until": 299
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I won't be helping with the heavy lifting this time.",
+   "at": 301,
+   "until": 382,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Pizza? You're officially my favorite friend.",
+   "at": 384,
+   "until": 478
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 113
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 166
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 372
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 484
+  }
+ ],
+ "nope": 178,
+ "crumble": 194,
+ "rewind": 214,
+ "expand": 240,
+ "celebrate": 458,
+ "cta": 488,
+ "total": 540,
+ "badge": "+1 boundary",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

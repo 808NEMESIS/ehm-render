@@ -1,0 +1,92 @@
+{
+ "kind": "quiz",
+ "slug": "stil-in-de-auto",
+ "pillar": "small_talk",
+ "cast": "collega",
+ "caption": "Car ride. Nobody's talking:",
+ "outfit": {
+  "body": "#8FB3E8",
+  "deep": "#5E86C4",
+  "acc": "knot"
+ },
+ "prompt": {
+  "text": "So, uh... long drive, huh?",
+  "at": 6,
+  "end": 54
+ },
+ "options": [
+  {
+   "letter": "A",
+   "text": "What are you up to this weekend?",
+   "correct": true,
+   "reaction": "Camping! Want to see photos?",
+   "mood": "blij",
+   "exit": false
+  },
+  {
+   "letter": "B",
+   "text": "So... the weather, huh?",
+   "correct": false,
+   "reaction": "Yep. It's... weather.",
+   "mood": "neutraal",
+   "exit": false
+  },
+  {
+   "letter": "C",
+   "text": "Want to hear my podcast about spreadsheets?",
+   "correct": false,
+   "reaction": "...I'll turn the radio up.",
+   "mood": "verbaasd",
+   "exit": false
+  }
+ ],
+ "titleAt": 58,
+ "cardsAt": [
+  66,
+  71,
+  76
+ ],
+ "timerAt": 94,
+ "timerEnd": 184,
+ "reveals": [
+  {
+   "option": 1,
+   "pick": 194,
+   "sayAt": 200,
+   "sayEnd": 239,
+   "cutIn": 245,
+   "reactAt": 249,
+   "reactEnd": 282,
+   "cutOut": 294,
+   "stamp": 294
+  },
+  {
+   "option": 2,
+   "pick": 312,
+   "sayAt": 318,
+   "sayEnd": 369,
+   "cutIn": 375,
+   "reactAt": 379,
+   "reactEnd": 410,
+   "cutOut": 422,
+   "stamp": 422
+  },
+  {
+   "option": 0,
+   "pick": 440,
+   "sayAt": 446,
+   "sayEnd": 489,
+   "cutIn": 495,
+   "reactAt": 499,
+   "reactEnd": 541,
+   "cutOut": 553,
+   "stamp": 553
+  }
+ ],
+ "correct": 0,
+ "celebrate": 567,
+ "cta": 631,
+ "total": 720,
+ "badge": "+1 conversation",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

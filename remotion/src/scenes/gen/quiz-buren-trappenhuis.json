@@ -1,0 +1,92 @@
+{
+ "kind": "quiz",
+ "slug": "buren-trappenhuis",
+ "pillar": "small_talk",
+ "cast": "kennis",
+ "caption": "The neighbor you never talk to:",
+ "outfit": {
+  "body": "#F2D16B",
+  "deep": "#D9B23F",
+  "acc": "knot"
+ },
+ "prompt": {
+  "text": "Oh, hi! Do you live here too?",
+  "at": 6,
+  "end": 59
+ },
+ "options": [
+  {
+   "letter": "A",
+   "text": "Hey.",
+   "correct": false,
+   "reaction": "...Okay then.",
+   "mood": "frons",
+   "exit": false
+  },
+  {
+   "letter": "B",
+   "text": "No, I just like your hallway.",
+   "correct": false,
+   "reaction": "...I'm calling the landlord.",
+   "mood": "verbaasd",
+   "exit": true
+  },
+  {
+   "letter": "C",
+   "text": "Hi, I'm Sam from 4B. I don't think we've properly met.",
+   "correct": true,
+   "reaction": "Finally! I'm Jo from 4A.",
+   "mood": "blij",
+   "exit": false
+  }
+ ],
+ "titleAt": 63,
+ "cardsAt": [
+  71,
+  76,
+  81
+ ],
+ "timerAt": 99,
+ "timerEnd": 189,
+ "reveals": [
+  {
+   "option": 0,
+   "pick": 199,
+   "sayAt": 205,
+   "sayEnd": 208,
+   "cutIn": 214,
+   "reactAt": 218,
+   "reactEnd": 231,
+   "cutOut": 243,
+   "stamp": 243
+  },
+  {
+   "option": 1,
+   "pick": 261,
+   "sayAt": 267,
+   "sayEnd": 311,
+   "cutIn": 317,
+   "reactAt": 321,
+   "reactEnd": 350,
+   "cutOut": 372,
+   "stamp": 372
+  },
+  {
+   "option": 2,
+   "pick": 390,
+   "sayAt": 396,
+   "sayEnd": 481,
+   "cutIn": 487,
+   "reactAt": 491,
+   "reactEnd": 533,
+   "cutOut": 545,
+   "stamp": 545
+  }
+ ],
+ "correct": 2,
+ "celebrate": 559,
+ "cta": 623,
+ "total": 720,
+ "badge": "+1 neighbor",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

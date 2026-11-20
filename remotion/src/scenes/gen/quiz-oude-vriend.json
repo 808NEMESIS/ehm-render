@@ -1,0 +1,92 @@
+{
+ "kind": "quiz",
+ "slug": "oude-vriend",
+ "pillar": "daten_vriendschap",
+ "cast": "kennis",
+ "caption": "A friend you lost touch with:",
+ "outfit": {
+  "body": "#8FB3E8",
+  "deep": "#5E86C4",
+  "acc": "knot"
+ },
+ "prompt": {
+  "text": "Oh wow, it's been forever!",
+  "at": 6,
+  "end": 48
+ },
+ "options": [
+  {
+   "letter": "A",
+   "text": "Hey, long time haha",
+   "correct": false,
+   "reaction": "Yeah... haha.",
+   "mood": "neutraal",
+   "exit": false
+  },
+  {
+   "letter": "B",
+   "text": "Why didn't you ever call me?!",
+   "correct": false,
+   "reaction": "...Okay, bye.",
+   "mood": "frons",
+   "exit": true
+  },
+  {
+   "letter": "C",
+   "text": "Thought of you today because of that terrible karaoke night.",
+   "correct": true,
+   "reaction": "Oh no, the duet! I have video.",
+   "mood": "lach",
+   "exit": false
+  }
+ ],
+ "titleAt": 52,
+ "cardsAt": [
+  60,
+  65,
+  70
+ ],
+ "timerAt": 88,
+ "timerEnd": 178,
+ "reveals": [
+  {
+   "option": 0,
+   "pick": 188,
+   "sayAt": 194,
+   "sayEnd": 226,
+   "cutIn": 232,
+   "reactAt": 236,
+   "reactEnd": 256,
+   "cutOut": 268,
+   "stamp": 268
+  },
+  {
+   "option": 1,
+   "pick": 286,
+   "sayAt": 292,
+   "sayEnd": 329,
+   "cutIn": 335,
+   "reactAt": 339,
+   "reactEnd": 359,
+   "cutOut": 381,
+   "stamp": 381
+  },
+  {
+   "option": 2,
+   "pick": 399,
+   "sayAt": 405,
+   "sayEnd": 478,
+   "cutIn": 484,
+   "reactAt": 488,
+   "reactEnd": 545,
+   "cutOut": 557,
+   "stamp": 557
+  }
+ ],
+ "correct": 2,
+ "celebrate": 571,
+ "cta": 635,
+ "total": 720,
+ "badge": "+1 friendship",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "ehm-club-remotion",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Ehm als Remotion-component en de templates voor carrousels en video's",
+  "scripts": {
+    "studio": "remotion studio",
+    "render:video": "remotion render EhmVideo out/video.mp4",
+    "render:carrousel": "remotion render Carrousel out/carrousel --sequence --image-format=png",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.535",
+    "@remotion/fonts": "4.0.535",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.535"
+  },
+  "devDependencies": {
+    "@fontsource/fredoka": "5.2.8",
+    "@fontsource/nunito": "5.2.7",
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}

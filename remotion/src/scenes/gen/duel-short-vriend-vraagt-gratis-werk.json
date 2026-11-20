@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "vriend-vraagt-gratis-werk",
+ "pillar": "grenzen",
+ "caption": "When a friend wants a freebie:",
+ "hook": "Don't say “Oh, sure, it's probably quick...”",
+ "verdict": true,
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "You're good at logos, right? Quick favor?",
+   "at": 10,
+   "until": 79
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Oh, sure, it's probably quick...",
+   "at": 81,
+   "until": 140,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "My cousin needs one too. Thanks, bestie!",
+   "at": 142,
+   "until": 233
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "You're good at logos, right? Quick favor?",
+   "at": 289,
+   "until": 358
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "This is the kind of work I normally charge for.",
+   "at": 360,
+   "until": 437,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Yes please. I'd rather pay a pro.",
+   "at": 439,
+   "until": 519
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 134
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 205
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 427
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 525
+  }
+ ],
+ "nope": 217,
+ "crumble": 233,
+ "rewind": 253,
+ "expand": 279,
+ "celebrate": 499,
+ "cta": 529,
+ "total": 585,
+ "badge": "+1 worth",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

@@ -1,0 +1,127 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "feestje-afzeggen",
+ "pillar": "grenzen",
+ "caption": "Invited to a party you'd skip:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Party at mine Saturday! You in?",
+   "at": 10,
+   "until": 84
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "I'll try to make it...",
+   "at": 86,
+   "until": 131,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Great! I'll put you down.",
+   "at": 133,
+   "until": 194
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "I told everyone you're the main act!",
+   "at": 196,
+   "until": 294
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Party at mine Saturday! You in?",
+   "at": 350,
+   "until": 424
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm going to sit this one out.",
+   "at": 426,
+   "until": 482,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Aw. Totally fine!",
+   "at": 484,
+   "until": 537
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Coffee next week instead?",
+   "at": 539,
+   "until": 594,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Yes! I hate parties. I'm only hosting for Tom.",
+   "at": 596,
+   "until": 750
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 123
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 186
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 266
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 474
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 584
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 726
+  }
+ ],
+ "nope": 278,
+ "crumble": 294,
+ "rewind": 314,
+ "expand": 340,
+ "celebrate": 700,
+ "cta": 760,
+ "total": 840,
+ "badge": "+1 honesty",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "voice",
+ "voice": "kokoro"
+}

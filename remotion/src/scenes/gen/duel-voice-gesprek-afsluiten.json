@@ -1,0 +1,127 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "gesprek-afsluiten",
+ "pillar": "ongemak",
+ "caption": "When the conversation won't end:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "And that's just the first trail!",
+   "at": 10,
+   "until": 74
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, yeah... well... yeah.",
+   "at": 76,
+   "until": 135,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Then there's the second trail.",
+   "at": 137,
+   "until": 203
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Wait, there's also a third trail!",
+   "at": 205,
+   "until": 297
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "And that's just the first trail!",
+   "at": 353,
+   "until": 417
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'll let you go in a sec, but first: that hiking tip was great.",
+   "at": 419,
+   "until": 530,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Oh! Glad you liked it.",
+   "at": 532,
+   "until": 587
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm going to go mingle. Catch you later!",
+   "at": 589,
+   "until": 663,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Thank god. My feet are killing me.",
+   "at": 665,
+   "until": 790
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 127
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 195
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 269
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 522
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 653
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 766
+  }
+ ],
+ "nope": 281,
+ "crumble": 297,
+ "rewind": 317,
+ "expand": 343,
+ "celebrate": 740,
+ "cta": 800,
+ "total": 885,
+ "badge": "+1 exit",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "voice",
+ "voice": "kokoro"
+}

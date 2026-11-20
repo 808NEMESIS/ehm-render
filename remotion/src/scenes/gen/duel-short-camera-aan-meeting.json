@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "camera-aan-meeting",
+ "pillar": "werk",
+ "caption": "Your boss, on the video call:",
+ "hook": "Don't say “Um, sorry, I look terrible today.”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Can everyone turn their cameras on?",
+   "at": 10,
+   "until": 67
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, sorry, I look terrible today.",
+   "at": 69,
+   "until": 138,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Great! Now share your screen too.",
+   "at": 140,
+   "until": 210
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Can everyone turn their cameras on?",
+   "at": 266,
+   "until": 323
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm keeping my camera off today.",
+   "at": 325,
+   "until": 386,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Honestly? Mine's off too. I'm in pajamas.",
+   "at": 388,
+   "until": 491
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 132
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 182
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 376
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 497
+  }
+ ],
+ "nope": 194,
+ "crumble": 210,
+ "rewind": 230,
+ "expand": 256,
+ "celebrate": 471,
+ "cta": 501,
+ "total": 555,
+ "badge": "+1 boundaries",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

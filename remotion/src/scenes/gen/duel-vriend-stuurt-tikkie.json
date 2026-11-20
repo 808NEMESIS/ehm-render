@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "vriend-stuurt-tikkie",
+ "pillar": "grenzen",
+ "caption": "When the bill gets split evenly:",
+ "hook": "Don't say “Oh, okay, I'll just pay it.”",
+ "verdict": true,
+ "setting": "restaurant",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "So that's 80 each. Easy, right?",
+   "at": 10,
+   "until": 69
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Oh, okay, I'll just pay it.",
+   "at": 71,
+   "until": 134,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Great! And you'll cover the tip?",
+   "at": 136,
+   "until": 190
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Same time next week? Your treat!",
+   "at": 192,
+   "until": 262
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "So that's 80 each. Easy, right?",
+   "at": 318,
+   "until": 377
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Hey, I think the split might be off.",
+   "at": 379,
+   "until": 441,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Oh? What did you have?",
+   "at": 443,
+   "until": 485
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Could we split it based on what we ordered?",
+   "at": 487,
+   "until": 562,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Fair. You had water. I had lobster.",
+   "at": 564,
+   "until": 685
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 126
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 182
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 234
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 433
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 552
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 661
+  }
+ ],
+ "nope": 246,
+ "crumble": 262,
+ "rewind": 282,
+ "expand": 308,
+ "celebrate": 635,
+ "cta": 695,
+ "total": 780,
+ "badge": "+1 wallet",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

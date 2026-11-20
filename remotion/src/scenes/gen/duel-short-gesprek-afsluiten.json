@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "gesprek-afsluiten",
+ "pillar": "ongemak",
+ "caption": "When the conversation won't end:",
+ "hook": "Don't say “Um, yeah... well... yeah.”",
+ "verdict": true,
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "And that's just the first trail!",
+   "at": 10,
+   "until": 51
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, yeah... well... yeah.",
+   "at": 53,
+   "until": 105,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Wait, there's also a third trail!",
+   "at": 107,
+   "until": 185
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "And that's just the first trail!",
+   "at": 241,
+   "until": 282
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'll let you go in a sec, but first: that hiking tip was great.",
+   "at": 284,
+   "until": 388,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Thank god. My feet are killing me.",
+   "at": 390,
+   "until": 470
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 99
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 157
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 378
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 476
+  }
+ ],
+ "nope": 169,
+ "crumble": 185,
+ "rewind": 205,
+ "expand": 231,
+ "celebrate": 450,
+ "cta": 480,
+ "total": 525,
+ "badge": "+1 exit",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "korte-antwoorden",
+ "pillar": "small_talk",
+ "caption": "When they only say 'fine':",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Just got back from Rome.",
+   "at": 10,
+   "until": 45
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "So, was it good?",
+   "at": 47,
+   "until": 87,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Yeah.",
+   "at": 89,
+   "until": 102
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Anyway.",
+   "at": 104,
+   "until": 145
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Just got back from Rome.",
+   "at": 201,
+   "until": 236
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What was the best part?",
+   "at": 238,
+   "until": 275,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Getting lost. Seriously.",
+   "at": 277,
+   "until": 319
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Tell me more, how did that happen?",
+   "at": 321,
+   "until": 383,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Nobody ever asks! Okay, so we missed our train...",
+   "at": 385,
+   "until": 530
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 79
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 94
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 117
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 267
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 373
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 506
+  }
+ ],
+ "nope": 129,
+ "crumble": 145,
+ "rewind": 165,
+ "expand": 191,
+ "celebrate": 480,
+ "cta": 540,
+ "total": 615,
+ "badge": "+1 conversation",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

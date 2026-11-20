@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "vriend-vraagt-gratis-werk",
+ "pillar": "grenzen",
+ "caption": "When a friend wants a freebie:",
+ "hook": "Don't say “Oh, sure, it's probably quick...”",
+ "verdict": true,
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "You're good at logos, right? Quick favor?",
+   "at": 10,
+   "until": 79
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Oh, sure, it's probably quick...",
+   "at": 81,
+   "until": 142,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Great! And a website. It's small.",
+   "at": 144,
+   "until": 205
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "My cousin needs one too. Thanks, bestie!",
+   "at": 207,
+   "until": 298
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "You're good at logos, right? Quick favor?",
+   "at": 354,
+   "until": 423
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "This is the kind of work I normally charge for.",
+   "at": 425,
+   "until": 500,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Oh, right. I didn't think of that.",
+   "at": 502,
+   "until": 563
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Want me to send you my rates?",
+   "at": 565,
+   "until": 620,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Yes please. I'd rather pay a pro.",
+   "at": 622,
+   "until": 732
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 134
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 197
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 270
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 492
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 610
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 708
+  }
+ ],
+ "nope": 282,
+ "crumble": 298,
+ "rewind": 318,
+ "expand": 344,
+ "celebrate": 682,
+ "cta": 742,
+ "total": 825,
+ "badge": "+1 worth",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

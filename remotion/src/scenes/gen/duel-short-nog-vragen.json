@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "nog-vragen",
+ "pillar": "werk",
+ "caption": "End of the job interview:",
+ "hook": "Don't say “No, I think you covered everything.”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Any questions for us?",
+   "at": 10,
+   "until": 47
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "No, I think you covered everything.",
+   "at": 49,
+   "until": 119,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Maybe.",
+   "at": 121,
+   "until": 154
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Any questions for us?",
+   "at": 210,
+   "until": 247
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What does success look like in this role after six months?",
+   "at": 249,
+   "until": 332,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Honestly? The people. You'd fit right in.",
+   "at": 334,
+   "until": 425
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 113
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 126
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 322
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 431
+  }
+ ],
+ "nope": 138,
+ "crumble": 154,
+ "rewind": 174,
+ "expand": 200,
+ "celebrate": 405,
+ "cta": 435,
+ "total": 480,
+ "badge": "+1 interview",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

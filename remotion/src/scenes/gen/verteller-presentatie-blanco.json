@@ -1,0 +1,100 @@
+{
+ "kind": "verteller",
+ "slug": "presentatie-blanco",
+ "pillar": "ongemak",
+ "caption": "Mid-presentation, your mind goes blank:",
+ "hook": "Do you ever freeze up when your mind goes blank in a presentation?",
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#F2D16B",
+  "deep": "#D9B23F",
+  "acc": "knot"
+ },
+ "narration": [
+  {
+   "part": "hook",
+   "text": "Do you ever freeze up when your mind goes blank in a presentation?",
+   "at": 12,
+   "end": 128,
+   "until": 134
+  },
+  {
+   "part": "scene",
+   "text": "Everyone is looking at you. Then your boss asks.",
+   "at": 152,
+   "end": 243,
+   "until": 249
+  },
+  {
+   "part": "panic",
+   "text": "Your mind goes blank.",
+   "at": 329,
+   "end": 380,
+   "until": 386
+  },
+  {
+   "part": "turn",
+   "text": "Here's what to say instead.",
+   "at": 398,
+   "end": 449,
+   "until": 455
+  },
+  {
+   "part": "cta",
+   "text": "Save this for the next time it happens.",
+   "at": 758,
+   "end": 826,
+   "until": 832
+  }
+ ],
+ "lines": [
+  {
+   "who": "baas",
+   "text": "So... what's the main takeaway here?",
+   "at": 251,
+   "end": 309,
+   "until": 392
+  },
+  {
+   "who": "ehm",
+   "text": "Let me take a second to find my place.",
+   "at": 459,
+   "end": 518,
+   "until": 524,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "Of course. Take your time.",
+   "at": 526,
+   "end": 570,
+   "until": 576
+  },
+  {
+   "who": "ehm",
+   "text": "The key point here is: we're two weeks ahead.",
+   "at": 578,
+   "end": 643,
+   "until": 651,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "Two weeks ahead? That's great news.",
+   "at": 653,
+   "end": 716,
+   "until": 746
+  }
+ ],
+ "scene": 142,
+ "panic": 315,
+ "turn": 392,
+ "good": 459,
+ "celebrate": 722,
+ "cta": 752,
+ "total": 870,
+ "badge": "+1 composure",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "voice": "kokoro"
+}

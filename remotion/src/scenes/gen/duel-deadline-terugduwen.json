@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "deadline-terugduwen",
+ "pillar": "grenzen",
+ "caption": "Your boss, at 5 PM:",
+ "hook": "Don't say “Sure, no problem, I'll make it work...”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#8FB3E8",
+  "deep": "#5E86C4",
+  "acc": "knot"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "I need the full report by tomorrow.",
+   "at": 10,
+   "until": 69
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Sure, no problem, I'll make it work...",
+   "at": 71,
+   "until": 140,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Great! And the slides as well, then.",
+   "at": 142,
+   "until": 209
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "You're amazing. Same thing next week?",
+   "at": 211,
+   "until": 289
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "I need the full report by tomorrow.",
+   "at": 345,
+   "until": 404
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Tomorrow isn't realistic with what's on my plate.",
+   "at": 406,
+   "until": 477,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Hmm. It's for the client...",
+   "at": 479,
+   "until": 521
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I can do Thursday, or drop something else. Which do you prefer?",
+   "at": 523,
+   "until": 634,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Thursday works. The client can wait a day.",
+   "at": 636,
+   "until": 752
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 132
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 201
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 261
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 469
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 624
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 728
+  }
+ ],
+ "nope": 273,
+ "crumble": 289,
+ "rewind": 309,
+ "expand": 335,
+ "celebrate": 702,
+ "cta": 762,
+ "total": 840,
+ "badge": "+1 sanity",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

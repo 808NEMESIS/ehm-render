@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "grootste-zwakte",
+ "pillar": "werk",
+ "caption": "Your greatest weakness?",
+ "hook": "Don't say “I'm a perfectionist.”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#F2D16B",
+  "deep": "#D9B23F",
+  "acc": "knot"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "What's your greatest weakness?",
+   "at": 10,
+   "until": 47
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "I'm a perfectionist.",
+   "at": 49,
+   "until": 86,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Same answer as everyone. Next!",
+   "at": 88,
+   "until": 164
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "What's your greatest weakness?",
+   "at": 220,
+   "until": 257
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I used to struggle with delegating.",
+   "at": 259,
+   "until": 320,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Finally, a real answer. I delegate badly too.",
+   "at": 322,
+   "until": 435
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 80
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 136
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 310
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 441
+  }
+ ],
+ "nope": 148,
+ "crumble": 164,
+ "rewind": 184,
+ "expand": 210,
+ "celebrate": 415,
+ "cta": 445,
+ "total": 495,
+ "badge": "+1 honesty",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

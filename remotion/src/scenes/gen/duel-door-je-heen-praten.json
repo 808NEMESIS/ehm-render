@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "door-je-heen-praten",
+ "pillar": "werk",
+ "caption": "When someone talks over you:",
+ "hook": "Don't say “Oh, sorry, you go ahead...”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "collega",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Sorry, quick thing, I just think we should—",
+   "at": 10,
+   "until": 81
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Oh, sorry, you go ahead...",
+   "at": 83,
+   "until": 144,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Great. So, my idea is way better.",
+   "at": 146,
+   "until": 217
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "So that's decided. Thanks, everyone. My idea.",
+   "at": 219,
+   "until": 329
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Sorry, quick thing, I just think we should—",
+   "at": 385,
+   "until": 456
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'd like to finish my point.",
+   "at": 458,
+   "until": 505,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Oh. Sorry, go ahead.",
+   "at": 507,
+   "until": 558
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "So, as I was saying: the budget is too tight.",
+   "at": 560,
+   "until": 640,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Good point. I hadn't thought of that.",
+   "at": 642,
+   "until": 748
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 136
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 209
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 301
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 497
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 630
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 724
+  }
+ ],
+ "nope": 313,
+ "crumble": 329,
+ "rewind": 349,
+ "expand": 375,
+ "celebrate": 698,
+ "cta": 758,
+ "total": 840,
+ "badge": "+1 voice",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

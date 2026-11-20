@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "presentatie-blanco",
+ "pillar": "ongemak",
+ "caption": "Mid-presentation, your mind goes blank:",
+ "hook": "Don't say “Sorry, sorry, I totally lost it...”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#F2D16B",
+  "deep": "#D9B23F",
+  "acc": "knot"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "So... what's the main takeaway here?",
+   "at": 10,
+   "until": 66
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Sorry, sorry, I totally lost it...",
+   "at": 68,
+   "until": 143,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Take your time. We have... all day.",
+   "at": 145,
+   "until": 208
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Let's just skip to the next presenter.",
+   "at": 210,
+   "until": 287
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "So... what's the main takeaway here?",
+   "at": 343,
+   "until": 399
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Let me take a second to find my place.",
+   "at": 401,
+   "until": 466,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Of course. Take your time.",
+   "at": 468,
+   "until": 510
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "The key point here is: we're two weeks ahead.",
+   "at": 512,
+   "until": 579,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Two weeks ahead? That's great news.",
+   "at": 581,
+   "until": 685
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 135
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 200
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 259
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 458
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 569
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 661
+  }
+ ],
+ "nope": 271,
+ "crumble": 287,
+ "rewind": 307,
+ "expand": 333,
+ "celebrate": 635,
+ "cta": 695,
+ "total": 780,
+ "badge": "+1 composure",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

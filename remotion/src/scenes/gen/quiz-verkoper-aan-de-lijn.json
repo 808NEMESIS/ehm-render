@@ -1,0 +1,92 @@
+{
+ "kind": "quiz",
+ "slug": "verkoper-aan-de-lijn",
+ "pillar": "grenzen",
+ "cast": "collega",
+ "caption": "The salesperson won't stop:",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "prompt": {
+  "text": "So, can I sign you up today?",
+  "at": 6,
+  "end": 56
+ },
+ "options": [
+  {
+   "letter": "A",
+   "text": "Um, let me think about it...",
+   "correct": false,
+   "reaction": "Great! I'll call you every day.",
+   "mood": "lach",
+   "exit": false
+  },
+  {
+   "letter": "B",
+   "text": "I'm not interested.",
+   "correct": true,
+   "reaction": "Oh. Okay, have a nice day!",
+   "mood": "opgelucht",
+   "exit": false
+  },
+  {
+   "letter": "C",
+   "text": "Sure, and sign up my grandma too.",
+   "correct": false,
+   "reaction": "...Wait, really?",
+   "mood": "verbaasd",
+   "exit": false
+  }
+ ],
+ "titleAt": 60,
+ "cardsAt": [
+  68,
+  73,
+  78
+ ],
+ "timerAt": 96,
+ "timerEnd": 186,
+ "reveals": [
+  {
+   "option": 0,
+   "pick": 196,
+   "sayAt": 202,
+   "sayEnd": 246,
+   "cutIn": 252,
+   "reactAt": 256,
+   "reactEnd": 304,
+   "cutOut": 316,
+   "stamp": 316
+  },
+  {
+   "option": 2,
+   "pick": 334,
+   "sayAt": 340,
+   "sayEnd": 390,
+   "cutIn": 396,
+   "reactAt": 400,
+   "reactEnd": 420,
+   "cutOut": 432,
+   "stamp": 432
+  },
+  {
+   "option": 1,
+   "pick": 450,
+   "sayAt": 456,
+   "sayEnd": 483,
+   "cutIn": 489,
+   "reactAt": 493,
+   "reactEnd": 544,
+   "cutOut": 556,
+   "stamp": 556
+  }
+ ],
+ "correct": 1,
+ "celebrate": 570,
+ "cta": 634,
+ "total": 720,
+ "badge": "+1 boundary",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

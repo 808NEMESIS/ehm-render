@@ -1,0 +1,100 @@
+{
+ "kind": "verteller",
+ "slug": "na-werktijd-appje",
+ "pillar": "grenzen",
+ "caption": "Your boss, at 9:47 PM:",
+ "hook": "Do you ever freeze up when your boss texts you at 9:47 PM?",
+ "setting": "keuken",
+ "cast": "baas",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "narration": [
+  {
+   "part": "hook",
+   "text": "Do you ever freeze up when your boss texts you at 9:47 PM?",
+   "at": 12,
+   "end": 151,
+   "until": 157
+  },
+  {
+   "part": "scene",
+   "text": "You're finally on the couch. Then your phone buzzes.",
+   "at": 175,
+   "end": 269,
+   "until": 275
+  },
+  {
+   "part": "panic",
+   "text": "Your mind goes blank.",
+   "at": 370,
+   "end": 421,
+   "until": 427
+  },
+  {
+   "part": "turn",
+   "text": "Here's what to say instead.",
+   "at": 439,
+   "end": 490,
+   "until": 496
+  },
+  {
+   "part": "cta",
+   "text": "Save this for the next time it happens.",
+   "at": 837,
+   "end": 905,
+   "until": 911
+  }
+ ],
+ "lines": [
+  {
+   "who": "baas",
+   "text": "Hey, quick thing. Can you fix the slides?",
+   "at": 277,
+   "end": 350,
+   "until": 433
+  },
+  {
+   "who": "ehm",
+   "text": "I'm offline for the evening, so I'll pick this up tomorrow.",
+   "at": 500,
+   "end": 591,
+   "until": 597,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "Wait, what if it can't wait?",
+   "at": 599,
+   "end": 642,
+   "until": 648
+  },
+  {
+   "who": "ehm",
+   "text": "If it's urgent, just call me.",
+   "at": 650,
+   "end": 694,
+   "until": 702,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "Not urgent. Tomorrow's fine. Enjoy your evening.",
+   "at": 704,
+   "end": 795,
+   "until": 825
+  }
+ ],
+ "scene": 165,
+ "panic": 356,
+ "turn": 433,
+ "good": 500,
+ "celebrate": 801,
+ "cta": 831,
+ "total": 945,
+ "badge": "+1 evening",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "voice": "kokoro"
+}

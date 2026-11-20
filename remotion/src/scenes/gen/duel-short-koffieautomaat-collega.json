@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "koffieautomaat-collega",
+ "pillar": "small_talk",
+ "caption": "At the coffee machine:",
+ "hook": "Don't say “Busy day, huh?”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "collega",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Morning.",
+   "at": 10,
+   "until": 25
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Busy day, huh?",
+   "at": 27,
+   "until": 63,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Anyway. Nice weather, huh?",
+   "at": 65,
+   "until": 142
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Morning.",
+   "at": 198,
+   "until": 213
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What are you working on these days?",
+   "at": 215,
+   "until": 270,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Wait, you're fun. Lunch tomorrow?",
+   "at": 272,
+   "until": 351
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 57
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 114
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 260
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 357
+  }
+ ],
+ "nope": 126,
+ "crumble": 142,
+ "rewind": 162,
+ "expand": 188,
+ "celebrate": 331,
+ "cta": 361,
+ "total": 420,
+ "badge": "+1 work friend",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

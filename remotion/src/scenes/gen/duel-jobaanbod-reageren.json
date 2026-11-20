@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "jobaanbod-reageren",
+ "pillar": "werk",
+ "caption": "When they offer you the job:",
+ "hook": "Don't say “Yes! I accept! When can I start?”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Congrats! We'd love to offer you the job.",
+   "at": 10,
+   "until": 78
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Yes! I accept! When can I start?",
+   "at": 80,
+   "until": 149,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Great! So the salary's a bit lower.",
+   "at": 151,
+   "until": 219
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "And weekends are... flexible. Welcome aboard!",
+   "at": 221,
+   "until": 314
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Congrats! We'd love to offer you the job.",
+   "at": 370,
+   "until": 438
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Thank you, I'm really excited about this offer.",
+   "at": 440,
+   "until": 522,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Of course! Any questions?",
+   "at": 524,
+   "until": 568
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Could you send me the full offer in writing?",
+   "at": 570,
+   "until": 641,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Sure. I'll include the signing bonus too.",
+   "at": 643,
+   "until": 761
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 141
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 211
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 286
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 514
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 631
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 737
+  }
+ ],
+ "nope": 298,
+ "crumble": 314,
+ "rewind": 334,
+ "expand": 360,
+ "celebrate": 711,
+ "cta": 771,
+ "total": 855,
+ "badge": "+1 leverage",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

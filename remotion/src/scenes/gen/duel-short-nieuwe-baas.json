@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "nieuwe-baas",
+ "pillar": "werk",
+ "caption": "Meeting your new boss:",
+ "hook": "Don't say “Hi, so... yeah, I'm just here, haha.”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Hi! I'm Alex, your new manager.",
+   "at": 10,
+   "until": 77
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Hi, so... yeah, I'm just here, haha.",
+   "at": 79,
+   "until": 160,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "So... do you actually work here?",
+   "at": 162,
+   "until": 240
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Hi! I'm Alex, your new manager.",
+   "at": 296,
+   "until": 363
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Hi, I'm Sam, I work on the design team.",
+   "at": 365,
+   "until": 446,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Great question. Let's grab coffee this week.",
+   "at": 448,
+   "until": 532
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 154
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 212
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 436
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 538
+  }
+ ],
+ "nope": 224,
+ "crumble": 240,
+ "rewind": 260,
+ "expand": 286,
+ "celebrate": 512,
+ "cta": 542,
+ "total": 600,
+ "badge": "+1 first impression",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "koffieautomaat-collega",
+ "pillar": "small_talk",
+ "caption": "At the coffee machine:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "kantoor",
+ "cast": "collega",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Morning.",
+   "at": 10,
+   "until": 25
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Busy day, huh?",
+   "at": 27,
+   "until": 65,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Yep.",
+   "at": 67,
+   "until": 80
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Anyway. Nice weather, huh?",
+   "at": 82,
+   "until": 159
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Morning.",
+   "at": 215,
+   "until": 230
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What are you working on these days?",
+   "at": 232,
+   "until": 285,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "The new app launch. Honestly, it's chaos.",
+   "at": 287,
+   "until": 356
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What's the fun part of that?",
+   "at": 358,
+   "until": 403,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Wait, you're fun. Lunch tomorrow?",
+   "at": 405,
+   "until": 514
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 57
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 72
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 131
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 277
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 393
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 490
+  }
+ ],
+ "nope": 143,
+ "crumble": 159,
+ "rewind": 179,
+ "expand": 205,
+ "celebrate": 464,
+ "cta": 524,
+ "total": 600,
+ "badge": "+1 work friend",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

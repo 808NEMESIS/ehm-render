@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "meeting-ertussen",
+ "pillar": "werk",
+ "caption": "Trying to speak in a meeting:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Great, we launch Monday. Agreed?",
+   "at": 10,
+   "until": 67
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Sorry, can I just... never mind.",
+   "at": 69,
+   "until": 136,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Perfect, nobody has concerns.",
+   "at": 138,
+   "until": 192
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Done! Best meeting ever.",
+   "at": 194,
+   "until": 260
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Great, we launch Monday. Agreed?",
+   "at": 316,
+   "until": 373
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Can I add something here?",
+   "at": 375,
+   "until": 420,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Of course, go ahead.",
+   "at": 422,
+   "until": 462
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I see one more risk: the timeline.",
+   "at": 464,
+   "until": 523,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Good catch. That would've cost us a month.",
+   "at": 525,
+   "until": 637
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 128
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 184
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 232
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 412
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 513
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 613
+  }
+ ],
+ "nope": 244,
+ "crumble": 260,
+ "rewind": 280,
+ "expand": 306,
+ "celebrate": 587,
+ "cta": 647,
+ "total": 735,
+ "badge": "+1 voice",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

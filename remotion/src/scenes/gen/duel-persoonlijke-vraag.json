@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "persoonlijke-vraag",
+ "pillar": "grenzen",
+ "caption": "Your aunt, at Christmas dinner:",
+ "hook": "Don't say “Um, well, it's kind of complicated...”",
+ "verdict": true,
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#F7A8C4",
+  "deep": "#E07CA2",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "So, when are you two having kids?",
+   "at": 10,
+   "until": 68
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, well, it's kind of complicated...",
+   "at": 70,
+   "until": 141,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Well, you're not getting any younger.",
+   "at": 143,
+   "until": 205
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Everyone, they're thinking about it! Cheers!",
+   "at": 207,
+   "until": 300
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "So, when are you two having kids?",
+   "at": 356,
+   "until": 414
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'd rather keep that to myself.",
+   "at": 416,
+   "until": 467,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Oh! Of course, sweetie.",
+   "at": 469,
+   "until": 516
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Anyway, how have you been?",
+   "at": 518,
+   "until": 572,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Oh, me? Well, I took up salsa!",
+   "at": 574,
+   "until": 698
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 133
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 197
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 272
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 459
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 562
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 674
+  }
+ ],
+ "nope": 284,
+ "crumble": 300,
+ "rewind": 320,
+ "expand": 346,
+ "celebrate": 648,
+ "cta": 708,
+ "total": 795,
+ "badge": "+1 grace",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

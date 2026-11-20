@@ -1,0 +1,92 @@
+{
+ "kind": "quiz",
+ "slug": "schoolplein",
+ "pillar": "small_talk",
+ "cast": "kennis",
+ "caption": "School pickup. Other parents:",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "prompt": {
+  "text": "Hi! Are you new here?",
+  "at": 6,
+  "end": 40
+ },
+ "options": [
+  {
+   "letter": "A",
+   "text": "Which one's yours?",
+   "correct": true,
+   "reaction": "The one in the dinosaur boots!",
+   "mood": "lach",
+   "exit": false
+  },
+  {
+   "letter": "B",
+   "text": "Cold today, huh?",
+   "correct": false,
+   "reaction": "Mm. Yes. Cold.",
+   "mood": "neutraal",
+   "exit": false
+  },
+  {
+   "letter": "C",
+   "text": "I'm just here for the free juice boxes.",
+   "correct": false,
+   "reaction": "...Those are for the kids.",
+   "mood": "verbaasd",
+   "exit": false
+  }
+ ],
+ "titleAt": 44,
+ "cardsAt": [
+  52,
+  57,
+  62
+ ],
+ "timerAt": 80,
+ "timerEnd": 170,
+ "reveals": [
+  {
+   "option": 1,
+   "pick": 180,
+   "sayAt": 186,
+   "sayEnd": 212,
+   "cutIn": 218,
+   "reactAt": 222,
+   "reactEnd": 251,
+   "cutOut": 263,
+   "stamp": 263
+  },
+  {
+   "option": 2,
+   "pick": 281,
+   "sayAt": 287,
+   "sayEnd": 336,
+   "cutIn": 342,
+   "reactAt": 346,
+   "reactEnd": 373,
+   "cutOut": 385,
+   "stamp": 385
+  },
+  {
+   "option": 0,
+   "pick": 403,
+   "sayAt": 409,
+   "sayEnd": 428,
+   "cutIn": 434,
+   "reactAt": 438,
+   "reactEnd": 479,
+   "cutOut": 491,
+   "stamp": 491
+  }
+ ],
+ "correct": 0,
+ "celebrate": 505,
+ "cta": 569,
+ "total": 660,
+ "badge": "+1 conversation",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

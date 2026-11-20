@@ -1,0 +1,118 @@
+{
+ "slug": "geld-lenen",
+ "caption": "When your friend needs money:",
+ "setting": "keuken",
+ "cast": "kennis",
+ "gag": "stapel",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "shots": true,
+ "coldOpen": 54,
+ "gagObject": "bill",
+ "clockSpin": false,
+ "total": 894,
+ "freeze": 314,
+ "rewindStart": 332,
+ "rewindEnd": 382,
+ "goodStart": 392,
+ "lines": [
+  {
+   "who": "kennis",
+   "text": "Hey, could you lend me some money?",
+   "at": 8,
+   "until": 100
+  },
+  {
+   "who": "ehm",
+   "text": "Um... how much?",
+   "at": 70,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "kennis",
+   "text": "Just $50. Actually, maybe $200.",
+   "at": 102,
+   "until": 159
+  },
+  {
+   "who": "kennis",
+   "text": "And rent's due next week.",
+   "at": 161,
+   "until": 196
+  },
+  {
+   "who": "kennis",
+   "text": "Oh, my car needs fixing too.",
+   "at": 198,
+   "until": 250
+  },
+  {
+   "who": "kennis",
+   "text": "So... could you cover my whole month?",
+   "at": 252,
+   "until": 999
+  },
+  {
+   "who": "kennis",
+   "text": "Hey, could you lend me some money?",
+   "at": 404,
+   "until": 591
+  },
+  {
+   "who": "ehm",
+   "text": "I don't lend money, even to friends.",
+   "at": 466,
+   "until": 528,
+   "tone": "yes"
+  },
+  {
+   "who": "ehm",
+   "text": "But I'm happy to help you think it through.",
+   "at": 530,
+   "until": 669,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Thanks. I needed a friend more than money.",
+   "at": 593,
+   "until": 669
+  }
+ ],
+ "papers": [
+  118,
+  139,
+  154,
+  166,
+  178,
+  189,
+  199,
+  209,
+  219,
+  228,
+  237,
+  246,
+  255,
+  263,
+  271,
+  280,
+  288,
+  296,
+  303,
+  311
+ ],
+ "frontStack": 12,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 613,
+  "until": 762
+ },
+ "bossExit": 669,
+ "bossReturn": 765,
+ "celebrate": 681,
+ "badge": "+1 boundary"
+}

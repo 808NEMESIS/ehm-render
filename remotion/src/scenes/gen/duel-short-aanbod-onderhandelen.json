@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "aanbod-onderhandelen",
+ "pillar": "werk",
+ "caption": "When the offer is too low:",
+ "hook": "Don't say “Oh... okay, that's fine.”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "We can offer you seventy thousand.",
+   "at": 10,
+   "until": 67
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Oh... okay, that's fine.",
+   "at": 69,
+   "until": 118,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Welcome to the team. Bring your own laptop.",
+   "at": 120,
+   "until": 210
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "We can offer you seventy thousand.",
+   "at": 266,
+   "until": 323
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Based on my experience, I was expecting closer to $80,000.",
+   "at": 325,
+   "until": 425,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Let's say seventy-six. And an extra week off.",
+   "at": 427,
+   "until": 525
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 112
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 182
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 415
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 531
+  }
+ ],
+ "nope": 194,
+ "crumble": 210,
+ "rewind": 230,
+ "expand": 256,
+ "celebrate": 505,
+ "cta": 535,
+ "total": 585,
+ "badge": "+1 salary",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

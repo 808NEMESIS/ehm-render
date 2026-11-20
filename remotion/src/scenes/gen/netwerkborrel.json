@@ -1,0 +1,112 @@
+{
+ "slug": "netwerkborrel",
+ "caption": "Networking event, you know nobody:",
+ "setting": "feestje",
+ "cast": "collega",
+ "gag": "zweet",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "shots": true,
+ "coldOpen": 54,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 894,
+ "freeze": 265,
+ "rewindStart": 283,
+ "rewindEnd": 333,
+ "goodStart": 343,
+ "lines": [
+  {
+   "who": "collega",
+   "text": "Can I help you?",
+   "at": 8,
+   "until": 91
+  },
+  {
+   "who": "ehm",
+   "text": "Sorry to bother you, but...",
+   "at": 41,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "collega",
+   "text": "Bother me with what?",
+   "at": 93,
+   "until": 126
+  },
+  {
+   "who": "collega",
+   "text": "Are you selling something?",
+   "at": 128,
+   "until": 169
+  },
+  {
+   "who": "collega",
+   "text": "I already have insurance.",
+   "at": 171,
+   "until": 216
+  },
+  {
+   "who": "collega",
+   "text": "Please talk to my assistant.",
+   "at": 218,
+   "until": 999
+  },
+  {
+   "who": "collega",
+   "text": "Can I help you?",
+   "at": 355,
+   "until": 468
+  },
+  {
+   "who": "ehm",
+   "text": "Mind if I join you? I don't know anyone here yet.",
+   "at": 388,
+   "until": 526,
+   "tone": "yes"
+  },
+  {
+   "who": "collega",
+   "text": "Please! I don't know anyone either.",
+   "at": 470,
+   "until": 565
+  },
+  {
+   "who": "ehm",
+   "text": "What brought you here tonight?",
+   "at": 528,
+   "until": 666,
+   "tone": "yes"
+  },
+  {
+   "who": "collega",
+   "text": "Honestly? My boss forced me. Let's escape together.",
+   "at": 567,
+   "until": 666
+  }
+ ],
+ "papers": [
+  99,
+  111,
+  134,
+  146,
+  177,
+  189,
+  224,
+  236
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 587,
+  "until": 759
+ },
+ "bossExit": 666,
+ "bossReturn": 762,
+ "celebrate": 678,
+ "badge": "+1 contact"
+}

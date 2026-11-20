@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "tweede-date-afwijzen",
+ "pillar": "daten_vriendschap",
+ "caption": "When they want a second date:",
+ "hook": "Don't say “Yeah, maybe next week or something...”",
+ "verdict": true,
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#8FB3E8",
+  "deep": "#5E86C4",
+  "acc": "knot"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "That was fun! Same time next week?",
+   "at": 10,
+   "until": 64
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Yeah, maybe next week or something...",
+   "at": 66,
+   "until": 124,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "So... meet my parents on Sunday?",
+   "at": 126,
+   "until": 204
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "That was fun! Same time next week?",
+   "at": 260,
+   "until": 314
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I had a nice time meeting you.",
+   "at": 316,
+   "until": 371,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Honestly? Me neither. Thanks for saying it.",
+   "at": 373,
+   "until": 468
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 118
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 176
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 361
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 474
+  }
+ ],
+ "nope": 188,
+ "crumble": 204,
+ "rewind": 224,
+ "expand": 250,
+ "celebrate": 448,
+ "cta": 478,
+ "total": 525,
+ "badge": "+1 honesty",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "na-werktijd-appje",
+ "pillar": "grenzen",
+ "caption": "Your boss, at 9:47 PM:",
+ "hook": "Don't say “Sure, I'll do it right now.”",
+ "verdict": true,
+ "setting": "keuken",
+ "cast": "baas",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Hey, quick thing. Can you fix the slides?",
+   "at": 10,
+   "until": 81
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Sure, I'll do it right now.",
+   "at": 83,
+   "until": 135,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Great! And the budget, while you're at it.",
+   "at": 137,
+   "until": 210
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "You're the only one who answers. Thanks!",
+   "at": 212,
+   "until": 296
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Hey, quick thing. Can you fix the slides?",
+   "at": 352,
+   "until": 423
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm offline for the evening, so I'll pick this up tomorrow.",
+   "at": 425,
+   "until": 525,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Wait, what if it can't wait?",
+   "at": 527,
+   "until": 575
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "If it's urgent, just call me.",
+   "at": 577,
+   "until": 633,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Not urgent. Tomorrow's fine. Enjoy your evening.",
+   "at": 635,
+   "until": 772
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 127
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 202
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 268
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 517
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 623
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 748
+  }
+ ],
+ "nope": 280,
+ "crumble": 296,
+ "rewind": 316,
+ "expand": 342,
+ "celebrate": 722,
+ "cta": 782,
+ "total": 870,
+ "badge": "+1 evening",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

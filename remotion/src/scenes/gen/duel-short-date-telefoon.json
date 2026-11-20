@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "date-telefoon",
+ "pillar": "daten_vriendschap",
+ "caption": "Your date, on their phone again:",
+ "hook": "Don't say “Haha, am I boring you?”",
+ "verdict": true,
+ "setting": "restaurant",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Sorry, one sec. Just checking something.",
+   "at": 10,
+   "until": 81
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Haha, am I boring you?",
+   "at": 83,
+   "until": 135,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Mind if I take this? It's my ex.",
+   "at": 137,
+   "until": 219
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Sorry, one sec. Just checking something.",
+   "at": 275,
+   "until": 346
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Hey, is everything okay?",
+   "at": 348,
+   "until": 404,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "You're right. Phone's away. Tell me more.",
+   "at": 406,
+   "until": 497
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 129
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 191
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 394
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 503
+  }
+ ],
+ "nope": 203,
+ "crumble": 219,
+ "rewind": 239,
+ "expand": 265,
+ "celebrate": 477,
+ "cta": 507,
+ "total": 555,
+ "badge": "+1 confidence",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

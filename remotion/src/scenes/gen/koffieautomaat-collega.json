@@ -1,0 +1,112 @@
+{
+ "slug": "koffieautomaat-collega",
+ "caption": "At the coffee machine:",
+ "setting": "kantoor",
+ "cast": "collega",
+ "gag": "zweet",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "shots": true,
+ "coldOpen": 54,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 774,
+ "freeze": 214,
+ "rewindStart": 232,
+ "rewindEnd": 282,
+ "goodStart": 292,
+ "lines": [
+  {
+   "who": "collega",
+   "text": "Morning.",
+   "at": 8,
+   "until": 61
+  },
+  {
+   "who": "ehm",
+   "text": "Busy day, huh?",
+   "at": 27,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "collega",
+   "text": "Yep.",
+   "at": 63,
+   "until": 74
+  },
+  {
+   "who": "collega",
+   "text": "...Very busy.",
+   "at": 76,
+   "until": 101
+  },
+  {
+   "who": "collega",
+   "text": "So... the coffee's slow today.",
+   "at": 103,
+   "until": 153
+  },
+  {
+   "who": "collega",
+   "text": "Anyway. Nice weather, huh?",
+   "at": 155,
+   "until": 999
+  },
+  {
+   "who": "collega",
+   "text": "Morning.",
+   "at": 304,
+   "until": 372
+  },
+  {
+   "who": "ehm",
+   "text": "What are you working on these days?",
+   "at": 323,
+   "until": 443,
+   "tone": "yes"
+  },
+  {
+   "who": "collega",
+   "text": "The new app launch. Honestly, it's chaos.",
+   "at": 374,
+   "until": 484
+  },
+  {
+   "who": "ehm",
+   "text": "What's the fun part of that?",
+   "at": 445,
+   "until": 551,
+   "tone": "yes"
+  },
+  {
+   "who": "collega",
+   "text": "Wait, you're fun. Lunch tomorrow?",
+   "at": 486,
+   "until": 551
+  }
+ ],
+ "papers": [
+  69,
+  81,
+  82,
+  94,
+  109,
+  121,
+  161,
+  173
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 506,
+  "until": 644
+ },
+ "bossExit": 551,
+ "bossReturn": 647,
+ "celebrate": 563,
+ "badge": "+1 work friend"
+}

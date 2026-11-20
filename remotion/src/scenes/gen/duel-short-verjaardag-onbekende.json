@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "verjaardag-onbekende",
+ "pillar": "small_talk",
+ "caption": "Party. You only know the host:",
+ "hook": "Don't say “So... um... nice party?”",
+ "verdict": true,
+ "setting": "feestje",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Hi! I don't think we've met.",
+   "at": 10,
+   "until": 58
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "So... um... nice party?",
+   "at": 60,
+   "until": 109,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Okay. Bye.",
+   "at": 111,
+   "until": 161
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Hi! I don't think we've met.",
+   "at": 217,
+   "until": 265
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "How do you know the host?",
+   "at": 267,
+   "until": 312,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Twelve years! Want the embarrassing stories?",
+   "at": 314,
+   "until": 400
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 103
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 133
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 302
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 406
+  }
+ ],
+ "nope": 145,
+ "crumble": 161,
+ "rewind": 181,
+ "expand": 207,
+ "celebrate": 380,
+ "cta": 410,
+ "total": 465,
+ "badge": "+1 new friend",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

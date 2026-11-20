@@ -1,0 +1,61 @@
+# Rendert posts die in Supabase klaarstaan (taken render_post) en zet ze in Storage; de database zet ze daarna in de
+# inbox in Slack. De runner bewijst wie hij is met het OIDC-token van GitHub (id-token: write); er staat geen sleutel
+# in deze repository of in GitHub. Zie scripts/runner.py en supabase/functions/runner.
+#
+# Publieke kopie (808NEMESIS/ehm-render): gemaakt door scripts/render_repo_sync.sh in ehm-club; wijzig het daar.
+# Starten: handmatig (Actions > render > Run workflow), of door
+# .github/render-trigger te wijzigen en te pushen (werkt op elke branch).
+name: render
+on:
+  workflow_dispatch:
+    inputs:
+      max:
+        description: "Hoeveel posts hooguit"
+        default: "40"
+  push:
+    paths: [".github/render-trigger"]
+permissions:
+  id-token: write
+  contents: read
+concurrency:
+  group: render
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: remotion/package-lock.json
+      - name: Remotion
+        working-directory: remotion
+        run: npm ci --no-audit --no-fund
+      - name: ffmpeg en ImageMagick
+        run: |
+          command -v ffmpeg >/dev/null && command -v montage >/dev/null || \
+            (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg imagemagick >/dev/null)
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"   # kokoro-onnx 0.6.1 werkt tot en met 3.13
+      - name: Python voor het geluid (numpy, scipy) en de stem (kokoro-onnx, zie scripts/stem.py)
+        run: pip install --quiet numpy scipy kokoro-onnx==0.6.1 soundfile
+      - name: Kokoro-modelbestanden (Apache-2.0), alleen nodig voor scènes met een stem
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/kokoro
+          key: kokoro-v1.0
+      - name: Kokoro ophalen als hij nog niet in de cache staat
+        run: |
+          mkdir -p ~/.cache/kokoro && cd ~/.cache/kokoro
+          for f in kokoro-v1.0.onnx voices-v1.0.bin; do
+            [ -s "$f" ] || curl -sSfL -o "$f" "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/$f"
+          done
+      - name: Renderen
+        env:
+          RUNNER_URL: https://akupekupdtutexclqxxn.supabase.co/functions/v1/runner
+          MAX_POSTS: ${{ inputs.max || '40' }}
+        run: python3 scripts/runner.py

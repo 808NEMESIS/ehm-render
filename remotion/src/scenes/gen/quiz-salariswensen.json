@@ -1,0 +1,92 @@
+{
+ "kind": "quiz",
+ "slug": "salariswensen",
+ "pillar": "werk",
+ "cast": "baas",
+ "caption": "Job interview. Final question:",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "prompt": {
+  "text": "So, what are your salary expectations?",
+  "at": 6,
+  "end": 66
+ },
+ "options": [
+  {
+   "letter": "A",
+   "text": "Um, whatever you usually pay is fine.",
+   "correct": false,
+   "reaction": "Great! Minimum wage it is.",
+   "mood": "lach",
+   "exit": false
+  },
+  {
+   "letter": "B",
+   "text": "Could you share the range for this role first?",
+   "correct": true,
+   "reaction": "Sure! It's $65,000 to $85,000.",
+   "mood": "blij",
+   "exit": false
+  },
+  {
+   "letter": "C",
+   "text": "One million dollars. And a pony.",
+   "correct": false,
+   "reaction": "...I'll call security.",
+   "mood": "verbaasd",
+   "exit": true
+  }
+ ],
+ "titleAt": 70,
+ "cardsAt": [
+  78,
+  83,
+  88
+ ],
+ "timerAt": 106,
+ "timerEnd": 196,
+ "reveals": [
+  {
+   "option": 0,
+   "pick": 206,
+   "sayAt": 212,
+   "sayEnd": 274,
+   "cutIn": 280,
+   "reactAt": 284,
+   "reactEnd": 326,
+   "cutOut": 338,
+   "stamp": 338
+  },
+  {
+   "option": 2,
+   "pick": 356,
+   "sayAt": 362,
+   "sayEnd": 414,
+   "cutIn": 420,
+   "reactAt": 424,
+   "reactEnd": 451,
+   "cutOut": 473,
+   "stamp": 473
+  },
+  {
+   "option": 1,
+   "pick": 491,
+   "sayAt": 497,
+   "sayEnd": 548,
+   "cutIn": 554,
+   "reactAt": 558,
+   "reactEnd": 592,
+   "cutOut": 604,
+   "stamp": 604
+  }
+ ],
+ "correct": 1,
+ "celebrate": 618,
+ "cta": 682,
+ "total": 780,
+ "badge": "+1 confidence",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

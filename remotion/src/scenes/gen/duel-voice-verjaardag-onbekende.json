@@ -1,0 +1,127 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "verjaardag-onbekende",
+ "pillar": "small_talk",
+ "caption": "Party. You only know the host:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "feestje",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Hi! I don't think we've met.",
+   "at": 10,
+   "until": 70
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "So... um... nice party?",
+   "at": 72,
+   "until": 137,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Yeah. It is.",
+   "at": 139,
+   "until": 186
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Okay. Bye.",
+   "at": 188,
+   "until": 258
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Hi! I don't think we've met.",
+   "at": 314,
+   "until": 374
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "How do you know the host?",
+   "at": 376,
+   "until": 421,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "We went to college together!",
+   "at": 423,
+   "until": 482
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Oh nice, how long have you two known each other?",
+   "at": 484,
+   "until": 568,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Twelve years! Want the embarrassing stories?",
+   "at": 570,
+   "until": 708
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 129
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 178
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 230
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 413
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 558
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 684
+  }
+ ],
+ "nope": 242,
+ "crumble": 258,
+ "rewind": 278,
+ "expand": 304,
+ "celebrate": 658,
+ "cta": 718,
+ "total": 795,
+ "badge": "+1 new friend",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "voice",
+ "voice": "kokoro"
+}

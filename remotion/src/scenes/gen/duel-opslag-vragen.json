@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "opslag-vragen",
+ "pillar": "werk",
+ "caption": "Asking your boss for a raise:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "So, what did you want to discuss?",
+   "at": 10,
+   "until": 68
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, I was wondering if maybe there's a bit more...",
+   "at": 70,
+   "until": 158,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "A bit more what? Coffee?",
+   "at": 160,
+   "until": 208
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Great! You're our new coffee captain.",
+   "at": 210,
+   "until": 288
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "So, what did you want to discuss?",
+   "at": 344,
+   "until": 402
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'd like to talk about my salary.",
+   "at": 404,
+   "until": 465,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Okay, I'm listening.",
+   "at": 467,
+   "until": 509
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm asking for a raise to $72,000.",
+   "at": 511,
+   "until": 566,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Finally! I thought you'd never ask.",
+   "at": 568,
+   "until": 680
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 150
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 200
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 260
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 457
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 556
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 656
+  }
+ ],
+ "nope": 272,
+ "crumble": 288,
+ "rewind": 308,
+ "expand": 334,
+ "celebrate": 630,
+ "cta": 690,
+ "total": 765,
+ "badge": "+1 courage",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "presentatie-blanco",
+ "pillar": "ongemak",
+ "caption": "Mid-presentation, your mind goes blank:",
+ "hook": "Don't say “Sorry, sorry, I totally lost it...”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#F2D16B",
+  "deep": "#D9B23F",
+  "acc": "knot"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "So... what's the main takeaway here?",
+   "at": 10,
+   "until": 66
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Sorry, sorry, I totally lost it...",
+   "at": 68,
+   "until": 141,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Let's just skip to the next presenter.",
+   "at": 143,
+   "until": 220
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "So... what's the main takeaway here?",
+   "at": 276,
+   "until": 332
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Let me take a second to find my place.",
+   "at": 334,
+   "until": 401,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Two weeks ahead? That's great news.",
+   "at": 403,
+   "until": 477
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 135
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 192
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 391
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 483
+  }
+ ],
+ "nope": 204,
+ "crumble": 220,
+ "rewind": 240,
+ "expand": 266,
+ "celebrate": 457,
+ "cta": 487,
+ "total": 540,
+ "badge": "+1 composure",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

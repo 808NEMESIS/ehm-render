@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "gat-in-cv",
+ "pillar": "werk",
+ "caption": "About the gap in your resume:",
+ "hook": "Don't say “Oh, um, that was... a weird time.”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "I see a gap here. What happened?",
+   "at": 10,
+   "until": 72
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Oh, um, that was... a weird time.",
+   "at": 74,
+   "until": 144,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Let's... keep this one short, then.",
+   "at": 146,
+   "until": 223
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "I see a gap here. What happened?",
+   "at": 279,
+   "until": 341
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I took some time off to care for a family member.",
+   "at": 343,
+   "until": 430,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "That's great. Most people never say it that clearly.",
+   "at": 432,
+   "until": 528
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 138
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 195
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 420
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 534
+  }
+ ],
+ "nope": 207,
+ "crumble": 223,
+ "rewind": 243,
+ "expand": 269,
+ "celebrate": 508,
+ "cta": 538,
+ "total": 585,
+ "badge": "+1 confidence",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

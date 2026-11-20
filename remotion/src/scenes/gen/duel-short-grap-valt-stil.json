@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "grap-valt-stil",
+ "pillar": "ongemak",
+ "caption": "When your joke falls flat:",
+ "hook": "Don't say “No, what I meant was...”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "collega",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "...Was that a joke?",
+   "at": 10,
+   "until": 39
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "No, what I meant was...",
+   "at": 41,
+   "until": 85,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Everyone's staring at you now.",
+   "at": 87,
+   "until": 160
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "...Was that a joke?",
+   "at": 216,
+   "until": 245
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Okay, that was funnier in my head.",
+   "at": 247,
+   "until": 313,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Mine are worse. Want to hear one?",
+   "at": 315,
+   "until": 391
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 79
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 132
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 303
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 397
+  }
+ ],
+ "nope": 144,
+ "crumble": 160,
+ "rewind": 180,
+ "expand": 206,
+ "celebrate": 371,
+ "cta": 401,
+ "total": 450,
+ "badge": "+1 humor",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

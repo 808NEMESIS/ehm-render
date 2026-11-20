@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "vriend-belt-zonder-vragen",
+ "pillar": "grenzen",
+ "caption": "When they call during your deadline:",
+ "hook": "Don't say “Hey! Yeah, I can talk...”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Hey! Got a minute? I just need to vent.",
+   "at": 10,
+   "until": 87
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Hey! Yeah, I can talk...",
+   "at": 89,
+   "until": 142,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "So, it all started in 2019...",
+   "at": 144,
+   "until": 198
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Oh wait, my sister's calling. I'll add her.",
+   "at": 200,
+   "until": 297
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Hey! Got a minute? I just need to vent.",
+   "at": 353,
+   "until": 430
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm in the middle of something right now.",
+   "at": 432,
+   "until": 495,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Oh, sorry! Bad timing.",
+   "at": 497,
+   "until": 548
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Can I call you back tonight?",
+   "at": 550,
+   "until": 599,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Tonight's perfect. I'll make tea.",
+   "at": 601,
+   "until": 703
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 134
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 190
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 269
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 487
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 589
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 679
+  }
+ ],
+ "nope": 281,
+ "crumble": 297,
+ "rewind": 317,
+ "expand": 343,
+ "celebrate": 653,
+ "cta": 713,
+ "total": 795,
+ "badge": "+1 focus",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

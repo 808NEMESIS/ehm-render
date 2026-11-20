@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "vriendin-annuleert-steeds",
+ "pillar": "daten_vriendschap",
+ "caption": "Your friend cancels. Again:",
+ "hook": "Don't say “Haha, it's fine, maybe next time.”",
+ "verdict": true,
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "So sorry, something came up. Rain check?",
+   "at": 10,
+   "until": 83
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Haha, it's fine, maybe next time.",
+   "at": 85,
+   "until": 146,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Let's just plan to plan something. Sometime!",
+   "at": 148,
+   "until": 240
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "So sorry, something came up. Rain check?",
+   "at": 296,
+   "until": 369
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I've noticed our plans keep falling through.",
+   "at": 371,
+   "until": 434,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Saturday. I'm putting it in my calendar now.",
+   "at": 436,
+   "until": 538
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 140
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 212
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 424
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 544
+  }
+ ],
+ "nope": 224,
+ "crumble": 240,
+ "rewind": 260,
+ "expand": 286,
+ "celebrate": 518,
+ "cta": 548,
+ "total": 600,
+ "badge": "+1 friendship",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

@@ -1,0 +1,112 @@
+{
+ "slug": "verhuizing-helpen",
+ "caption": "Your friend is moving:",
+ "setting": "buiten",
+ "cast": "kennis",
+ "gag": "wolk",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "shots": true,
+ "coldOpen": 54,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 954,
+ "freeze": 317,
+ "rewindStart": 335,
+ "rewindEnd": 385,
+ "goodStart": 395,
+ "lines": [
+  {
+   "who": "kennis",
+   "text": "Can you help me move Saturday?",
+   "at": 8,
+   "until": 117
+  },
+  {
+   "who": "ehm",
+   "text": "Um... which weekend was it again?",
+   "at": 61,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "kennis",
+   "text": "This Saturday! 7 AM.",
+   "at": 119,
+   "until": 163
+  },
+  {
+   "who": "kennis",
+   "text": "It's just the fourth floor.",
+   "at": 165,
+   "until": 200
+  },
+  {
+   "who": "kennis",
+   "text": "No elevator. And a piano.",
+   "at": 202,
+   "until": 260
+  },
+  {
+   "who": "kennis",
+   "text": "You're the only one who said yes!",
+   "at": 262,
+   "until": 999
+  },
+  {
+   "who": "kennis",
+   "text": "Can you help me move Saturday?",
+   "at": 407,
+   "until": 535
+  },
+  {
+   "who": "ehm",
+   "text": "I won't be helping with the heavy lifting this time.",
+   "at": 460,
+   "until": 584,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Oh. Okay, that's fair.",
+   "at": 537,
+   "until": 657
+  },
+  {
+   "who": "ehm",
+   "text": "But I'll bring pizza for everyone that evening.",
+   "at": 586,
+   "until": 739,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Pizza? You're officially my favorite friend.",
+   "at": 659,
+   "until": 739
+  }
+ ],
+ "papers": [
+  125,
+  137,
+  171,
+  183,
+  208,
+  220,
+  268,
+  280
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 679,
+  "until": 832
+ },
+ "bossExit": 739,
+ "bossReturn": 835,
+ "celebrate": 751,
+ "badge": "+1 boundary"
+}

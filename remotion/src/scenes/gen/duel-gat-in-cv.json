@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "gat-in-cv",
+ "pillar": "werk",
+ "caption": "About the gap in your resume:",
+ "hook": "Don't say “Oh, um, that was... a weird time.”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "I see a gap here. What happened?",
+   "at": 10,
+   "until": 72
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Oh, um, that was... a weird time.",
+   "at": 74,
+   "until": 146,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Weird how?",
+   "at": 148,
+   "until": 167
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Let's... keep this one short, then.",
+   "at": 169,
+   "until": 246
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "I see a gap here. What happened?",
+   "at": 302,
+   "until": 364
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I took some time off to care for a family member.",
+   "at": 366,
+   "until": 451,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "I'm sorry. That's important.",
+   "at": 453,
+   "until": 501
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "In that time, I kept my skills sharp with an online course.",
+   "at": 503,
+   "until": 595,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "That's great. Most people never say it that clearly.",
+   "at": 597,
+   "until": 723
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 138
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 159
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 218
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 443
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 585
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 699
+  }
+ ],
+ "nope": 230,
+ "crumble": 246,
+ "rewind": 266,
+ "expand": 292,
+ "celebrate": 673,
+ "cta": 733,
+ "total": 810,
+ "badge": "+1 confidence",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

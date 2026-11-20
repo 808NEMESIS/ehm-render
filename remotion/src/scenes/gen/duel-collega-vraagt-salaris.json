@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "collega-vraagt-salaris",
+ "pillar": "grenzen",
+ "caption": "When a coworker asks your salary:",
+ "hook": "Don't say “Uh... why, what do you make?”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "collega",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Can I ask... what do you make?",
+   "at": 10,
+   "until": 64
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Uh... why, what do you make?",
+   "at": 66,
+   "until": 125,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Wait. You first. No, you first.",
+   "at": 127,
+   "until": 191
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Let's never speak of this again.",
+   "at": 193,
+   "until": 264
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Can I ask... what do you make?",
+   "at": 320,
+   "until": 374
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'd rather not share my exact number.",
+   "at": 376,
+   "until": 437,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Fair. I'm just trying to negotiate.",
+   "at": 439,
+   "until": 495
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "But I'm happy to tell you how I negotiated it.",
+   "at": 497,
+   "until": 582,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Yes please. That's exactly what I need.",
+   "at": 584,
+   "until": 698
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 117
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 183
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 236
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 429
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 572
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 674
+  }
+ ],
+ "nope": 248,
+ "crumble": 264,
+ "rewind": 284,
+ "expand": 310,
+ "celebrate": 648,
+ "cta": 708,
+ "total": 795,
+ "badge": "+1 tact",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

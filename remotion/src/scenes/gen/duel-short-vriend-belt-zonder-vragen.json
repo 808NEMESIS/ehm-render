@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "vriend-belt-zonder-vragen",
+ "pillar": "grenzen",
+ "caption": "When they call during your deadline:",
+ "hook": "Don't say “Hey! Yeah, I can talk...”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Hey! Got a minute? I just need to vent.",
+   "at": 10,
+   "until": 87
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Hey! Yeah, I can talk...",
+   "at": 89,
+   "until": 140,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Oh wait, my sister's calling. I'll add her.",
+   "at": 142,
+   "until": 239
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Hey! Got a minute? I just need to vent.",
+   "at": 295,
+   "until": 372
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm in the middle of something right now.",
+   "at": 374,
+   "until": 439,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Tonight's perfect. I'll make tea.",
+   "at": 441,
+   "until": 513
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 134
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 211
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 429
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 519
+  }
+ ],
+ "nope": 223,
+ "crumble": 239,
+ "rewind": 259,
+ "expand": 285,
+ "celebrate": 493,
+ "cta": 523,
+ "total": 570,
+ "badge": "+1 focus",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

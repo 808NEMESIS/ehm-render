@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "meeting-ertussen",
+ "pillar": "werk",
+ "caption": "Trying to speak in a meeting:",
+ "hook": "Don't say “Sorry, can I just... never mind.”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Great, we launch Monday. Agreed?",
+   "at": 10,
+   "until": 67
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Sorry, can I just... never mind.",
+   "at": 69,
+   "until": 134,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Done! Best meeting ever.",
+   "at": 136,
+   "until": 202
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Great, we launch Monday. Agreed?",
+   "at": 258,
+   "until": 315
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Can I add something here?",
+   "at": 317,
+   "until": 364,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Good catch. That would've cost us a month.",
+   "at": 366,
+   "until": 448
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 128
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 174
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 354
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 454
+  }
+ ],
+ "nope": 186,
+ "crumble": 202,
+ "rewind": 222,
+ "expand": 248,
+ "celebrate": 428,
+ "cta": 458,
+ "total": 510,
+ "badge": "+1 voice",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

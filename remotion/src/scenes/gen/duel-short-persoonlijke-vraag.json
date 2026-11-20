@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "persoonlijke-vraag",
+ "pillar": "grenzen",
+ "caption": "Your aunt, at Christmas dinner:",
+ "hook": "Don't say “Um, well, it's kind of complicated...”",
+ "verdict": true,
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#F7A8C4",
+  "deep": "#E07CA2",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "So, when are you two having kids?",
+   "at": 10,
+   "until": 68
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, well, it's kind of complicated...",
+   "at": 70,
+   "until": 139,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Everyone, they're thinking about it! Cheers!",
+   "at": 141,
+   "until": 234
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "So, when are you two having kids?",
+   "at": 290,
+   "until": 348
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'd rather keep that to myself.",
+   "at": 350,
+   "until": 403,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Oh, me? Well, I took up salsa!",
+   "at": 405,
+   "until": 499
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 133
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 206
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 393
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 505
+  }
+ ],
+ "nope": 218,
+ "crumble": 234,
+ "rewind": 254,
+ "expand": 280,
+ "celebrate": 479,
+ "cta": 509,
+ "total": 555,
+ "badge": "+1 grace",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

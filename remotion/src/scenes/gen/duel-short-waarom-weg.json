@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "waarom-weg",
+ "pillar": "werk",
+ "caption": "When they ask why you're leaving:",
+ "hook": "Don't say “Honestly? My boss is a nightmare.”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "So, why are you leaving your current job?",
+   "at": 10,
+   "until": 78
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Honestly? My boss is a nightmare.",
+   "at": 80,
+   "until": 142,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Thanks for coming in. We'll be in touch.",
+   "at": 144,
+   "until": 230
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "So, why are you leaving your current job?",
+   "at": 286,
+   "until": 354
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I've learned a lot in my current role.",
+   "at": 356,
+   "until": 421,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Perfect. That's exactly what this role offers.",
+   "at": 423,
+   "until": 515
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 136
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 202
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 411
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 521
+  }
+ ],
+ "nope": 214,
+ "crumble": 230,
+ "rewind": 250,
+ "expand": 276,
+ "celebrate": 495,
+ "cta": 525,
+ "total": 570,
+ "badge": "+1 class",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

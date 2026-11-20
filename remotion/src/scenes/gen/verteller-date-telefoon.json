@@ -1,0 +1,100 @@
+{
+ "kind": "verteller",
+ "slug": "date-telefoon",
+ "pillar": "daten_vriendschap",
+ "caption": "Your date, on their phone again:",
+ "hook": "Do you ever freeze up when your date keeps checking their phone?",
+ "setting": "restaurant",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "narration": [
+  {
+   "part": "hook",
+   "text": "Do you ever freeze up when your date keeps checking their phone?",
+   "at": 12,
+   "end": 115,
+   "until": 121
+  },
+  {
+   "part": "scene",
+   "text": "You're telling a story on a date. And they're scrolling.",
+   "at": 139,
+   "end": 232,
+   "until": 238
+  },
+  {
+   "part": "panic",
+   "text": "Your mind goes blank.",
+   "at": 333,
+   "end": 384,
+   "until": 390
+  },
+  {
+   "part": "turn",
+   "text": "Here's what to say instead.",
+   "at": 402,
+   "end": 453,
+   "until": 459
+  },
+  {
+   "part": "cta",
+   "text": "Save this for the next time it happens.",
+   "at": 753,
+   "end": 821,
+   "until": 827
+  }
+ ],
+ "lines": [
+  {
+   "who": "kennis",
+   "text": "Sorry, one sec. Just checking something.",
+   "at": 240,
+   "end": 313,
+   "until": 396
+  },
+  {
+   "who": "ehm",
+   "text": "Hey, is everything okay?",
+   "at": 463,
+   "end": 506,
+   "until": 512,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Yeah, just work stuff.",
+   "at": 514,
+   "end": 560,
+   "until": 566
+  },
+  {
+   "who": "ehm",
+   "text": "I've noticed you're checking your phone quite a bit.",
+   "at": 568,
+   "end": 634,
+   "until": 642,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "You're right. Phone's away. Tell me more.",
+   "at": 644,
+   "end": 711,
+   "until": 741
+  }
+ ],
+ "scene": 129,
+ "panic": 319,
+ "turn": 396,
+ "good": 463,
+ "celebrate": 717,
+ "cta": 747,
+ "total": 870,
+ "badge": "+1 confidence",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "voice": "kokoro"
+}

@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "korte-antwoorden",
+ "pillar": "small_talk",
+ "caption": "When they only say 'fine':",
+ "hook": "Don't say “So, was it good?”",
+ "verdict": true,
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Just got back from Rome.",
+   "at": 10,
+   "until": 45
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "So, was it good?",
+   "at": 47,
+   "until": 85,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Anyway.",
+   "at": 87,
+   "until": 128
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Just got back from Rome.",
+   "at": 184,
+   "until": 219
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What was the best part?",
+   "at": 221,
+   "until": 260,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Nobody ever asks! Okay, so we missed our train...",
+   "at": 262,
+   "until": 377
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 79
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 100
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 250
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 383
+  }
+ ],
+ "nope": 112,
+ "crumble": 128,
+ "rewind": 148,
+ "expand": 174,
+ "celebrate": 357,
+ "cta": 387,
+ "total": 435,
+ "badge": "+1 conversation",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

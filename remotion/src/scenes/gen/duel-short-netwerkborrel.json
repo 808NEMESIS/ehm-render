@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "netwerkborrel",
+ "pillar": "small_talk",
+ "caption": "Networking event, you know nobody:",
+ "hook": "Don't say “Sorry to bother you, but...”",
+ "verdict": true,
+ "setting": "feestje",
+ "cast": "collega",
+ "outfit": {
+  "body": "#F7A8C4",
+  "deep": "#E07CA2",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Can I help you?",
+   "at": 10,
+   "until": 39
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Sorry to bother you, but...",
+   "at": 41,
+   "until": 93,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Please talk to my assistant.",
+   "at": 95,
+   "until": 160
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Can I help you?",
+   "at": 216,
+   "until": 245
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Mind if I join you? I don't know anyone here yet.",
+   "at": 247,
+   "until": 333,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Honestly? My boss forced me. Let's escape together.",
+   "at": 335,
+   "until": 448
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 87
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 132
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 323
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 454
+  }
+ ],
+ "nope": 144,
+ "crumble": 160,
+ "rewind": 180,
+ "expand": 206,
+ "celebrate": 428,
+ "cta": 458,
+ "total": 510,
+ "badge": "+1 contact",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

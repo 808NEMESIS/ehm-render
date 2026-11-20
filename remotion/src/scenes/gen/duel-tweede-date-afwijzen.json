@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "tweede-date-afwijzen",
+ "pillar": "daten_vriendschap",
+ "caption": "When they want a second date:",
+ "hook": "Don't say “Yeah, maybe next week or something...”",
+ "verdict": true,
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#8FB3E8",
+  "deep": "#5E86C4",
+  "acc": "knot"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "That was fun! Same time next week?",
+   "at": 10,
+   "until": 64
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Yeah, maybe next week or something...",
+   "at": 66,
+   "until": 126,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Great! I'll book the place. And Friday?",
+   "at": 128,
+   "until": 195
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "So... meet my parents on Sunday?",
+   "at": 197,
+   "until": 275
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "That was fun! Same time next week?",
+   "at": 331,
+   "until": 385
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I had a nice time meeting you.",
+   "at": 387,
+   "until": 440,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Oh. But?",
+   "at": 442,
+   "until": 466
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I didn't feel the connection I'm looking for.",
+   "at": 468,
+   "until": 537,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Honestly? Me neither. Thanks for saying it.",
+   "at": 539,
+   "until": 664
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 118
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 187
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 247
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 432
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 527
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 640
+  }
+ ],
+ "nope": 259,
+ "crumble": 275,
+ "rewind": 295,
+ "expand": 321,
+ "celebrate": 614,
+ "cta": 674,
+ "total": 750,
+ "badge": "+1 honesty",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

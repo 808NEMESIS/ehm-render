@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "collega-roddelt",
+ "pillar": "werk",
+ "caption": "When a coworker starts gossiping:",
+ "hook": "Don't say “Oh wow, really? Tell me everything.”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "collega",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Did you hear what happened with Mark?",
+   "at": 10,
+   "until": 65
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Oh wow, really? Tell me everything.",
+   "at": 67,
+   "until": 140,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Oh, hi Mark! We were just... talking.",
+   "at": 142,
+   "until": 236
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Did you hear what happened with Mark?",
+   "at": 292,
+   "until": 347
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I don't really know what happened.",
+   "at": 349,
+   "until": 406,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "You're right. That's not fair to him.",
+   "at": 408,
+   "until": 484
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 134
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 208
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 396
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 490
+  }
+ ],
+ "nope": 220,
+ "crumble": 236,
+ "rewind": 256,
+ "expand": 282,
+ "celebrate": 464,
+ "cta": 494,
+ "total": 540,
+ "badge": "+1 integrity",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

@@ -1,0 +1,111 @@
+{
+ "slug": "vertel-over-jezelf",
+ "caption": "Tell me about yourself:",
+ "setting": "kantoor",
+ "cast": "baas",
+ "gag": "wolk",
+ "outfit": {
+  "body": "#8FB3E8",
+  "deep": "#5E86C4",
+  "acc": "knot"
+ },
+ "shots": true,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 900,
+ "freeze": 282,
+ "rewindStart": 300,
+ "rewindEnd": 350,
+ "goodStart": 360,
+ "lines": [
+  {
+   "who": "baas",
+   "text": "So, tell me about yourself.",
+   "at": 8,
+   "until": 117
+  },
+  {
+   "who": "ehm",
+   "text": "Um, well, I was born in...",
+   "at": 62,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "baas",
+   "text": "Born where? Okay...",
+   "at": 119,
+   "until": 153
+  },
+  {
+   "who": "baas",
+   "text": "...and then kindergarten?",
+   "at": 155,
+   "until": 190
+  },
+  {
+   "who": "baas",
+   "text": "We have ten minutes left.",
+   "at": 192,
+   "until": 235
+  },
+  {
+   "who": "baas",
+   "text": "Let's skip to your first job.",
+   "at": 237,
+   "until": 999
+  },
+  {
+   "who": "baas",
+   "text": "So, tell me about yourself.",
+   "at": 372,
+   "until": 521
+  },
+  {
+   "who": "ehm",
+   "text": "I'm a project manager who's great at keeping big projects on track.",
+   "at": 426,
+   "until": 575,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "Nice. Got an example?",
+   "at": 523,
+   "until": 667
+  },
+  {
+   "who": "ehm",
+   "text": "At my last job, that meant launching our app two weeks early.",
+   "at": 577,
+   "until": 734,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "That's the best answer I heard all week.",
+   "at": 669,
+   "until": 734
+  }
+ ],
+ "papers": [
+  125,
+  137,
+  161,
+  173,
+  198,
+  210,
+  243,
+  255
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 689,
+  "until": 827
+ },
+ "bossExit": 734,
+ "bossReturn": 830,
+ "celebrate": 746,
+ "badge": "+1 confidence"
+}

@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "collega-schuift-werk",
+ "pillar": "grenzen",
+ "caption": "When a coworker dumps their work:",
+ "hook": "Don't say “Sure, just send it over...”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "collega",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Hey, can you take my reports this week?",
+   "at": 10,
+   "until": 74
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Sure, just send it over...",
+   "at": 76,
+   "until": 126,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Amazing! And my emails too, then.",
+   "at": 128,
+   "until": 197
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "You're the best. I'm off to lunch.",
+   "at": 199,
+   "until": 275
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Hey, can you take my reports this week?",
+   "at": 331,
+   "until": 395
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I can't take this on as well.",
+   "at": 397,
+   "until": 446,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Oh. But I'm swamped...",
+   "at": 448,
+   "until": 488
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Want to check with our manager who should pick it up?",
+   "at": 490,
+   "until": 573,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Fair. I'll ask her. Sorry for dumping it.",
+   "at": 575,
+   "until": 702
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 118
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 189
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 247
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 438
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 563
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 678
+  }
+ ],
+ "nope": 259,
+ "crumble": 275,
+ "rewind": 295,
+ "expand": 321,
+ "celebrate": 652,
+ "cta": 712,
+ "total": 795,
+ "badge": "+1 boundaries",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

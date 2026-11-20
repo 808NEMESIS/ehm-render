@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "kritiek-in-meeting",
+ "pillar": "werk",
+ "caption": "When your boss criticizes you publicly:",
+ "hook": "Don't say “Sorry, sorry, you're right, I'm so bad at this.”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "These numbers are wrong. Again.",
+   "at": 10,
+   "until": 60
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Sorry, sorry, you're right, I'm so bad at this.",
+   "at": 62,
+   "until": 152,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Let's take this project off your plate.",
+   "at": 154,
+   "until": 227
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "These numbers are wrong. Again.",
+   "at": 283,
+   "until": 333
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Thanks, I want to get this right.",
+   "at": 335,
+   "until": 393,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Good idea. My office, at three.",
+   "at": 395,
+   "until": 480
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 146
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 199
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 383
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 486
+  }
+ ],
+ "nope": 211,
+ "crumble": 227,
+ "rewind": 247,
+ "expand": 273,
+ "celebrate": 460,
+ "cta": 490,
+ "total": 540,
+ "badge": "+1 backbone",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

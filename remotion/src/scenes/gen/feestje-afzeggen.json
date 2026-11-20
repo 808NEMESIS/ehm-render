@@ -1,0 +1,111 @@
+{
+ "slug": "feestje-afzeggen",
+ "caption": "Invited to a party you'd skip:",
+ "setting": "keuken",
+ "cast": "kennis",
+ "gag": "zakken",
+ "outfit": {
+  "body": "#F7A8C4",
+  "deep": "#E07CA2",
+  "acc": "bril"
+ },
+ "shots": true,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 840,
+ "freeze": 328,
+ "rewindStart": 346,
+ "rewindEnd": 396,
+ "goodStart": 406,
+ "lines": [
+  {
+   "who": "kennis",
+   "text": "Party at mine Saturday! You in?",
+   "at": 8,
+   "until": 107
+  },
+  {
+   "who": "ehm",
+   "text": "I'll try to make it...",
+   "at": 72,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "kennis",
+   "text": "Great! I'll put you down.",
+   "at": 109,
+   "until": 151
+  },
+  {
+   "who": "kennis",
+   "text": "You're bringing the speakers, right?",
+   "at": 153,
+   "until": 203
+  },
+  {
+   "who": "kennis",
+   "text": "And you're DJ-ing. Everyone's excited.",
+   "at": 205,
+   "until": 267
+  },
+  {
+   "who": "kennis",
+   "text": "I told everyone you're the main act!",
+   "at": 269,
+   "until": 999
+  },
+  {
+   "who": "kennis",
+   "text": "Party at mine Saturday! You in?",
+   "at": 418,
+   "until": 527
+  },
+  {
+   "who": "ehm",
+   "text": "I'm going to sit this one out.",
+   "at": 482,
+   "until": 567,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Aw. Totally fine!",
+   "at": 529,
+   "until": 604
+  },
+  {
+   "who": "ehm",
+   "text": "Coffee next week instead?",
+   "at": 569,
+   "until": 699,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Yes! I hate parties. I'm only hosting for Tom.",
+   "at": 606,
+   "until": 699
+  }
+ ],
+ "papers": [
+  115,
+  127,
+  159,
+  171,
+  211,
+  223,
+  275,
+  287
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 626,
+  "until": 792
+ },
+ "bossExit": 699,
+ "bossReturn": 795,
+ "celebrate": 711,
+ "badge": "+1 honesty"
+}

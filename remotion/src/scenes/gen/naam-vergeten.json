@@ -1,0 +1,111 @@
+{
+ "slug": "naam-vergeten",
+ "caption": "When you've forgotten their name:",
+ "setting": "feestje",
+ "cast": "kennis",
+ "gag": "zweet",
+ "outfit": {
+  "body": "#F7A8C4",
+  "deep": "#E07CA2",
+  "acc": "bril"
+ },
+ "shots": true,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 900,
+ "freeze": 323,
+ "rewindStart": 341,
+ "rewindEnd": 391,
+ "goodStart": 401,
+ "lines": [
+  {
+   "who": "kennis",
+   "text": "Hey! Remember me?",
+   "at": 8,
+   "until": 87
+  },
+  {
+   "who": "ehm",
+   "text": "Um... hey, you!",
+   "at": 50,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "kennis",
+   "text": "We talked for two hours last week!",
+   "at": 89,
+   "until": 140
+  },
+  {
+   "who": "kennis",
+   "text": "You even met my boyfriend!",
+   "at": 142,
+   "until": 185
+  },
+  {
+   "who": "kennis",
+   "text": "You promised to introduce us tonight!",
+   "at": 187,
+   "until": 248
+  },
+  {
+   "who": "kennis",
+   "text": "Wait. You do remember my name, right?",
+   "at": 250,
+   "until": 999
+  },
+  {
+   "who": "kennis",
+   "text": "Hey! Remember me?",
+   "at": 413,
+   "until": 541
+  },
+  {
+   "who": "ehm",
+   "text": "This is embarrassing, but your name just slipped my mind.",
+   "at": 455,
+   "until": 577,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Oh, thank goodness.",
+   "at": 543,
+   "until": 641
+  },
+  {
+   "who": "ehm",
+   "text": "I'm Sam, in case mine slipped yours too.",
+   "at": 579,
+   "until": 723,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "I'm Sam too. That's why I remembered you.",
+   "at": 643,
+   "until": 723
+  }
+ ],
+ "papers": [
+  95,
+  107,
+  148,
+  160,
+  193,
+  205,
+  256,
+  268
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 663,
+  "until": 816
+ },
+ "bossExit": 723,
+ "bossReturn": 819,
+ "celebrate": 735,
+ "badge": "+1 courage"
+}

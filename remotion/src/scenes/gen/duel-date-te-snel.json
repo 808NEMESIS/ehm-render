@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "date-te-snel",
+ "pillar": "grenzen",
+ "caption": "Date three. They're already planning:",
+ "hook": "Don't say “Um, okay, if you really want...”",
+ "verdict": true,
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Let's move in together! I found a place.",
+   "at": 10,
+   "until": 78
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, okay, if you really want...",
+   "at": 80,
+   "until": 147,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Great! I signed the lease already.",
+   "at": 149,
+   "until": 211
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "I named our future dog. It's Biscuit.",
+   "at": 213,
+   "until": 301
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Let's move in together! I found a place.",
+   "at": 357,
+   "until": 425
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I like spending time with you.",
+   "at": 427,
+   "until": 474,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "But?",
+   "at": 476,
+   "until": 487
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I want to take things a little slower.",
+   "at": 489,
+   "until": 550,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Phew. Honestly? I panicked. Slower sounds great.",
+   "at": 552,
+   "until": 692
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 139
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 203
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 273
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 466
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 540
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 668
+  }
+ ],
+ "nope": 285,
+ "crumble": 301,
+ "rewind": 321,
+ "expand": 347,
+ "celebrate": 642,
+ "cta": 702,
+ "total": 780,
+ "badge": "+1 boundaries",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

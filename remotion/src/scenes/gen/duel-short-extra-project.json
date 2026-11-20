@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "extra-project",
+ "pillar": "grenzen",
+ "caption": "Your boss has another project:",
+ "hook": "Don't say “Sure, no problem.”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Can you take on one more project?",
+   "at": 10,
+   "until": 61
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Sure, no problem.",
+   "at": 63,
+   "until": 99,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Oh, and can you finish by Friday?",
+   "at": 101,
+   "until": 185
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Can you take on one more project?",
+   "at": 241,
+   "until": 292
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I get that this matters.",
+   "at": 294,
+   "until": 337,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Actually, my presentation can wait. Don't tell anyone.",
+   "at": 339,
+   "until": 452
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 93
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 157
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 327
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 458
+  }
+ ],
+ "nope": 169,
+ "crumble": 185,
+ "rewind": 205,
+ "expand": 231,
+ "celebrate": 432,
+ "cta": 462,
+ "total": 510,
+ "badge": "+1 boundary",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

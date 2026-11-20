@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "heb-je-even",
+ "pillar": "grenzen",
+ "caption": "Your boss, right before your deadline:",
+ "hook": "Don't say “Uh, sure...”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Hey, got a sec?",
+   "at": 10,
+   "until": 46
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Uh, sure...",
+   "at": 48,
+   "until": 74,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Thanks! You're a lifesaver.",
+   "at": 76,
+   "until": 146
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Hey, got a sec?",
+   "at": 202,
+   "until": 238
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Right now I can't, I'm up against a deadline.",
+   "at": 240,
+   "until": 318,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Oh thank god. I haven't even started the slides.",
+   "at": 320,
+   "until": 424
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 68
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 118
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 308
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 430
+  }
+ ],
+ "nope": 130,
+ "crumble": 146,
+ "rewind": 166,
+ "expand": 192,
+ "celebrate": 404,
+ "cta": 434,
+ "total": 480,
+ "badge": "+1 courage",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "kritiek-in-meeting",
+ "pillar": "werk",
+ "caption": "When your boss criticizes you publicly:",
+ "hook": "Don't say “Sorry, sorry, you're right, I'm so bad at this.”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "These numbers are wrong. Again.",
+   "at": 10,
+   "until": 60
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Sorry, sorry, you're right, I'm so bad at this.",
+   "at": 62,
+   "until": 154,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Yes. You are. Anyone else want to try?",
+   "at": 156,
+   "until": 229
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Let's take this project off your plate.",
+   "at": 231,
+   "until": 304
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "These numbers are wrong. Again.",
+   "at": 360,
+   "until": 410
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Thanks, I want to get this right.",
+   "at": 412,
+   "until": 468,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Okay. So what happened?",
+   "at": 470,
+   "until": 518
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Can we go through the details after the meeting?",
+   "at": 520,
+   "until": 595,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Good idea. My office, at three.",
+   "at": 597,
+   "until": 712
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 146
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 221
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 276
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 460
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 585
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 688
+  }
+ ],
+ "nope": 288,
+ "crumble": 304,
+ "rewind": 324,
+ "expand": 350,
+ "celebrate": 662,
+ "cta": 722,
+ "total": 810,
+ "badge": "+1 backbone",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

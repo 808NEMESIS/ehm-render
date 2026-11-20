@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "vertel-over-jezelf",
+ "pillar": "werk",
+ "caption": "Tell me about yourself:",
+ "hook": "Don't say “Um, well, I was born in...”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "So, tell me about yourself.",
+   "at": 10,
+   "until": 60
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, well, I was born in...",
+   "at": 62,
+   "until": 119,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Let's skip to your first job.",
+   "at": 121,
+   "until": 184
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "So, tell me about yourself.",
+   "at": 240,
+   "until": 290
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm a project manager who's great at keeping big projects on track.",
+   "at": 292,
+   "until": 393,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "That's the best answer I heard all week.",
+   "at": 395,
+   "until": 474
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 113
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 156
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 383
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 480
+  }
+ ],
+ "nope": 168,
+ "crumble": 184,
+ "rewind": 204,
+ "expand": 230,
+ "celebrate": 454,
+ "cta": 484,
+ "total": 540,
+ "badge": "+1 confidence",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

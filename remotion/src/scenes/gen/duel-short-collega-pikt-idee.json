@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "collega-pikt-idee",
+ "pillar": "werk",
+ "caption": "When a coworker steals your idea:",
+ "hook": "Don't say “Yeah, exactly what I was thinking...”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "collega",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "So I had this idea: weekly client calls.",
+   "at": 10,
+   "until": 71
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Yeah, exactly what I was thinking...",
+   "at": 73,
+   "until": 135,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "The director loved my idea, by the way.",
+   "at": 137,
+   "until": 235
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "So I had this idea: weekly client calls.",
+   "at": 291,
+   "until": 352
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm glad we're building on my earlier suggestion.",
+   "at": 354,
+   "until": 427,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Fair. It is your idea. Go ahead.",
+   "at": 429,
+   "until": 520
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 129
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 207
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 417
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 526
+  }
+ ],
+ "nope": 219,
+ "crumble": 235,
+ "rewind": 255,
+ "expand": 281,
+ "celebrate": 500,
+ "cta": 530,
+ "total": 585,
+ "badge": "+1 credit",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

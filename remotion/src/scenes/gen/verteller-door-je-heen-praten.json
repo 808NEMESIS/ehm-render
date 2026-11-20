@@ -1,0 +1,100 @@
+{
+ "kind": "verteller",
+ "slug": "door-je-heen-praten",
+ "pillar": "werk",
+ "caption": "When someone talks over you:",
+ "hook": "Do you ever freeze up when someone keeps talking over you?",
+ "setting": "vergadering",
+ "cast": "collega",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "narration": [
+  {
+   "part": "hook",
+   "text": "Do you ever freeze up when someone keeps talking over you?",
+   "at": 12,
+   "end": 109,
+   "until": 115
+  },
+  {
+   "part": "scene",
+   "text": "You finally speak up in the meeting. And then this.",
+   "at": 133,
+   "end": 221,
+   "until": 227
+  },
+  {
+   "part": "panic",
+   "text": "Your mind goes blank.",
+   "at": 310,
+   "end": 361,
+   "until": 367
+  },
+  {
+   "part": "turn",
+   "text": "Here's what to say instead.",
+   "at": 379,
+   "end": 430,
+   "until": 436
+  },
+  {
+   "part": "cta",
+   "text": "Save this for the next time it happens.",
+   "at": 716,
+   "end": 784,
+   "until": 790
+  }
+ ],
+ "lines": [
+  {
+   "who": "collega",
+   "text": "Sorry, quick thing, I just think we should—",
+   "at": 229,
+   "end": 290,
+   "until": 373
+  },
+  {
+   "who": "ehm",
+   "text": "I'd like to finish my point.",
+   "at": 440,
+   "end": 481,
+   "until": 487,
+   "tone": "yes"
+  },
+  {
+   "who": "collega",
+   "text": "Oh. Sorry, go ahead.",
+   "at": 489,
+   "end": 525,
+   "until": 531
+  },
+  {
+   "who": "ehm",
+   "text": "So, as I was saying: the budget is too tight.",
+   "at": 533,
+   "end": 611,
+   "until": 619,
+   "tone": "yes"
+  },
+  {
+   "who": "collega",
+   "text": "Good point. I hadn't thought of that.",
+   "at": 621,
+   "end": 674,
+   "until": 704
+  }
+ ],
+ "scene": 123,
+ "panic": 296,
+ "turn": 373,
+ "good": 440,
+ "celebrate": 680,
+ "cta": 710,
+ "total": 825,
+ "badge": "+1 voice",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "voice": "kokoro"
+}

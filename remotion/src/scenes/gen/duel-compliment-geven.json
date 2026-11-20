@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "compliment-geven",
+ "pillar": "daten_vriendschap",
+ "caption": "Complimenting a coworker:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "kantoor",
+ "cast": "collega",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Did you need something?",
+   "at": 10,
+   "until": 47
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, you look... good, I guess.",
+   "at": 49,
+   "until": 115,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "...Good? Thanks?",
+   "at": 117,
+   "until": 143
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "I'm going home to change.",
+   "at": 145,
+   "until": 202
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Did you need something?",
+   "at": 258,
+   "until": 295
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I loved how you handled that tough question.",
+   "at": 297,
+   "until": 364,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Oh! Thanks, I was so nervous.",
+   "at": 366,
+   "until": 425
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I could learn a thing or two from you.",
+   "at": 427,
+   "until": 490,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "That honestly made my whole week.",
+   "at": 492,
+   "until": 593
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 107
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 135
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 174
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 356
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 480
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 569
+  }
+ ],
+ "nope": 186,
+ "crumble": 202,
+ "rewind": 222,
+ "expand": 248,
+ "celebrate": 543,
+ "cta": 603,
+ "total": 690,
+ "badge": "+1 kindness",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

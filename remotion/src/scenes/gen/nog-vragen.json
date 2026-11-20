@@ -1,0 +1,111 @@
+{
+ "slug": "nog-vragen",
+ "caption": "End of the job interview:",
+ "setting": "vergadering",
+ "cast": "baas",
+ "gag": "wolk",
+ "outfit": {
+  "body": "#F2D16B",
+  "deep": "#D9B23F",
+  "acc": "knot"
+ },
+ "shots": true,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 840,
+ "freeze": 275,
+ "rewindStart": 293,
+ "rewindEnd": 343,
+ "goodStart": 353,
+ "lines": [
+  {
+   "who": "baas",
+   "text": "Any questions for us?",
+   "at": 8,
+   "until": 117
+  },
+  {
+   "who": "ehm",
+   "text": "No, I think you covered everything.",
+   "at": 49,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "baas",
+   "text": "Nothing at all? Hm.",
+   "at": 119,
+   "until": 159
+  },
+  {
+   "who": "baas",
+   "text": "Most candidates ask something.",
+   "at": 161,
+   "until": 210
+  },
+  {
+   "who": "baas",
+   "text": "Okay... we'll be in touch.",
+   "at": 212,
+   "until": 258
+  },
+  {
+   "who": "baas",
+   "text": "Maybe.",
+   "at": 260,
+   "until": 999
+  },
+  {
+   "who": "baas",
+   "text": "Any questions for us?",
+   "at": 365,
+   "until": 483
+  },
+  {
+   "who": "ehm",
+   "text": "What does success look like in this role after six months?",
+   "at": 406,
+   "until": 539,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "Great question. Owning the roadmap.",
+   "at": 485,
+   "until": 604
+  },
+  {
+   "who": "ehm",
+   "text": "What do you enjoy most about working here?",
+   "at": 541,
+   "until": 683,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "Honestly? The people. You'd fit right in.",
+   "at": 606,
+   "until": 683
+  }
+ ],
+ "papers": [
+  125,
+  137,
+  167,
+  179,
+  218,
+  230,
+  266,
+  278
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 626,
+  "until": 776
+ },
+ "bossExit": 683,
+ "bossReturn": 779,
+ "celebrate": 695,
+ "badge": "+1 interview"
+}

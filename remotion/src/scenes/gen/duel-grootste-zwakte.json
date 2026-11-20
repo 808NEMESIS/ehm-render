@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "grootste-zwakte",
+ "pillar": "werk",
+ "caption": "Your greatest weakness?",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#F2D16B",
+  "deep": "#D9B23F",
+  "acc": "knot"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "What's your greatest weakness?",
+   "at": 10,
+   "until": 47
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "I'm a perfectionist.",
+   "at": 49,
+   "until": 88,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Interesting. Everyone says that.",
+   "at": 90,
+   "until": 148
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Same answer as everyone. Next!",
+   "at": 150,
+   "until": 226
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "What's your greatest weakness?",
+   "at": 282,
+   "until": 319
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I used to struggle with delegating.",
+   "at": 321,
+   "until": 380,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "And how do you handle that now?",
+   "at": 382,
+   "until": 429
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Now I agree on owners and check-ins upfront.",
+   "at": 431,
+   "until": 504,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Finally, a real answer. I delegate badly too.",
+   "at": 506,
+   "until": 649
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 80
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 140
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 198
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 372
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 494
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 625
+  }
+ ],
+ "nope": 210,
+ "crumble": 226,
+ "rewind": 246,
+ "expand": 272,
+ "celebrate": 599,
+ "cta": 659,
+ "total": 735,
+ "badge": "+1 honesty",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

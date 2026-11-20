@@ -1,0 +1,112 @@
+{
+ "slug": "grootste-zwakte",
+ "caption": "Your greatest weakness?",
+ "setting": "vergadering",
+ "cast": "baas",
+ "gag": "zakken",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "shots": true,
+ "coldOpen": 54,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 894,
+ "freeze": 306,
+ "rewindStart": 324,
+ "rewindEnd": 374,
+ "goodStart": 384,
+ "lines": [
+  {
+   "who": "baas",
+   "text": "What's your greatest weakness?",
+   "at": 8,
+   "until": 84
+  },
+  {
+   "who": "ehm",
+   "text": "I'm a perfectionist.",
+   "at": 49,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "baas",
+   "text": "Interesting. Everyone says that.",
+   "at": 86,
+   "until": 142
+  },
+  {
+   "who": "baas",
+   "text": "That's the fourth perfectionist today.",
+   "at": 144,
+   "until": 195
+  },
+  {
+   "who": "baas",
+   "text": "Should I just copy my notes?",
+   "at": 197,
+   "until": 246
+  },
+  {
+   "who": "baas",
+   "text": "Same answer as everyone. Next!",
+   "at": 248,
+   "until": 999
+  },
+  {
+   "who": "baas",
+   "text": "What's your greatest weakness?",
+   "at": 396,
+   "until": 492
+  },
+  {
+   "who": "ehm",
+   "text": "I used to struggle with delegating.",
+   "at": 437,
+   "until": 541,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "And how do you handle that now?",
+   "at": 494,
+   "until": 610
+  },
+  {
+   "who": "ehm",
+   "text": "Now I agree on owners and check-ins upfront.",
+   "at": 543,
+   "until": 711,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "Finally, a real answer. I delegate badly too.",
+   "at": 612,
+   "until": 711
+  }
+ ],
+ "papers": [
+  92,
+  104,
+  150,
+  162,
+  203,
+  215,
+  254,
+  266
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 632,
+  "until": 804
+ },
+ "bossExit": 711,
+ "bossReturn": 807,
+ "celebrate": 723,
+ "badge": "+1 honesty"
+}

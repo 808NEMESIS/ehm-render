@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "naam-vergeten",
+ "pillar": "ongemak",
+ "caption": "When you've forgotten their name:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "feestje",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Hey! Remember me?",
+   "at": 10,
+   "until": 48
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um... hey, you!",
+   "at": 50,
+   "until": 91,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "We talked for two hours last week!",
+   "at": 93,
+   "until": 146
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Wait. You do remember my name, right?",
+   "at": 148,
+   "until": 239
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Hey! Remember me?",
+   "at": 295,
+   "until": 333
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "This is embarrassing, but your name just slipped my mind.",
+   "at": 335,
+   "until": 425,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Oh, thank goodness.",
+   "at": 427,
+   "until": 461
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm Sam, in case mine slipped yours too.",
+   "at": 463,
+   "until": 531,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "I'm Sam too. That's why I remembered you.",
+   "at": 533,
+   "until": 657
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 83
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 138
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 211
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 417
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 521
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 633
+  }
+ ],
+ "nope": 223,
+ "crumble": 239,
+ "rewind": 259,
+ "expand": 285,
+ "celebrate": 607,
+ "cta": 667,
+ "total": 750,
+ "badge": "+1 courage",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

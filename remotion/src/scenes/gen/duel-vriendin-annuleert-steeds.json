@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "vriendin-annuleert-steeds",
+ "pillar": "daten_vriendschap",
+ "caption": "Your friend cancels. Again:",
+ "hook": "Don't say “Haha, it's fine, maybe next time.”",
+ "verdict": true,
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "So sorry, something came up. Rain check?",
+   "at": 10,
+   "until": 83
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Haha, it's fine, maybe next time.",
+   "at": 85,
+   "until": 148,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "You're the best! Same time next month?",
+   "at": 150,
+   "until": 206
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Let's just plan to plan something. Sometime!",
+   "at": 208,
+   "until": 300
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "So sorry, something came up. Rain check?",
+   "at": 356,
+   "until": 429
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I've noticed our plans keep falling through.",
+   "at": 431,
+   "until": 492,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Ugh, you're right. I'm sorry.",
+   "at": 494,
+   "until": 547
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Want to suggest a day when you're actually free?",
+   "at": 549,
+   "until": 624,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Saturday. I'm putting it in my calendar now.",
+   "at": 626,
+   "until": 758
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 140
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 198
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 272
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 484
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 614
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 734
+  }
+ ],
+ "nope": 284,
+ "crumble": 300,
+ "rewind": 320,
+ "expand": 346,
+ "celebrate": 708,
+ "cta": 768,
+ "total": 855,
+ "badge": "+1 friendship",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

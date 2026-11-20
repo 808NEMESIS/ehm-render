@@ -1,0 +1,112 @@
+{
+ "slug": "meeting-ertussen",
+ "caption": "Trying to speak in a meeting:",
+ "setting": "vergadering",
+ "cast": "baas",
+ "gag": "zakken",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "shots": true,
+ "coldOpen": 54,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 894,
+ "freeze": 328,
+ "rewindStart": 346,
+ "rewindEnd": 396,
+ "goodStart": 406,
+ "lines": [
+  {
+   "who": "baas",
+   "text": "Great, we launch Monday. Agreed?",
+   "at": 8,
+   "until": 132
+  },
+  {
+   "who": "ehm",
+   "text": "Sorry, can I just... never mind.",
+   "at": 69,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "baas",
+   "text": "Perfect, nobody has concerns.",
+   "at": 134,
+   "until": 186
+  },
+  {
+   "who": "baas",
+   "text": "Let's also cut the testing week.",
+   "at": 188,
+   "until": 237
+  },
+  {
+   "who": "baas",
+   "text": "And move the deadline up.",
+   "at": 239,
+   "until": 278
+  },
+  {
+   "who": "baas",
+   "text": "Done! Best meeting ever.",
+   "at": 280,
+   "until": 999
+  },
+  {
+   "who": "baas",
+   "text": "Great, we launch Monday. Agreed?",
+   "at": 418,
+   "until": 520
+  },
+  {
+   "who": "ehm",
+   "text": "Can I add something here?",
+   "at": 479,
+   "until": 562,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "Of course, go ahead.",
+   "at": 522,
+   "until": 617
+  },
+  {
+   "who": "ehm",
+   "text": "I see one more risk: the timeline.",
+   "at": 564,
+   "until": 687,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "Good catch. That would've cost us a month.",
+   "at": 619,
+   "until": 687
+  }
+ ],
+ "papers": [
+  140,
+  152,
+  194,
+  206,
+  245,
+  257,
+  286,
+  298
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 639,
+  "until": 780
+ },
+ "bossExit": 687,
+ "bossReturn": 783,
+ "celebrate": 699,
+ "badge": "+1 voice"
+}

@@ -1,0 +1,111 @@
+{
+ "slug": "compliment-geven",
+ "caption": "Complimenting a coworker:",
+ "setting": "kantoor",
+ "cast": "collega",
+ "gag": "zweet",
+ "outfit": {
+  "body": "#F7A8C4",
+  "deep": "#E07CA2",
+  "acc": "bril"
+ },
+ "shots": true,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 780,
+ "freeze": 259,
+ "rewindStart": 277,
+ "rewindEnd": 327,
+ "goodStart": 337,
+ "lines": [
+  {
+   "who": "collega",
+   "text": "Did you need something?",
+   "at": 8,
+   "until": 111
+  },
+  {
+   "who": "ehm",
+   "text": "Um, you look... good, I guess.",
+   "at": 49,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "collega",
+   "text": "...Good? Thanks?",
+   "at": 113,
+   "until": 137
+  },
+  {
+   "who": "collega",
+   "text": "Wait, what's wrong with my look?",
+   "at": 139,
+   "until": 187
+  },
+  {
+   "who": "collega",
+   "text": "Should I go change?",
+   "at": 189,
+   "until": 218
+  },
+  {
+   "who": "collega",
+   "text": "I'm going home to change.",
+   "at": 220,
+   "until": 999
+  },
+  {
+   "who": "collega",
+   "text": "Did you need something?",
+   "at": 349,
+   "until": 453
+  },
+  {
+   "who": "ehm",
+   "text": "I loved how you handled that tough question.",
+   "at": 390,
+   "until": 514,
+   "tone": "yes"
+  },
+  {
+   "who": "collega",
+   "text": "Oh! Thanks, I was so nervous.",
+   "at": 455,
+   "until": 573
+  },
+  {
+   "who": "ehm",
+   "text": "I could learn a thing or two from you.",
+   "at": 516,
+   "until": 632,
+   "tone": "yes"
+  },
+  {
+   "who": "collega",
+   "text": "That honestly made my whole week.",
+   "at": 575,
+   "until": 632
+  }
+ ],
+ "papers": [
+  119,
+  131,
+  145,
+  157,
+  195,
+  207,
+  226,
+  238
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 595,
+  "until": 725
+ },
+ "bossExit": 632,
+ "bossReturn": 728,
+ "celebrate": 644,
+ "badge": "+1 kindness"
+}

@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "fout-toegeven",
+ "pillar": "werk",
+ "caption": "When you made a mistake:",
+ "hook": "Don't say “It wasn't really my fault, the system...”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Why are the invoice numbers all wrong?",
+   "at": 10,
+   "until": 65
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "It wasn't really my fault, the system...",
+   "at": 67,
+   "until": 133,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "The system? I built the system.",
+   "at": 135,
+   "until": 193
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Let's discuss this with HR. Bring the system.",
+   "at": 195,
+   "until": 285
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Why are the invoice numbers all wrong?",
+   "at": 341,
+   "until": 396
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I made a mistake with the invoice numbers.",
+   "at": 398,
+   "until": 465,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Okay. Thanks for saying it.",
+   "at": 467,
+   "until": 513
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Here's what I've already done to fix it.",
+   "at": 515,
+   "until": 584,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Honestly? That's why I trust you with it.",
+   "at": 586,
+   "until": 706
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 125
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 185
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 257
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 457
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 574
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 682
+  }
+ ],
+ "nope": 269,
+ "crumble": 285,
+ "rewind": 305,
+ "expand": 331,
+ "celebrate": 656,
+ "cta": 716,
+ "total": 795,
+ "badge": "+1 trust",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

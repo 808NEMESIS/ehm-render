@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "feestje-afzeggen",
+ "pillar": "grenzen",
+ "caption": "Invited to a party you'd skip:",
+ "hook": "Don't say “I'll try to make it...”",
+ "verdict": true,
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Party at mine Saturday! You in?",
+   "at": 10,
+   "until": 70
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "I'll try to make it...",
+   "at": 72,
+   "until": 109,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "I told everyone you're the main act!",
+   "at": 111,
+   "until": 188
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Party at mine Saturday! You in?",
+   "at": 244,
+   "until": 304
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm going to sit this one out.",
+   "at": 306,
+   "until": 357,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Yes! I hate parties. I'm only hosting for Tom.",
+   "at": 359,
+   "until": 466
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 103
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 160
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 347
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 472
+  }
+ ],
+ "nope": 172,
+ "crumble": 188,
+ "rewind": 208,
+ "expand": 234,
+ "celebrate": 446,
+ "cta": 476,
+ "total": 525,
+ "badge": "+1 honesty",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

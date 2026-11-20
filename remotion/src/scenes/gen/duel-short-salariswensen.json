@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "salariswensen",
+ "pillar": "werk",
+ "caption": "When they ask your salary expectations:",
+ "hook": "Don't say “Um, whatever you usually pay is fine.”",
+ "verdict": true,
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "What salary are you looking for?",
+   "at": 10,
+   "until": 63
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, whatever you usually pay is fine.",
+   "at": 65,
+   "until": 137,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Perfect. Welcome to the sandwich package.",
+   "at": 139,
+   "until": 225
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "What salary are you looking for?",
+   "at": 281,
+   "until": 334
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Could you share the range for this role first?",
+   "at": 336,
+   "until": 399,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Great. I was worried you'd ask for sandwiches.",
+   "at": 401,
+   "until": 495
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 131
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 197
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 389
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 501
+  }
+ ],
+ "nope": 209,
+ "crumble": 225,
+ "rewind": 245,
+ "expand": 271,
+ "celebrate": 475,
+ "cta": 505,
+ "total": 555,
+ "badge": "+1 confidence",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

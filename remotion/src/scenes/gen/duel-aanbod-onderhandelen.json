@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "aanbod-onderhandelen",
+ "pillar": "werk",
+ "caption": "When the offer is too low:",
+ "hook": "Don't say “Oh... okay, that's fine.”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "We can offer you seventy thousand.",
+   "at": 10,
+   "until": 67
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Oh... okay, that's fine.",
+   "at": 69,
+   "until": 120,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Great! Glad that works for you.",
+   "at": 122,
+   "until": 172
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Welcome to the team. Bring your own laptop.",
+   "at": 174,
+   "until": 264
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "We can offer you seventy thousand.",
+   "at": 320,
+   "until": 377
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Based on my experience, I was expecting closer to $80,000.",
+   "at": 379,
+   "until": 477,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Hmm. That's above our range.",
+   "at": 479,
+   "until": 525
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Is there room to meet in the middle?",
+   "at": 527,
+   "until": 584,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Let's say seventy-six. And an extra week off.",
+   "at": 586,
+   "until": 714
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 112
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 164
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 236
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 469
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 574
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 690
+  }
+ ],
+ "nope": 248,
+ "crumble": 264,
+ "rewind": 284,
+ "expand": 310,
+ "celebrate": 664,
+ "cta": 724,
+ "total": 810,
+ "badge": "+1 salary",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

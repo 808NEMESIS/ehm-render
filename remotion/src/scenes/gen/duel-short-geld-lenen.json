@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "geld-lenen",
+ "pillar": "grenzen",
+ "caption": "When your friend needs money:",
+ "hook": "Don't say “Um... how much?”",
+ "verdict": true,
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Hey, could you lend me some money?",
+   "at": 10,
+   "until": 68
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um... how much?",
+   "at": 70,
+   "until": 102,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "So... could you cover my whole month?",
+   "at": 104,
+   "until": 184
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Hey, could you lend me some money?",
+   "at": 240,
+   "until": 298
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I don't lend money, even to friends.",
+   "at": 300,
+   "until": 366,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Thanks. I needed a friend more than money.",
+   "at": 368,
+   "until": 458
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 96
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 156
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 356
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 464
+  }
+ ],
+ "nope": 168,
+ "crumble": 184,
+ "rewind": 204,
+ "expand": 230,
+ "celebrate": 438,
+ "cta": 468,
+ "total": 525,
+ "badge": "+1 boundary",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

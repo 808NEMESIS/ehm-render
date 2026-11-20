@@ -1,0 +1,111 @@
+{
+ "slug": "eerste-werkdag-lunch",
+ "caption": "First day, lunch time:",
+ "setting": "restaurant",
+ "cast": "collega",
+ "gag": "zweet",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "shots": true,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 960,
+ "freeze": 315,
+ "rewindStart": 333,
+ "rewindEnd": 383,
+ "goodStart": 393,
+ "lines": [
+  {
+   "who": "collega",
+   "text": "Oh, hi. Can I help you?",
+   "at": 8,
+   "until": 136
+  },
+  {
+   "who": "ehm",
+   "text": "I'm new, I don't know anyone, haha...",
+   "at": 67,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "collega",
+   "text": "Okay... cool.",
+   "at": 138,
+   "until": 166
+  },
+  {
+   "who": "collega",
+   "text": "So you're just... standing there?",
+   "at": 168,
+   "until": 214
+  },
+  {
+   "who": "collega",
+   "text": "I'm gonna eat over there.",
+   "at": 216,
+   "until": 259
+  },
+  {
+   "who": "collega",
+   "text": "Enjoy your lunch, new person.",
+   "at": 261,
+   "until": 999
+  },
+  {
+   "who": "collega",
+   "text": "Oh, hi. Can I help you?",
+   "at": 405,
+   "until": 573
+  },
+  {
+   "who": "ehm",
+   "text": "Mind if I sit here? I'm Sam, I just started on the design team.",
+   "at": 464,
+   "until": 611,
+   "tone": "yes"
+  },
+  {
+   "who": "collega",
+   "text": "Hi Sam! I'm Priya.",
+   "at": 575,
+   "until": 690
+  },
+  {
+   "who": "ehm",
+   "text": "What's one thing I should know that's not in the onboarding?",
+   "at": 613,
+   "until": 776,
+   "tone": "yes"
+  },
+  {
+   "who": "collega",
+   "text": "Never microwave fish. And sit with us daily.",
+   "at": 692,
+   "until": 776
+  }
+ ],
+ "papers": [
+  144,
+  156,
+  174,
+  186,
+  222,
+  234,
+  267,
+  279
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 712,
+  "until": 869
+ },
+ "bossExit": 776,
+ "bossReturn": 872,
+ "celebrate": 788,
+ "badge": "+1 lunch buddy"
+}

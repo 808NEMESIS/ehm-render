@@ -1,0 +1,111 @@
+{
+ "slug": "verjaardag-onbekende",
+ "caption": "Party. You only know the host:",
+ "setting": "feestje",
+ "cast": "kennis",
+ "gag": "krimp",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "shots": true,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 780,
+ "freeze": 243,
+ "rewindStart": 261,
+ "rewindEnd": 311,
+ "goodStart": 321,
+ "lines": [
+  {
+   "who": "kennis",
+   "text": "Hi! I don't think we've met.",
+   "at": 8,
+   "until": 107
+  },
+  {
+   "who": "ehm",
+   "text": "So... um... nice party?",
+   "at": 60,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "kennis",
+   "text": "Yeah. It is.",
+   "at": 109,
+   "until": 139
+  },
+  {
+   "who": "kennis",
+   "text": "...Very nice.",
+   "at": 141,
+   "until": 162
+  },
+  {
+   "who": "kennis",
+   "text": "I'm gonna check on the chips.",
+   "at": 164,
+   "until": 209
+  },
+  {
+   "who": "kennis",
+   "text": "Okay. Bye.",
+   "at": 211,
+   "until": 999
+  },
+  {
+   "who": "kennis",
+   "text": "Hi! I don't think we've met.",
+   "at": 333,
+   "until": 424
+  },
+  {
+   "who": "ehm",
+   "text": "How do you know the host?",
+   "at": 385,
+   "until": 473,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "We went to college together!",
+   "at": 426,
+   "until": 549
+  },
+  {
+   "who": "ehm",
+   "text": "Oh nice, how long have you two known each other?",
+   "at": 475,
+   "until": 623,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Twelve years! Want the embarrassing stories?",
+   "at": 551,
+   "until": 623
+  }
+ ],
+ "papers": [
+  115,
+  127,
+  147,
+  159,
+  170,
+  182,
+  217,
+  229
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 571,
+  "until": 716
+ },
+ "bossExit": 623,
+ "bossReturn": 719,
+ "celebrate": 635,
+ "badge": "+1 new friend"
+}

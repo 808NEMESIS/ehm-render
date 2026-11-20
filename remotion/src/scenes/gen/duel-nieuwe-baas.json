@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "nieuwe-baas",
+ "pillar": "werk",
+ "caption": "Meeting your new boss:",
+ "hook": "Don't say “Hi, so... yeah, I'm just here, haha.”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Hi! I'm Alex, your new manager.",
+   "at": 10,
+   "until": 77
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Hi, so... yeah, I'm just here, haha.",
+   "at": 79,
+   "until": 162,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Haha. Okay. And you are...?",
+   "at": 164,
+   "until": 223
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "So... do you actually work here?",
+   "at": 225,
+   "until": 303
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Hi! I'm Alex, your new manager.",
+   "at": 359,
+   "until": 426
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Hi, I'm Sam, I work on the design team.",
+   "at": 428,
+   "until": 507,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Nice to meet you, Sam!",
+   "at": 509,
+   "until": 551
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What matters most to you in the next few months?",
+   "at": 553,
+   "until": 626,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Great question. Let's grab coffee this week.",
+   "at": 628,
+   "until": 742
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 154
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 215
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 275
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 499
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 616
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 718
+  }
+ ],
+ "nope": 287,
+ "crumble": 303,
+ "rewind": 323,
+ "expand": 349,
+ "celebrate": 692,
+ "cta": 752,
+ "total": 840,
+ "badge": "+1 first impression",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

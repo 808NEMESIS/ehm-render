@@ -1,0 +1,100 @@
+{
+ "kind": "verteller",
+ "slug": "vriend-vraagt-gratis-werk",
+ "pillar": "grenzen",
+ "caption": "When a friend wants a freebie:",
+ "hook": "Do you ever freeze up when a friend asks you to work for free?",
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "narration": [
+  {
+   "part": "hook",
+   "text": "Do you ever freeze up when a friend asks you to work for free?",
+   "at": 12,
+   "end": 114,
+   "until": 120
+  },
+  {
+   "part": "scene",
+   "text": "You're catching up with a friend. Then comes the favor.",
+   "at": 138,
+   "end": 233,
+   "until": 239
+  },
+  {
+   "part": "panic",
+   "text": "Your mind goes blank.",
+   "at": 332,
+   "end": 383,
+   "until": 389
+  },
+  {
+   "part": "turn",
+   "text": "Here's what to say instead.",
+   "at": 401,
+   "end": 452,
+   "until": 458
+  },
+  {
+   "part": "cta",
+   "text": "Save this for the next time it happens.",
+   "at": 769,
+   "end": 837,
+   "until": 843
+  }
+ ],
+ "lines": [
+  {
+   "who": "kennis",
+   "text": "You're good at logos, right? Quick favor?",
+   "at": 241,
+   "end": 312,
+   "until": 395
+  },
+  {
+   "who": "ehm",
+   "text": "This is the kind of work I normally charge for.",
+   "at": 462,
+   "end": 538,
+   "until": 544,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Oh, right. I didn't think of that.",
+   "at": 546,
+   "end": 602,
+   "until": 608
+  },
+  {
+   "who": "ehm",
+   "text": "Want me to send you my rates?",
+   "at": 610,
+   "end": 653,
+   "until": 661,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Yes please. I'd rather pay a pro.",
+   "at": 663,
+   "end": 727,
+   "until": 757
+  }
+ ],
+ "scene": 128,
+ "panic": 318,
+ "turn": 395,
+ "good": 462,
+ "celebrate": 733,
+ "cta": 763,
+ "total": 885,
+ "badge": "+1 worth",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "voice": "kokoro"
+}

@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "zondag-familie",
+ "pillar": "grenzen",
+ "caption": "Mom, every Sunday:",
+ "hook": "Don't say “Um, maybe, I'll see...”",
+ "verdict": true,
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#8FB3E8",
+  "deep": "#5E86C4",
+  "acc": "knot"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "See you Sunday, sweetie?",
+   "at": 10,
+   "until": 54
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, maybe, I'll see...",
+   "at": 56,
+   "until": 101,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "I already told everyone you're coming!",
+   "at": 103,
+   "until": 186
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "See you Sunday, sweetie?",
+   "at": 242,
+   "until": 286
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm skipping this Sunday, I need a quiet day.",
+   "at": 288,
+   "until": 366,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Honestly? I wanted a quiet Sunday too.",
+   "at": 368,
+   "until": 460
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 95
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 158
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 356
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 466
+  }
+ ],
+ "nope": 170,
+ "crumble": 186,
+ "rewind": 206,
+ "expand": 232,
+ "celebrate": 440,
+ "cta": 470,
+ "total": 525,
+ "badge": "+1 boundary",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

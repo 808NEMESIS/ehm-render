@@ -1,0 +1,125 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "verhuizing-helpen",
+ "pillar": "grenzen",
+ "caption": "Your friend is moving:",
+ "hook": "Watch Ehm get it wrong. Then right.",
+ "verdict": false,
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#8FB3E8",
+  "deep": "#5E86C4",
+  "acc": "knot"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Can you help me move Saturday?",
+   "at": 10,
+   "until": 59
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um... which weekend was it again?",
+   "at": 61,
+   "until": 121,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "This Saturday! 7 AM.",
+   "at": 123,
+   "until": 169
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "You're the only one who said yes!",
+   "at": 171,
+   "until": 244
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Can you help me move Saturday?",
+   "at": 300,
+   "until": 349
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I won't be helping with the heavy lifting this time.",
+   "at": 351,
+   "until": 430,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Oh. Okay, that's fair.",
+   "at": 432,
+   "until": 479
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "But I'll bring pizza for everyone that evening.",
+   "at": 481,
+   "until": 558,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Pizza? You're officially my favorite friend.",
+   "at": 560,
+   "until": 684
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 113
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 161
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 216
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 422
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 548
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 660
+  }
+ ],
+ "nope": 228,
+ "crumble": 244,
+ "rewind": 264,
+ "expand": 290,
+ "celebrate": 634,
+ "cta": 694,
+ "total": 780,
+ "badge": "+1 boundary",
+ "sticker": "10 lines for when your mind goes blank → free PDF"
+}

@@ -1,0 +1,100 @@
+{
+ "kind": "verteller",
+ "slug": "persoonlijke-vraag",
+ "pillar": "grenzen",
+ "caption": "Your aunt, at Christmas dinner:",
+ "hook": "Do you ever freeze up when family asks something way too personal?",
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#F7A8C4",
+  "deep": "#E07CA2",
+  "acc": "bril"
+ },
+ "narration": [
+  {
+   "part": "hook",
+   "text": "Do you ever freeze up when family asks something way too personal?",
+   "at": 12,
+   "end": 138,
+   "until": 144
+  },
+  {
+   "part": "scene",
+   "text": "Christmas dinner. Your aunt puts down her fork.",
+   "at": 162,
+   "end": 246,
+   "until": 252
+  },
+  {
+   "part": "panic",
+   "text": "Your mind goes blank.",
+   "at": 331,
+   "end": 382,
+   "until": 388
+  },
+  {
+   "part": "turn",
+   "text": "Here's what to say instead.",
+   "at": 400,
+   "end": 451,
+   "until": 457
+  },
+  {
+   "part": "cta",
+   "text": "Save this for the next time it happens.",
+   "at": 724,
+   "end": 792,
+   "until": 798
+  }
+ ],
+ "lines": [
+  {
+   "who": "kennis",
+   "text": "So, when are you two having kids?",
+   "at": 254,
+   "end": 311,
+   "until": 394
+  },
+  {
+   "who": "ehm",
+   "text": "I'd rather keep that to myself.",
+   "at": 461,
+   "end": 509,
+   "until": 515,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Oh! Of course, sweetie.",
+   "at": 517,
+   "end": 563,
+   "until": 569
+  },
+  {
+   "who": "ehm",
+   "text": "Anyway, how have you been?",
+   "at": 571,
+   "end": 612,
+   "until": 620,
+   "tone": "yes"
+  },
+  {
+   "who": "kennis",
+   "text": "Oh, me? Well, I took up salsa!",
+   "at": 622,
+   "end": 682,
+   "until": 712
+  }
+ ],
+ "scene": 152,
+ "panic": 317,
+ "turn": 394,
+ "good": 461,
+ "celebrate": 688,
+ "cta": 718,
+ "total": 840,
+ "badge": "+1 grace",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "voice": "kokoro"
+}

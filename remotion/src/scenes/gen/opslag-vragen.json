@@ -1,0 +1,111 @@
+{
+ "slug": "opslag-vragen",
+ "caption": "Asking your boss for a raise:",
+ "setting": "kantoor",
+ "cast": "baas",
+ "gag": "krimp",
+ "outfit": {
+  "body": "#F7A8C4",
+  "deep": "#E07CA2",
+  "acc": "bril"
+ },
+ "shots": true,
+ "gagObject": "paper",
+ "clockSpin": false,
+ "total": 900,
+ "freeze": 390,
+ "rewindStart": 408,
+ "rewindEnd": 458,
+ "goodStart": 468,
+ "lines": [
+  {
+   "who": "baas",
+   "text": "So, what did you want to discuss?",
+   "at": 8,
+   "until": 154
+  },
+  {
+   "who": "ehm",
+   "text": "Um, I was wondering if maybe there's a bit more...",
+   "at": 70,
+   "until": 999,
+   "tone": "not"
+  },
+  {
+   "who": "baas",
+   "text": "A bit more what? Coffee?",
+   "at": 156,
+   "until": 202
+  },
+  {
+   "who": "baas",
+   "text": "We actually have free coffee downstairs.",
+   "at": 204,
+   "until": 261
+  },
+  {
+   "who": "baas",
+   "text": "Should I put you on the coffee committee?",
+   "at": 263,
+   "until": 328
+  },
+  {
+   "who": "baas",
+   "text": "Great! You're our new coffee captain.",
+   "at": 330,
+   "until": 999
+  },
+  {
+   "who": "baas",
+   "text": "So, what did you want to discuss?",
+   "at": 480,
+   "until": 599
+  },
+  {
+   "who": "ehm",
+   "text": "I'd like to talk about my salary.",
+   "at": 542,
+   "until": 643,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "Okay, I'm listening.",
+   "at": 601,
+   "until": 694
+  },
+  {
+   "who": "ehm",
+   "text": "I'm asking for a raise to $72,000.",
+   "at": 645,
+   "until": 764,
+   "tone": "yes"
+  },
+  {
+   "who": "baas",
+   "text": "Finally! I thought you'd never ask.",
+   "at": 696,
+   "until": 764
+  }
+ ],
+ "papers": [
+  162,
+  174,
+  210,
+  222,
+  269,
+  281,
+  336,
+  348
+ ],
+ "frontStack": 8,
+ "sticker": {
+  "text": "1 more line that works → free PDF",
+  "at": 716,
+  "until": 857
+ },
+ "bossExit": 764,
+ "bossReturn": 860,
+ "celebrate": 776,
+ "badge": "+1 courage"
+}

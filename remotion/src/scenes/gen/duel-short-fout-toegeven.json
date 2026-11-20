@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "fout-toegeven",
+ "pillar": "werk",
+ "caption": "When you made a mistake:",
+ "hook": "Don't say “It wasn't really my fault, the system...”",
+ "verdict": true,
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Why are the invoice numbers all wrong?",
+   "at": 10,
+   "until": 65
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "It wasn't really my fault, the system...",
+   "at": 67,
+   "until": 131,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "baas",
+   "text": "Let's discuss this with HR. Bring the system.",
+   "at": 133,
+   "until": 223
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Why are the invoice numbers all wrong?",
+   "at": 279,
+   "until": 334
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I made a mistake with the invoice numbers.",
+   "at": 336,
+   "until": 405,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "baas",
+   "text": "Honestly? That's why I trust you with it.",
+   "at": 407,
+   "until": 497
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 125
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 195
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 395
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 503
+  }
+ ],
+ "nope": 207,
+ "crumble": 223,
+ "rewind": 243,
+ "expand": 269,
+ "celebrate": 477,
+ "cta": 507,
+ "total": 555,
+ "badge": "+1 trust",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

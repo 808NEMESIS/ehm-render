@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "vriend-stuurt-tikkie",
+ "pillar": "grenzen",
+ "caption": "When the bill gets split evenly:",
+ "hook": "Don't say “Oh, okay, I'll just pay it.”",
+ "verdict": true,
+ "setting": "restaurant",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "So that's 80 each. Easy, right?",
+   "at": 10,
+   "until": 69
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Oh, okay, I'll just pay it.",
+   "at": 71,
+   "until": 132,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Same time next week? Your treat!",
+   "at": 134,
+   "until": 204
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "So that's 80 each. Easy, right?",
+   "at": 260,
+   "until": 319
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Hey, I think the split might be off.",
+   "at": 321,
+   "until": 385,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Fair. You had water. I had lobster.",
+   "at": 387,
+   "until": 478
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 126
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 176
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 375
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 484
+  }
+ ],
+ "nope": 188,
+ "crumble": 204,
+ "rewind": 224,
+ "expand": 250,
+ "celebrate": 458,
+ "cta": 488,
+ "total": 540,
+ "badge": "+1 wallet",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

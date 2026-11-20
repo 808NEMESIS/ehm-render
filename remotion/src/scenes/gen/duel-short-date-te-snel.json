@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "date-te-snel",
+ "pillar": "grenzen",
+ "caption": "Date three. They're already planning:",
+ "hook": "Don't say “Um, okay, if you really want...”",
+ "verdict": true,
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Let's move in together! I found a place.",
+   "at": 10,
+   "until": 78
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, okay, if you really want...",
+   "at": 80,
+   "until": 145,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "I named our future dog. It's Biscuit.",
+   "at": 147,
+   "until": 235
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Let's move in together! I found a place.",
+   "at": 291,
+   "until": 359
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I like spending time with you.",
+   "at": 361,
+   "until": 410,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Phew. Honestly? I panicked. Slower sounds great.",
+   "at": 412,
+   "until": 522
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 139
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 207
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 400
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 528
+  }
+ ],
+ "nope": 219,
+ "crumble": 235,
+ "rewind": 255,
+ "expand": 281,
+ "celebrate": 502,
+ "cta": 532,
+ "total": 585,
+ "badge": "+1 boundaries",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

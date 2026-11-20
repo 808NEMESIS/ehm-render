@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "schoonfamilie-aan-tafel",
+ "pillar": "small_talk",
+ "caption": "Dinner with your partner's family:",
+ "hook": "Don't say “Um... great food.”",
+ "verdict": true,
+ "setting": "restaurant",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "So... do you like the soup?",
+   "at": 10,
+   "until": 58
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um... great food.",
+   "at": 60,
+   "until": 92,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "I'll get more soup, then.",
+   "at": 94,
+   "until": 158
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "So... do you like the soup?",
+   "at": 214,
+   "until": 262
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What was Sam like as a kid?",
+   "at": 264,
+   "until": 315,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Me? Even worse. Don't tell Sam.",
+   "at": 317,
+   "until": 398
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 86
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 130
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 305
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 404
+  }
+ ],
+ "nope": 142,
+ "crumble": 158,
+ "rewind": 178,
+ "expand": 204,
+ "celebrate": 378,
+ "cta": 408,
+ "total": 465,
+ "badge": "+1 family",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

@@ -1,0 +1,94 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "naam-vergeten",
+ "pillar": "ongemak",
+ "caption": "When you've forgotten their name:",
+ "hook": "Don't say “Um... hey, you!”",
+ "verdict": true,
+ "setting": "feestje",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Hey! Remember me?",
+   "at": 10,
+   "until": 48
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um... hey, you!",
+   "at": 50,
+   "until": 89,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Wait. You do remember my name, right?",
+   "at": 91,
+   "until": 182
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Hey! Remember me?",
+   "at": 238,
+   "until": 276
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "This is embarrassing, but your name just slipped my mind.",
+   "at": 278,
+   "until": 370,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "I'm Sam too. That's why I remembered you.",
+   "at": 372,
+   "until": 466
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 83
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 154
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 360
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 472
+  }
+ ],
+ "nope": 166,
+ "crumble": 182,
+ "rewind": 202,
+ "expand": 228,
+ "celebrate": 446,
+ "cta": 476,
+ "total": 525,
+ "badge": "+1 courage",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "variant": "short"
+}

@@ -511,9 +511,9 @@ def soundtrack(d: dict, seed: int = 7) -> np.ndarray:
 
     # muziek wijkt voor de stem: 7 dB zachter tijdens spraak, met zachte overgangen
     mask = np.zeros_like(buf)
-    for l in d["lines"]:
+    for l in d["lines"]:  # de escalatie heeft alleen brabbelstem, geen echte stem (zie duel_soundtrack)
         w = speech(l["text"], l["at"])
-        mask[idx(l["at"] - 2):idx(max(w[-1]["syl"][-1][1], spoken.get(id(l), 0)) + 4)] = 1
+        mask[idx(l["at"] - 2):idx(w[-1]["syl"][-1][1] + 4)] = 1
     k = int(0.12 * SR)
     mask = np.convolve(mask, np.ones(k) / k, mode="same")
     buf = buf * (1 - 0.55 * mask)

@@ -12,4 +12,5 @@ private repository `808NEMESIS/ehm-club`. Wijzig hier niets: de bron staat daar 
 - **Waar de inhoud vandaan komt:** uit de database, niet uit deze repository.
 - **Starten:** Actions > render > Run workflow.
 
-De beelden van Ehm horen bij Ehm Club en vallen niet onder een open licentie.
+De beelden van Ehm horen bij Ehm Club en vallen niet onder een open licentie. De lettertypen Fredoka en Nunito vallen
+onder de SIL Open Font License 1.1. De geluiden zijn eigen synthese (`scripts/geluid.py`).

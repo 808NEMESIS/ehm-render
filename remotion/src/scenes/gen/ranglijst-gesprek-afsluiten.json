@@ -1,0 +1,50 @@
+{
+ "kind": "ranglijst",
+ "slug": "gesprek-afsluiten",
+ "pillar": "ongemak",
+ "title": "Ranking ways to escape a conversation",
+ "tiers": [
+  "S",
+  "A",
+  "B",
+  "C",
+  "F"
+ ],
+ "items": [
+  {
+   "text": "Fake a phone call",
+   "tier": "C",
+   "at": 36,
+   "land": 86
+  },
+  {
+   "text": "Walk away mid-sentence",
+   "tier": "F",
+   "at": 104,
+   "land": 149
+  },
+  {
+   "text": "Slowly back away, still nodding",
+   "tier": "B",
+   "at": 167,
+   "land": 222
+  },
+  {
+   "text": "Introduce them to someone else",
+   "tier": "A",
+   "at": 240,
+   "land": 295
+  },
+  {
+   "text": "I'm going to go mingle. Catch you later!",
+   "tier": "S",
+   "at": 313,
+   "land": 395,
+   "script": true
+  }
+ ],
+ "outro": 425,
+ "total": 510,
+ "ask": "Wrong order? Fight me in the comments.",
+ "sticker": "Comment SAY → free PDF"
+}

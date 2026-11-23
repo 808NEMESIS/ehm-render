@@ -1,0 +1,24 @@
+{
+ "kind": "pov",
+ "slug": "grap-valt-stil",
+ "pillar": "ongemak",
+ "pov": "POV: you tried a joke in the team meeting",
+ "setting": "kantoor",
+ "cast": "collega",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "gag": "bevriezen",
+ "line": {
+  "who": "collega",
+  "text": "...Was that a joke?",
+  "at": 10,
+  "end": 31,
+  "until": 234
+ },
+ "react": 35,
+ "total": 240,
+ "sticker": "Comment SAY → free PDF"
+}

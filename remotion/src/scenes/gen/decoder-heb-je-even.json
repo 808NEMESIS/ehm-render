@@ -1,0 +1,43 @@
+{
+ "kind": "decoder",
+ "slug": "heb-je-even",
+ "pillar": "grenzen",
+ "title": "What your boss says vs. what it means",
+ "setting": "kantoor",
+ "cast": "baas",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "pairs": [
+  {
+   "say": "Hey, got a sec?",
+   "mean": "This will take your whole afternoon.",
+   "at": 40,
+   "end": 68,
+   "stamp": 76,
+   "until": 142
+  },
+  {
+   "say": "Quick question.",
+   "mean": "There is no quick question.",
+   "at": 150,
+   "end": 163,
+   "stamp": 171,
+   "until": 231
+  },
+  {
+   "say": "Let's take this offline.",
+   "mean": "Not in front of everyone.",
+   "at": 239,
+   "end": 264,
+   "stamp": 272,
+   "until": 332
+  }
+ ],
+ "outro": 340,
+ "total": 420,
+ "send": "Send this to someone who says “Hey, got a sec?”",
+ "sticker": "Comment SAY → free PDF"
+}

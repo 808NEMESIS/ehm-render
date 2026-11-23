@@ -1,0 +1,24 @@
+{
+ "kind": "pov",
+ "slug": "persoonlijke-vraag",
+ "pillar": "grenzen",
+ "pov": "POV: Christmas dinner, and your aunt puts down her fork",
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#F2D16B",
+  "deep": "#D9B23F",
+  "acc": "knot"
+ },
+ "gag": "bevriezen",
+ "line": {
+  "who": "kennis",
+  "text": "So, when are you two having kids?",
+  "at": 10,
+  "end": 60,
+  "until": 234
+ },
+ "react": 64,
+ "total": 240,
+ "sticker": "Comment SAY → free PDF"
+}

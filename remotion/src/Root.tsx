@@ -14,6 +14,12 @@ import {Duel, DuelData} from './scenes/Duel';
 import duelVoorbeeld from './scenes/gen/duel-geld-lenen.json';
 import {Verteller, VertellerData} from './scenes/Verteller';
 import vertellerVoorbeeld from './scenes/gen/verteller-collega-schuift-werk.json';
+import {Pov, PovData} from './scenes/Pov';
+import povVoorbeeld from './scenes/gen/pov-vriend-stuurt-tikkie.json';
+import {Decoder, DecoderData} from './scenes/Decoder';
+import decoderVoorbeeld from './scenes/gen/decoder-vriendin-annuleert-steeds.json';
+import {Ranglijst, RanglijstData} from './scenes/Ranglijst';
+import ranglijstVoorbeeld from './scenes/gen/ranglijst-feestje-afzeggen.json';
 import {fontsLoaded} from './fonts';
 
 const handle = delayRender('fonts');
@@ -40,6 +46,12 @@ export const Root: React.FC = () => (
       defaultProps={{data: duelVoorbeeld as DuelData}} calculateMetadata={({props}) => ({durationInFrames: props.data.total})} />
     <Composition id="Verteller" component={Verteller} durationInFrames={vertellerVoorbeeld.total} fps={30} width={1080} height={1920}
       defaultProps={{data: vertellerVoorbeeld as VertellerData}} calculateMetadata={({props}) => ({durationInFrames: props.data.total})} />
+    <Composition id="Pov" component={Pov} durationInFrames={povVoorbeeld.total} fps={30} width={1080} height={1920}
+      defaultProps={{data: povVoorbeeld as PovData}} calculateMetadata={({props}) => ({durationInFrames: props.data.total})} />
+    <Composition id="Decoder" component={Decoder} durationInFrames={decoderVoorbeeld.total} fps={30} width={1080} height={1920}
+      defaultProps={{data: decoderVoorbeeld as DecoderData}} calculateMetadata={({props}) => ({durationInFrames: props.data.total})} />
+    <Composition id="Ranglijst" component={Ranglijst} durationInFrames={ranglijstVoorbeeld.total} fps={30} width={1080} height={1920}
+      defaultProps={{data: ranglijstVoorbeeld as RanglijstData}} calculateMetadata={({props}) => ({durationInFrames: props.data.total})} />
     <Composition id="Carrousel" component={Carrousel} durationInFrames={CARROUSEL_SLIDES} fps={1} width={1080} height={1350} defaultProps={voorbeeld} />
     <Composition id="SbEscalatie" component={SbEscalatieFrames} durationInFrames={SB_ESCALATIE_PANELS} fps={1} width={1080} height={1920} />
     <Composition id="SbQuiz" component={SbQuizFrames} durationInFrames={SB_QUIZ_PANELS} fps={1} width={1080} height={1920} />

@@ -1,0 +1,24 @@
+{
+ "kind": "pov",
+ "slug": "vriend-stuurt-tikkie",
+ "pillar": "grenzen",
+ "pov": "POV: you had a side salad and tap water",
+ "setting": "restaurant",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "gag": "krimpen",
+ "line": {
+  "who": "kennis",
+  "text": "So that's 80 each. Easy, right?",
+  "at": 10,
+  "end": 61,
+  "until": 234
+ },
+ "react": 65,
+ "total": 240,
+ "sticker": "Comment SAY → free PDF"
+}

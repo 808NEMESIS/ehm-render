@@ -1,0 +1,43 @@
+{
+ "kind": "decoder",
+ "slug": "date-telefoon",
+ "pillar": "daten_vriendschap",
+ "title": "What dates say vs. what they mean",
+ "setting": "restaurant",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#9FD8B8",
+  "deep": "#6DBB93",
+  "acc": "pet"
+ },
+ "pairs": [
+  {
+   "say": "I'm not usually like this.",
+   "mean": "I am exactly like this.",
+   "at": 40,
+   "end": 75,
+   "stamp": 83,
+   "until": 143
+  },
+  {
+   "say": "Let's see where it goes.",
+   "mean": "I have zero plans.",
+   "at": 151,
+   "end": 178,
+   "stamp": 186,
+   "until": 240
+  },
+  {
+   "say": "Sorry, one sec.",
+   "mean": "I'm updating the group chat about you.",
+   "at": 248,
+   "end": 274,
+   "stamp": 282,
+   "until": 354
+  }
+ ],
+ "outro": 362,
+ "total": 450,
+ "send": "Send this to someone who says “I'm not usually like this.”",
+ "sticker": "Comment SAY → free PDF"
+}

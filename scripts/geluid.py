@@ -938,8 +938,154 @@ def verteller_soundtrack(d: dict, seed: int = 7) -> np.ndarray:
     return buf * (1 - 0.6 * mask) + voice * 0.95 + lp(fx, 14000)
 
 
+# ------------------------------------------------------------------ de korte vormen (23 nov): POV, decoder, ranglijst
+def bed(total: int, rng, party_from: int | None = None, quiet: list[tuple[int, int]] = (), tense_until: int = 0,
+        loop: bool = False) -> np.ndarray:
+    """Licht bed op 120 BPM: mineur en dun tot tense_until, dan helder; vanaf party_from met drums. Stil in `quiet`.
+    loop=True: het laatste stuk zwakt af naar het begin, zodat de knip naar frame 0 niet opvalt."""
+    mel = np.zeros(idx(total) + SR)
+    bass = np.zeros_like(mel)
+    drums = np.zeros_like(mel)
+    for beat in range(total // BEAT):
+        f = beat * BEAT
+        if any(a <= f < b for a, b in quiet):
+            continue
+        bar, b = f // BAR, beat % 4
+        root, chord = PROG[bar % 4]
+        tense = f < tense_until
+        if tense:
+            chord = [chord[0] - 1, chord[1] - 1, chord[2] - 1]
+            root -= 1
+        party = party_from is not None and f >= party_from
+        steps = 4 if party else 2
+        for s in range(steps):
+            place(mel, marimba(chord[(b * steps + s) % 3] + (0 if tense else 12), 0.45 + rng.uniform(-0.05, 0.05)), f + s * BEAT / steps)
+        if b in (0, 2):
+            place(bass, pizz(root - 12, 0.8), f)
+        if party:
+            place(drums, kick(0.6), f) if b in (0, 2) else place(drums, snare(0.45, rng), f)
+            place(drums, hat(0.5, rng), f + BEAT / 2)
+        else:
+            place(drums, shaker(0.55, rng), f + BEAT / 2)
+    mel = reverb(mel, 0.28)
+    out = lp(mel * 0.8 + bass * 0.9 + drums * 0.8, 9000, 4)[: idx(total)]
+    if loop:  # de staart van de galm hoort bij het begin: optellen, dan klinkt de knip als één doorlopend bed
+        n = idx(12)
+        out[:n] += lp(mel * 0.8, 9000, 4)[idx(total): idx(total) + n] * np.linspace(1, 0, n)
+    return out
+
+
+def _ducked(buf: np.ndarray, voice: np.ndarray, fx: np.ndarray, spans: list[tuple[float, float]]) -> np.ndarray:
+    mask = np.zeros_like(buf)
+    for a, b in spans:
+        mask[idx(max(0, a - 2)):idx(b + 4)] = 1
+    k = int(0.12 * SR)
+    mask = np.convolve(mask, np.ones(k) / k, mode="same")
+    return buf * (1 - 0.55 * mask) + voice * 0.9 + lp(fx, 14000)
+
+
+def pov_soundtrack(d: dict, seed: int = 7) -> np.ndarray:
+    """POV-loop: de ander brabbelt de aanleiding, dan de grap met Ehm's geluidjes; het bed valt weg bij de reactie
+    (ongemakkelijke stilte) en komt aan het eind terug voor de lus."""
+    rng = np.random.RandomState(seed)
+    np.random.seed(seed)
+    total, r, line = d["total"], d["react"], d["line"]
+    buf = bed(total, rng, quiet=[(r, total - 30)], tense_until=total, loop=True) * 0.4
+    fx = np.zeros_like(buf)
+    voice = np.zeros_like(buf)
+    place(fx, pop(rng, -2), line["at"] - 1, 0.6)
+    snd, at = babble(line["text"], line["at"], line["who"], rng)
+    place(voice, snd, at)
+    place(fx, thump(rng, -3, 0.9), r)
+    gag = d["gag"]
+    if gag == "bevriezen":
+        place(voice, ehm_voc("eep", rng), r + 1, 0.8)
+        place(fx, whoosh(rng, 0.3, up=False, gain=0.5), r + 4)
+        for k in range(6):          # ijs dat aangroeit: korte heldere tikjes
+            place(fx, tink(rng), r + 6 + k * 3, 0.5)
+        for f in range(r + 30, total - 20, 22):
+            place(fx, heartbeat(rng), f, 0.9)
+    elif gag == "krimpen":
+        place(voice, ehm_voc("gulp", rng), r + 1, 0.9)
+        for k in range(8):          # steeds hoger piepje bij het krimpen
+            place(fx, soft_boing(rng, 1.0 + k * 0.12), r + 6 + k * 12, 0.5)
+        place(voice, ehm_voc("whimper", rng), r + 100, 0.6)
+    else:  # zweten
+        place(voice, ehm_voc("gulp", rng), r + 1, 0.9)
+        for f in range(r + 8, total - 6, 5):
+            place(fx, pop(rng, 10 + rng.uniform(-2, 2)), f, 0.25)   # druppels
+        place(voice, ehm_voc("whimper", rng), r + 70, 0.6)
+    place(fx, pop(rng, 8), r + 28, 0.7)                              # de roep
+    return _ducked(buf, voice, fx, [(line["at"], line["end"])])
+
+
+def decoder_soundtrack(d: dict, seed: int = 7) -> np.ndarray:
+    """Decoder: per zin brabbelt de ander, dan een stempelklap met een dalend 'wah' of een boing, en Ehm reageert."""
+    rng = np.random.RandomState(seed)
+    np.random.seed(seed)
+    buf = bed(d["total"], rng, party_from=d["outro"]) * 0.42
+    fx = np.zeros_like(buf)
+    voice = np.zeros_like(buf)
+    spans = []
+    reacts = ["eep", "gulp", "hm"]
+    for i, p in enumerate(d["pairs"]):
+        place(fx, pop(rng, -2), p["at"] - 1, 0.6)
+        snd, at = babble(p["say"], p["at"], d["cast"], rng)
+        place(voice, snd, at)
+        spans.append((p["at"], p["end"]))
+        place(fx, whoosh(rng, 0.25, up=False, gain=0.5), p["stamp"] - 6)
+        place(fx, thump(rng, -2, 1.0), p["stamp"])
+        place(fx, wahwah(rng) if i % 2 == 0 else boing(rng), p["stamp"] + 3, 0.6)
+        place(voice, ehm_voc(reacts[i % 3], rng), p["stamp"] + 6, 0.7)
+    place(fx, pop(rng, 6), d["outro"], 0.8)
+    place(fx, sparkle(rng), d["outro"] + 4)
+    place(voice, ehm_voc("giggle", rng), d["outro"] + 10, 0.7)
+    place(fx, pop(rng, 8), d["outro"] + 12, 0.8)
+    return _ducked(buf, voice, fx, spans)
+
+
+def ranglijst_soundtrack(d: dict, seed: int = 7) -> np.ndarray:
+    """Ranglijst: een kaartje komt omhoog (select), zoeft naar zijn rij en klapt neer; F krijgt wah-wah, S een fanfare."""
+    rng = np.random.RandomState(seed)
+    np.random.seed(seed)
+    s_item = next(i for i in d["items"] if i["tier"] == "S")
+    buf = bed(d["total"], rng, party_from=s_item["land"], quiet=[(s_item["at"] + 20, s_item["land"])]) * 0.4
+    fx = np.zeros_like(buf)
+    voice = np.zeros_like(buf)
+    for it in d["items"]:
+        place(fx, select(rng), it["at"], 0.7)
+        place(fx, whoosh(rng, 0.3, up=True, gain=0.5), it["land"] - 9)
+        place(fx, thump(rng, 2 if it["tier"] in "SA" else -2, 1.0), it["land"])
+        tier = it["tier"]
+        if tier == "F":
+            place(fx, wahwah(rng), it["land"] + 3, 0.8)
+            place(voice, ehm_voc("eep", rng), it["land"] + 2, 0.7)
+        elif tier == "C":
+            place(voice, ehm_voc("hm", rng), it["land"] + 3, 0.7)
+        elif tier == "A":
+            place(fx, ding(rng, 79), it["land"] + 2, 0.7)
+        elif tier == "S":
+            for f in range(s_item["at"] + 20, s_item["land"], 6):   # tromgeroffel naar de beste
+                place(fx, snare(0.3 + 0.5 * (f - s_item["at"]) / max(1, s_item["land"] - s_item["at"]), rng), f)
+            place(fx, levelup(rng), it["land"] + 2, 0.9)
+            place(fx, sparkle(rng), it["land"] + 5)
+            place(voice, ehm_voc("yay", rng), it["land"] + 6, 0.8)
+            place(fx, applause(rng, 1.6), it["land"] + 10, 0.5)
+    place(fx, pop(rng, 6), d["outro"], 0.8)
+    place(voice, ehm_voc("giggle", rng), d["outro"] + 8, 0.6)
+    place(fx, pop(rng, 8), d["outro"] + 14, 0.8)
+    return _ducked(buf, voice, fx, [])
+
+
 def soundtrack_for(d: dict, seed: int) -> np.ndarray:
     """De juiste geluidsband bij de soort scène."""
+    kind = d.get("kind")
+    if kind == "pov":
+        return pov_soundtrack(d, seed)
+    if kind == "decoder":
+        return decoder_soundtrack(d, seed)
+    if kind == "ranglijst":
+        return ranglijst_soundtrack(d, seed)
     if d.get("coldOpen"):
         rng = np.random.RandomState(seed + 1)
         base = soundtrack(d, seed)

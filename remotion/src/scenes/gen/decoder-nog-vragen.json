@@ -1,0 +1,43 @@
+{
+ "kind": "decoder",
+ "slug": "nog-vragen",
+ "pillar": "werk",
+ "title": "What job interviews say vs. what they mean",
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "pairs": [
+  {
+   "say": "We're like a family here.",
+   "mean": "You'll answer emails on Sunday.",
+   "at": 40,
+   "end": 75,
+   "stamp": 83,
+   "until": 143
+  },
+  {
+   "say": "It's a fast-paced environment.",
+   "mean": "Nobody knows what's going on.",
+   "at": 151,
+   "end": 192,
+   "stamp": 200,
+   "until": 260
+  },
+  {
+   "say": "We'll be in touch!",
+   "mean": "We will not be in touch.",
+   "at": 268,
+   "end": 289,
+   "stamp": 297,
+   "until": 363
+  }
+ ],
+ "outro": 371,
+ "total": 465,
+ "send": "Send this to someone who says “We're like a family here.”",
+ "sticker": "Comment SAY → free PDF"
+}

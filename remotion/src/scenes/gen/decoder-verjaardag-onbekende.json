@@ -1,0 +1,43 @@
+{
+ "kind": "decoder",
+ "slug": "verjaardag-onbekende",
+ "pillar": "small_talk",
+ "title": "What party small talk really means",
+ "setting": "feestje",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "pairs": [
+  {
+   "say": "We should hang out sometime!",
+   "mean": "This is the last time we talk.",
+   "at": 40,
+   "end": 75,
+   "stamp": 83,
+   "until": 155
+  },
+  {
+   "say": "I've heard so much about you!",
+   "mean": "I've heard your name once.",
+   "at": 163,
+   "end": 200,
+   "stamp": 208,
+   "until": 268
+  },
+  {
+   "say": "Anyway, I should say hi to someone.",
+   "mean": "I'm escaping. Goodbye.",
+   "at": 276,
+   "end": 334,
+   "stamp": 342,
+   "until": 390
+  }
+ ],
+ "outro": 398,
+ "total": 480,
+ "send": "Send this to someone who says “We should hang out sometime!”",
+ "sticker": "Comment SAY → free PDF"
+}

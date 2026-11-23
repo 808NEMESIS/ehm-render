@@ -1,0 +1,24 @@
+{
+ "kind": "pov",
+ "slug": "camera-aan-meeting",
+ "pillar": "werk",
+ "pov": "POV: you're wearing pajama pants on the team call",
+ "setting": "vergadering",
+ "cast": "baas",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "gag": "zweten",
+ "line": {
+  "who": "baas",
+  "text": "Can everyone turn their cameras on?",
+  "at": 10,
+  "end": 59,
+  "until": 234
+ },
+ "react": 63,
+ "total": 240,
+ "sticker": "Comment SAY → free PDF"
+}

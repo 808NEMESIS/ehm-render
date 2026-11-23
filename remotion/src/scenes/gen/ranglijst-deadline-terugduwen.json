@@ -1,0 +1,50 @@
+{
+ "kind": "ranglijst",
+ "slug": "deadline-terugduwen",
+ "pillar": "grenzen",
+ "title": "Ranking replies to \"I need it by tomorrow\"",
+ "tiers": [
+  "S",
+  "A",
+  "B",
+  "C",
+  "F"
+ ],
+ "items": [
+  {
+   "text": "Pull an all-nighter. Cry at 3 AM.",
+   "tier": "C",
+   "at": 36,
+   "land": 101
+  },
+  {
+   "text": "Sure, no problem, I'll make it work...",
+   "tier": "F",
+   "at": 119,
+   "land": 184
+  },
+  {
+   "text": "Reply \"Noted.\" and nothing else",
+   "tier": "B",
+   "at": 202,
+   "land": 257
+  },
+  {
+   "text": "Ask which deadline is really first",
+   "tier": "A",
+   "at": 275,
+   "land": 335
+  },
+  {
+   "text": "Tomorrow isn't realistic with what's on my plate.",
+   "tier": "S",
+   "at": 353,
+   "land": 435,
+   "script": true
+  }
+ ],
+ "outro": 465,
+ "total": 540,
+ "ask": "Wrong order? Fight me in the comments.",
+ "sticker": "Comment SAY → free PDF"
+}

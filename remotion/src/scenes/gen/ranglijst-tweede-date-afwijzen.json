@@ -1,0 +1,50 @@
+{
+ "kind": "ranglijst",
+ "slug": "tweede-date-afwijzen",
+ "pillar": "daten_vriendschap",
+ "title": "Ranking ways to turn down a second date",
+ "tiers": [
+  "S",
+  "A",
+  "B",
+  "C",
+  "F"
+ ],
+ "items": [
+  {
+   "text": "\"I'm really busy this month\"",
+   "tier": "C",
+   "at": 36,
+   "land": 91
+  },
+  {
+   "text": "Ghost them and hope they forget",
+   "tier": "F",
+   "at": 109,
+   "land": 169
+  },
+  {
+   "text": "Reply \"haha\" to everything",
+   "tier": "B",
+   "at": 187,
+   "land": 237
+  },
+  {
+   "text": "\"I think we're better as friends\"",
+   "tier": "A",
+   "at": 255,
+   "land": 315
+  },
+  {
+   "text": "I didn't feel the connection I'm looking for.",
+   "tier": "S",
+   "at": 333,
+   "land": 415,
+   "script": true
+  }
+ ],
+ "outro": 445,
+ "total": 525,
+ "ask": "Wrong order? Fight me in the comments.",
+ "sticker": "Comment SAY → free PDF"
+}

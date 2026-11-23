@@ -1,0 +1,24 @@
+{
+ "kind": "pov",
+ "slug": "na-werktijd-appje",
+ "pillar": "grenzen",
+ "pov": "POV: it's 9:47 PM and you finally sat down",
+ "setting": "keuken",
+ "cast": "baas",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "gag": "krimpen",
+ "line": {
+  "who": "baas",
+  "text": "Hey, quick thing. Can you fix the slides?",
+  "at": 10,
+  "end": 73,
+  "until": 234
+ },
+ "react": 77,
+ "total": 240,
+ "sticker": "Comment SAY → free PDF"
+}

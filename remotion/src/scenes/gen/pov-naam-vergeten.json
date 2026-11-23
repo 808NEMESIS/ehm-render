@@ -1,0 +1,24 @@
+{
+ "kind": "pov",
+ "slug": "naam-vergeten",
+ "pillar": "ongemak",
+ "pov": "POV: they remember your name. You don't remember theirs.",
+ "setting": "feestje",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#FFB27A",
+  "deep": "#E98A4F",
+  "acc": "bril"
+ },
+ "gag": "zweten",
+ "line": {
+  "who": "kennis",
+  "text": "Hey! Remember me?",
+  "at": 10,
+  "end": 40,
+  "until": 234
+ },
+ "react": 44,
+ "total": 240,
+ "sticker": "Comment SAY → free PDF"
+}

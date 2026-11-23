@@ -106,8 +106,30 @@ def render_post(post: dict, work: Path) -> dict:
         cover = scene_cover(post["format"], scene)
         thumb = render.still(mp4, work / "thumbnail.png", cover)
         url = upload(post["id"], mp4)
-        return {"video": {"tiktok": url, "youtube": url}, "thumbnail": upload(post["id"], thumb), "cover_ms": round(cover * 1000)}
+        videos = {"tiktok": url, "youtube": url}
+        # Een eigen eindkaart per platform (scene.sticker_by_platform, bijvoorbeeld "Comment SAY" alleen op Instagram,
+        # waar de DM-route werkt): een tweede video met dezelfde geluidsband, als media.video.<platform>.
+        for platform in sorted(scene.get("sticker_by_platform") or {}):
+            if platform in ("tiktok", "youtube"):
+                raise RunnerError(f"eindkaart per platform: {platform} is de standaardvideo, gebruik scene.sticker")
+            alt = render.video({"data": scene_for(scene, platform), "audio": rel}, platform, work, SCENE_VIDEOS[post["format"]])
+            videos[platform] = upload(post["id"], alt)
+        return {"video": videos, "thumbnail": upload(post["id"], thumb), "cover_ms": round(cover * 1000)}
     raise RunnerError(f"vorm {post['format']} wordt niet gerenderd")
+
+
+def scene_for(scene: dict, platform: str) -> dict:
+    """De scène met de eindkaart voor dit platform. Is de sticker een object (escalatie: tekst met tijden), dan
+    vervangt de override alleen wat hij noemt; een tekst vervangt de tekst."""
+    override = (scene.get("sticker_by_platform") or {})[platform]
+    base = scene.get("sticker")
+    if isinstance(base, dict):
+        sticker = {**base, **(override if isinstance(override, dict) else {"text": override})}
+    else:
+        sticker = override["text"] if isinstance(override, dict) else override
+    out = {k: v for k, v in scene.items() if k != "sticker_by_platform"}
+    out["sticker"] = sticker
+    return out
 
 
 # Scènevideo's: de vorm, de compositie in remotion/src/Root.tsx, en de omslag (in seconden) met de meeste spanning.

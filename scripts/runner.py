@@ -8,7 +8,9 @@
    De database controleert de bestanden, zet de post op qa_passed en zet hem in de inbox in Slack.
 Mislukt een post, dan meldt de runner dat; de taak komt later vanzelf terug.
 
-Omgeving: RUNNER_URL, MAX_POSTS (standaard 40), en in GitHub Actions ACTIONS_ID_TOKEN_REQUEST_URL/_TOKEN
+Omgeving: RUNNER_URL, MAX_POSTS (standaard 40), RENDER_MINUTES (standaard 70: daarna geen nieuwe post meer, zodat
+de timeout van de workflow (90 min) nooit midden in een render valt; sinds de eindkaart per platform rendert een video
+twee keer), en in GitHub Actions ACTIONS_ID_TOKEN_REQUEST_URL/_TOKEN
 (permissions: id-token: write). Lokaal testen kan met RUNNER_TOKEN in plaats van die twee.
 """
 from __future__ import annotations
@@ -18,6 +20,7 @@ import mimetypes
 import os
 import sys
 import tempfile
+import time
 import traceback
 import urllib.error
 import urllib.parse
@@ -178,10 +181,13 @@ def jpeg_backlog(work: Path) -> int:
     return n
 
 
-def run(max_posts: int = 40) -> dict:
+def run(max_posts: int = 40, minutes: float = 70) -> dict:
+    """Rendert tot max_posts posts, en begint na `minutes` minuten geen nieuwe meer. Eén taak per claim: een
+    geclaimde taak die niet meer aan de beurt komt, blijft anders tot het einde van de lease liggen."""
     done = failed = 0
-    while done + failed < max_posts:
-        jobs = call("claim", max=min(5, max_posts - done - failed))["jobs"]
+    deadline = time.monotonic() + minutes * 60
+    while done + failed < max_posts and time.monotonic() < deadline:
+        jobs = call("claim", max=1)["jobs"]
         if not jobs:
             break
         for job in jobs:
@@ -211,5 +217,5 @@ def run(max_posts: int = 40) -> dict:
 
 
 if __name__ == "__main__":
-    r = run(int(os.environ.get("MAX_POSTS") or 40))
+    r = run(int(os.environ.get("MAX_POSTS") or 40), float(os.environ.get("RENDER_MINUTES") or 70))
     sys.exit(1 if r["failed"] and not r["done"] else 0)

@@ -1,0 +1,417 @@
+{
+ "kind": "uitleg",
+ "slug": "heb-je-even",
+ "pillar": "grenzen",
+ "title": "A coworker asks “got a sec?” and you don't",
+ "setting": "kantoor",
+ "cast": "baas",
+ "trigger": "Hey, got a sec?",
+ "wrong": "Uh, sure...",
+ "badge": "+1 courage",
+ "segments": [
+  {
+   "kind": "hook",
+   "text": "\"Hey, got a sec?\" You don't. But you say, \"Uh, sure.\"",
+   "at": 0,
+   "end": 85
+  },
+  {
+   "kind": "not",
+   "text": "That vague yes feels kind. But now you're stuck with something you didn't choose.",
+   "at": 107,
+   "end": 196
+  },
+  {
+   "kind": "why",
+   "text": "It's not a no to helping. It's about the timing:",
+   "at": 220,
+   "end": 293
+  },
+  {
+   "kind": "good",
+   "text": "Right now I can't, I'm up against a deadline.",
+   "at": 310,
+   "end": 358
+  },
+  {
+   "kind": "good",
+   "text": "Can we do 3pm? Then you'll have my full attention.",
+   "at": 379,
+   "end": 445
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your busiest day.",
+   "at": 470,
+   "end": 503
+  }
+ ],
+ "words": [
+  {
+   "t": "\"Hey,",
+   "s": 0,
+   "e": 5,
+   "seg": 0
+  },
+  {
+   "t": "got",
+   "s": 9,
+   "e": 13,
+   "seg": 0
+  },
+  {
+   "t": "a",
+   "s": 13,
+   "e": 16,
+   "seg": 0
+  },
+  {
+   "t": "sec?\"",
+   "s": 16,
+   "e": 20,
+   "seg": 0
+  },
+  {
+   "t": "You",
+   "s": 31,
+   "e": 34,
+   "seg": 0
+  },
+  {
+   "t": "don't.",
+   "s": 34,
+   "e": 46,
+   "seg": 0
+  },
+  {
+   "t": "But",
+   "s": 49,
+   "e": 50,
+   "seg": 0
+  },
+  {
+   "t": "you",
+   "s": 50,
+   "e": 52,
+   "seg": 0
+  },
+  {
+   "t": "say,",
+   "s": 52,
+   "e": 57,
+   "seg": 0
+  },
+  {
+   "t": "\"Uh,",
+   "s": 65,
+   "e": 75,
+   "seg": 0
+  },
+  {
+   "t": "sure.\"",
+   "s": 80,
+   "e": 85,
+   "seg": 0
+  },
+  {
+   "t": "That",
+   "s": 107,
+   "e": 107,
+   "seg": 1
+  },
+  {
+   "t": "vague",
+   "s": 107,
+   "e": 113,
+   "seg": 1
+  },
+  {
+   "t": "yes",
+   "s": 113,
+   "e": 121,
+   "seg": 1
+  },
+  {
+   "t": "feels",
+   "s": 121,
+   "e": 129,
+   "seg": 1
+  },
+  {
+   "t": "kind.",
+   "s": 129,
+   "e": 138,
+   "seg": 1
+  },
+  {
+   "t": "But",
+   "s": 152,
+   "e": 154,
+   "seg": 1
+  },
+  {
+   "t": "now",
+   "s": 154,
+   "e": 159,
+   "seg": 1
+  },
+  {
+   "t": "you're",
+   "s": 159,
+   "e": 163,
+   "seg": 1
+  },
+  {
+   "t": "stuck",
+   "s": 163,
+   "e": 168,
+   "seg": 1
+  },
+  {
+   "t": "with",
+   "s": 168,
+   "e": 172,
+   "seg": 1
+  },
+  {
+   "t": "something",
+   "s": 172,
+   "e": 179,
+   "seg": 1
+  },
+  {
+   "t": "you",
+   "s": 179,
+   "e": 183,
+   "seg": 1
+  },
+  {
+   "t": "didn't",
+   "s": 183,
+   "e": 190,
+   "seg": 1
+  },
+  {
+   "t": "choose.",
+   "s": 190,
+   "e": 196,
+   "seg": 1
+  },
+  {
+   "t": "It's",
+   "s": 220,
+   "e": 224,
+   "seg": 2
+  },
+  {
+   "t": "not",
+   "s": 224,
+   "e": 230,
+   "seg": 2
+  },
+  {
+   "t": "a",
+   "s": 230,
+   "e": 233,
+   "seg": 2
+  },
+  {
+   "t": "no",
+   "s": 233,
+   "e": 238,
+   "seg": 2
+  },
+  {
+   "t": "to",
+   "s": 238,
+   "e": 247,
+   "seg": 2
+  },
+  {
+   "t": "helping.",
+   "s": 247,
+   "e": 253,
+   "seg": 2
+  },
+  {
+   "t": "It's",
+   "s": 271,
+   "e": 274,
+   "seg": 2
+  },
+  {
+   "t": "about",
+   "s": 274,
+   "e": 279,
+   "seg": 2
+  },
+  {
+   "t": "the",
+   "s": 279,
+   "e": 284,
+   "seg": 2
+  },
+  {
+   "t": "timing:",
+   "s": 284,
+   "e": 293,
+   "seg": 2
+  },
+  {
+   "t": "Right",
+   "s": 310,
+   "e": 311,
+   "seg": 3
+  },
+  {
+   "t": "now",
+   "s": 311,
+   "e": 318,
+   "seg": 3
+  },
+  {
+   "t": "I",
+   "s": 318,
+   "e": 323,
+   "seg": 3
+  },
+  {
+   "t": "can't,",
+   "s": 323,
+   "e": 334,
+   "seg": 3
+  },
+  {
+   "t": "I'm",
+   "s": 337,
+   "e": 338,
+   "seg": 3
+  },
+  {
+   "t": "up",
+   "s": 338,
+   "e": 341,
+   "seg": 3
+  },
+  {
+   "t": "against",
+   "s": 341,
+   "e": 347,
+   "seg": 3
+  },
+  {
+   "t": "a",
+   "s": 347,
+   "e": 352,
+   "seg": 3
+  },
+  {
+   "t": "deadline.",
+   "s": 352,
+   "e": 358,
+   "seg": 3
+  },
+  {
+   "t": "Can",
+   "s": 379,
+   "e": 380,
+   "seg": 4
+  },
+  {
+   "t": "we",
+   "s": 380,
+   "e": 385,
+   "seg": 4
+  },
+  {
+   "t": "do",
+   "s": 385,
+   "e": 388,
+   "seg": 4
+  },
+  {
+   "t": "3pm?",
+   "s": 388,
+   "e": 413,
+   "seg": 4
+  },
+  {
+   "t": "Then",
+   "s": 413,
+   "e": 416,
+   "seg": 4
+  },
+  {
+   "t": "you'll",
+   "s": 416,
+   "e": 421,
+   "seg": 4
+  },
+  {
+   "t": "have",
+   "s": 421,
+   "e": 425,
+   "seg": 4
+  },
+  {
+   "t": "my",
+   "s": 425,
+   "e": 430,
+   "seg": 4
+  },
+  {
+   "t": "full",
+   "s": 430,
+   "e": 436,
+   "seg": 4
+  },
+  {
+   "t": "attention.",
+   "s": 436,
+   "e": 445,
+   "seg": 4
+  },
+  {
+   "t": "Save",
+   "s": 470,
+   "e": 472,
+   "seg": 5
+  },
+  {
+   "t": "this",
+   "s": 472,
+   "e": 478,
+   "seg": 5
+  },
+  {
+   "t": "for",
+   "s": 478,
+   "e": 482,
+   "seg": 5
+  },
+  {
+   "t": "your",
+   "s": 482,
+   "e": 485,
+   "seg": 5
+  },
+  {
+   "t": "busiest",
+   "s": 485,
+   "e": 494,
+   "seg": 5
+  },
+  {
+   "t": "day.",
+   "s": 494,
+   "e": 503,
+   "seg": 5
+  }
+ ],
+ "vo": "vo/uitleg-vo-heb-je-even.wav",
+ "total": 543,
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
+}

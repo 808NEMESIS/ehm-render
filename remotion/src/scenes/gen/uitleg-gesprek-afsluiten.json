@@ -1,0 +1,417 @@
+{
+ "kind": "uitleg",
+ "slug": "gesprek-afsluiten",
+ "pillar": "ongemak",
+ "title": "Leaving a conversation that won't end",
+ "setting": "buiten",
+ "cast": "kennis",
+ "trigger": "And that's just the first trail!",
+ "wrong": "Um, yeah... well... yeah.",
+ "badge": "+1 exit",
+ "segments": [
+  {
+   "kind": "hook",
+   "text": "The conversation won't end. And you keep saying, \"Yeah... well... yeah.\"",
+   "at": 0,
+   "end": 98
+  },
+  {
+   "kind": "not",
+   "text": "Staying put is unpleasant for both of you. Often they've wanted to wrap up for a while too.",
+   "at": 116,
+   "end": 224
+  },
+  {
+   "kind": "why",
+   "text": "Announce it, say something kind:",
+   "at": 237,
+   "end": 286
+  },
+  {
+   "kind": "good",
+   "text": "Really good talking to you.",
+   "at": 302,
+   "end": 339
+  },
+  {
+   "kind": "why",
+   "text": "And then actually go:",
+   "at": 353,
+   "end": 391
+  },
+  {
+   "kind": "good",
+   "text": "I'm going to go mingle. Catch you later!",
+   "at": 407,
+   "end": 452
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for the one that won't end.",
+   "at": 472,
+   "end": 509
+  }
+ ],
+ "words": [
+  {
+   "t": "The",
+   "s": 0,
+   "e": 2,
+   "seg": 0
+  },
+  {
+   "t": "conversation",
+   "s": 2,
+   "e": 11,
+   "seg": 0
+  },
+  {
+   "t": "won't",
+   "s": 11,
+   "e": 26,
+   "seg": 0
+  },
+  {
+   "t": "end.",
+   "s": 26,
+   "e": 32,
+   "seg": 0
+  },
+  {
+   "t": "And",
+   "s": 43,
+   "e": 44,
+   "seg": 0
+  },
+  {
+   "t": "you",
+   "s": 44,
+   "e": 49,
+   "seg": 0
+  },
+  {
+   "t": "keep",
+   "s": 49,
+   "e": 53,
+   "seg": 0
+  },
+  {
+   "t": "saying,",
+   "s": 53,
+   "e": 61,
+   "seg": 0
+  },
+  {
+   "t": "\"Yeah...",
+   "s": 70,
+   "e": 74,
+   "seg": 0
+  },
+  {
+   "t": "well...",
+   "s": 82,
+   "e": 86,
+   "seg": 0
+  },
+  {
+   "t": "yeah.\"",
+   "s": 94,
+   "e": 98,
+   "seg": 0
+  },
+  {
+   "t": "Staying",
+   "s": 116,
+   "e": 127,
+   "seg": 1
+  },
+  {
+   "t": "put",
+   "s": 127,
+   "e": 134,
+   "seg": 1
+  },
+  {
+   "t": "is",
+   "s": 134,
+   "e": 141,
+   "seg": 1
+  },
+  {
+   "t": "unpleasant",
+   "s": 141,
+   "e": 146,
+   "seg": 1
+  },
+  {
+   "t": "for",
+   "s": 146,
+   "e": 158,
+   "seg": 1
+  },
+  {
+   "t": "both",
+   "s": 158,
+   "e": 163,
+   "seg": 1
+  },
+  {
+   "t": "of",
+   "s": 163,
+   "e": 168,
+   "seg": 1
+  },
+  {
+   "t": "you.",
+   "s": 168,
+   "e": 171,
+   "seg": 1
+  },
+  {
+   "t": "Often",
+   "s": 177,
+   "e": 182,
+   "seg": 1
+  },
+  {
+   "t": "they've",
+   "s": 182,
+   "e": 188,
+   "seg": 1
+  },
+  {
+   "t": "wanted",
+   "s": 188,
+   "e": 192,
+   "seg": 1
+  },
+  {
+   "t": "to",
+   "s": 192,
+   "e": 196,
+   "seg": 1
+  },
+  {
+   "t": "wrap",
+   "s": 196,
+   "e": 200,
+   "seg": 1
+  },
+  {
+   "t": "up",
+   "s": 200,
+   "e": 204,
+   "seg": 1
+  },
+  {
+   "t": "for",
+   "s": 204,
+   "e": 209,
+   "seg": 1
+  },
+  {
+   "t": "a",
+   "s": 209,
+   "e": 210,
+   "seg": 1
+  },
+  {
+   "t": "while",
+   "s": 210,
+   "e": 215,
+   "seg": 1
+  },
+  {
+   "t": "too.",
+   "s": 215,
+   "e": 224,
+   "seg": 1
+  },
+  {
+   "t": "Announce",
+   "s": 237,
+   "e": 244,
+   "seg": 2
+  },
+  {
+   "t": "it,",
+   "s": 244,
+   "e": 253,
+   "seg": 2
+  },
+  {
+   "t": "say",
+   "s": 260,
+   "e": 267,
+   "seg": 2
+  },
+  {
+   "t": "something",
+   "s": 267,
+   "e": 275,
+   "seg": 2
+  },
+  {
+   "t": "kind:",
+   "s": 275,
+   "e": 286,
+   "seg": 2
+  },
+  {
+   "t": "Really",
+   "s": 302,
+   "e": 308,
+   "seg": 3
+  },
+  {
+   "t": "good",
+   "s": 308,
+   "e": 317,
+   "seg": 3
+  },
+  {
+   "t": "talking",
+   "s": 317,
+   "e": 324,
+   "seg": 3
+  },
+  {
+   "t": "to",
+   "s": 324,
+   "e": 333,
+   "seg": 3
+  },
+  {
+   "t": "you.",
+   "s": 333,
+   "e": 339,
+   "seg": 3
+  },
+  {
+   "t": "And",
+   "s": 353,
+   "e": 357,
+   "seg": 4
+  },
+  {
+   "t": "then",
+   "s": 357,
+   "e": 361,
+   "seg": 4
+  },
+  {
+   "t": "actually",
+   "s": 361,
+   "e": 371,
+   "seg": 4
+  },
+  {
+   "t": "go:",
+   "s": 371,
+   "e": 391,
+   "seg": 4
+  },
+  {
+   "t": "I'm",
+   "s": 407,
+   "e": 413,
+   "seg": 5
+  },
+  {
+   "t": "going",
+   "s": 413,
+   "e": 416,
+   "seg": 5
+  },
+  {
+   "t": "to",
+   "s": 416,
+   "e": 419,
+   "seg": 5
+  },
+  {
+   "t": "go",
+   "s": 419,
+   "e": 422,
+   "seg": 5
+  },
+  {
+   "t": "mingle.",
+   "s": 422,
+   "e": 428,
+   "seg": 5
+  },
+  {
+   "t": "Catch",
+   "s": 441,
+   "e": 442,
+   "seg": 5
+  },
+  {
+   "t": "you",
+   "s": 442,
+   "e": 448,
+   "seg": 5
+  },
+  {
+   "t": "later!",
+   "s": 448,
+   "e": 452,
+   "seg": 5
+  },
+  {
+   "t": "Save",
+   "s": 472,
+   "e": 477,
+   "seg": 6
+  },
+  {
+   "t": "this",
+   "s": 477,
+   "e": 483,
+   "seg": 6
+  },
+  {
+   "t": "for",
+   "s": 483,
+   "e": 488,
+   "seg": 6
+  },
+  {
+   "t": "the",
+   "s": 488,
+   "e": 491,
+   "seg": 6
+  },
+  {
+   "t": "one",
+   "s": 491,
+   "e": 494,
+   "seg": 6
+  },
+  {
+   "t": "that",
+   "s": 494,
+   "e": 498,
+   "seg": 6
+  },
+  {
+   "t": "won't",
+   "s": 498,
+   "e": 505,
+   "seg": 6
+  },
+  {
+   "t": "end.",
+   "s": 505,
+   "e": 509,
+   "seg": 6
+  }
+ ],
+ "vo": "vo/uitleg-vo-gesprek-afsluiten.wav",
+ "total": 549,
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
+}

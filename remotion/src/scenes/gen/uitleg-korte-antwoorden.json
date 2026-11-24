@@ -1,0 +1,393 @@
+{
+ "kind": "uitleg",
+ "slug": "korte-antwoorden",
+ "pillar": "small_talk",
+ "title": "They keep giving one-word answers",
+ "setting": "keuken",
+ "cast": "kennis",
+ "trigger": "Just got back from Rome.",
+ "wrong": "So, was it good?",
+ "badge": "+1 conversation",
+ "segments": [
+  {
+   "kind": "hook",
+   "text": "You ask about their trip. They say, \"Good.\" And that's it.",
+   "at": 0,
+   "end": 83
+  },
+  {
+   "kind": "not",
+   "text": "It's not you. \"So, was it good?\" only asks for a yes.",
+   "at": 100,
+   "end": 187
+  },
+  {
+   "kind": "why",
+   "text": "Ask about one moment instead:",
+   "at": 206,
+   "end": 245
+  },
+  {
+   "kind": "good",
+   "text": "What was the best part?",
+   "at": 256,
+   "end": 280
+  },
+  {
+   "kind": "why",
+   "text": "Now they have to tell you something. Then:",
+   "at": 298,
+   "end": 349
+  },
+  {
+   "kind": "good",
+   "text": "Tell me more, how did that happen?",
+   "at": 349,
+   "end": 406
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for the next one-word answer.",
+   "at": 426,
+   "end": 467
+  }
+ ],
+ "words": [
+  {
+   "t": "You",
+   "s": 0,
+   "e": 3,
+   "seg": 0
+  },
+  {
+   "t": "ask",
+   "s": 3,
+   "e": 8,
+   "seg": 0
+  },
+  {
+   "t": "about",
+   "s": 8,
+   "e": 13,
+   "seg": 0
+  },
+  {
+   "t": "their",
+   "s": 13,
+   "e": 19,
+   "seg": 0
+  },
+  {
+   "t": "trip.",
+   "s": 19,
+   "e": 24,
+   "seg": 0
+  },
+  {
+   "t": "They",
+   "s": 34,
+   "e": 38,
+   "seg": 0
+  },
+  {
+   "t": "say,",
+   "s": 38,
+   "e": 44,
+   "seg": 0
+  },
+  {
+   "t": "\"Good.\"",
+   "s": 55,
+   "e": 59,
+   "seg": 0
+  },
+  {
+   "t": "And",
+   "s": 67,
+   "e": 72,
+   "seg": 0
+  },
+  {
+   "t": "that's",
+   "s": 72,
+   "e": 79,
+   "seg": 0
+  },
+  {
+   "t": "it.",
+   "s": 79,
+   "e": 83,
+   "seg": 0
+  },
+  {
+   "t": "It's",
+   "s": 100,
+   "e": 106,
+   "seg": 1
+  },
+  {
+   "t": "not",
+   "s": 106,
+   "e": 109,
+   "seg": 1
+  },
+  {
+   "t": "you.",
+   "s": 109,
+   "e": 116,
+   "seg": 1
+  },
+  {
+   "t": "\"So,",
+   "s": 123,
+   "e": 130,
+   "seg": 1
+  },
+  {
+   "t": "was",
+   "s": 130,
+   "e": 140,
+   "seg": 1
+  },
+  {
+   "t": "it",
+   "s": 140,
+   "e": 143,
+   "seg": 1
+  },
+  {
+   "t": "good?\"",
+   "s": 143,
+   "e": 149,
+   "seg": 1
+  },
+  {
+   "t": "only",
+   "s": 158,
+   "e": 164,
+   "seg": 1
+  },
+  {
+   "t": "asks",
+   "s": 164,
+   "e": 171,
+   "seg": 1
+  },
+  {
+   "t": "for",
+   "s": 171,
+   "e": 179,
+   "seg": 1
+  },
+  {
+   "t": "a",
+   "s": 179,
+   "e": 182,
+   "seg": 1
+  },
+  {
+   "t": "yes.",
+   "s": 182,
+   "e": 187,
+   "seg": 1
+  },
+  {
+   "t": "Ask",
+   "s": 206,
+   "e": 211,
+   "seg": 2
+  },
+  {
+   "t": "about",
+   "s": 211,
+   "e": 219,
+   "seg": 2
+  },
+  {
+   "t": "one",
+   "s": 219,
+   "e": 226,
+   "seg": 2
+  },
+  {
+   "t": "moment",
+   "s": 226,
+   "e": 235,
+   "seg": 2
+  },
+  {
+   "t": "instead:",
+   "s": 235,
+   "e": 245,
+   "seg": 2
+  },
+  {
+   "t": "What",
+   "s": 256,
+   "e": 260,
+   "seg": 3
+  },
+  {
+   "t": "was",
+   "s": 260,
+   "e": 264,
+   "seg": 3
+  },
+  {
+   "t": "the",
+   "s": 264,
+   "e": 268,
+   "seg": 3
+  },
+  {
+   "t": "best",
+   "s": 268,
+   "e": 272,
+   "seg": 3
+  },
+  {
+   "t": "part?",
+   "s": 272,
+   "e": 280,
+   "seg": 3
+  },
+  {
+   "t": "Now",
+   "s": 298,
+   "e": 301,
+   "seg": 4
+  },
+  {
+   "t": "they",
+   "s": 301,
+   "e": 307,
+   "seg": 4
+  },
+  {
+   "t": "have",
+   "s": 307,
+   "e": 310,
+   "seg": 4
+  },
+  {
+   "t": "to",
+   "s": 310,
+   "e": 313,
+   "seg": 4
+  },
+  {
+   "t": "tell",
+   "s": 313,
+   "e": 317,
+   "seg": 4
+  },
+  {
+   "t": "you",
+   "s": 317,
+   "e": 320,
+   "seg": 4
+  },
+  {
+   "t": "something.",
+   "s": 320,
+   "e": 328,
+   "seg": 4
+  },
+  {
+   "t": "Then:",
+   "s": 347,
+   "e": 349,
+   "seg": 4
+  },
+  {
+   "t": "Tell",
+   "s": 349,
+   "e": 363,
+   "seg": 5
+  },
+  {
+   "t": "me",
+   "s": 363,
+   "e": 368,
+   "seg": 5
+  },
+  {
+   "t": "more,",
+   "s": 368,
+   "e": 376,
+   "seg": 5
+  },
+  {
+   "t": "how",
+   "s": 386,
+   "e": 390,
+   "seg": 5
+  },
+  {
+   "t": "did",
+   "s": 390,
+   "e": 393,
+   "seg": 5
+  },
+  {
+   "t": "that",
+   "s": 393,
+   "e": 397,
+   "seg": 5
+  },
+  {
+   "t": "happen?",
+   "s": 397,
+   "e": 406,
+   "seg": 5
+  },
+  {
+   "t": "Save",
+   "s": 426,
+   "e": 430,
+   "seg": 6
+  },
+  {
+   "t": "this",
+   "s": 430,
+   "e": 436,
+   "seg": 6
+  },
+  {
+   "t": "for",
+   "s": 436,
+   "e": 442,
+   "seg": 6
+  },
+  {
+   "t": "the",
+   "s": 442,
+   "e": 445,
+   "seg": 6
+  },
+  {
+   "t": "next",
+   "s": 445,
+   "e": 449,
+   "seg": 6
+  },
+  {
+   "t": "one-word",
+   "s": 449,
+   "e": 461,
+   "seg": 6
+  },
+  {
+   "t": "answer.",
+   "s": 461,
+   "e": 467,
+   "seg": 6
+  }
+ ],
+ "vo": "vo/uitleg-vo-korte-antwoorden.wav",
+ "total": 507,
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
+}

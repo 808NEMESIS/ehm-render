@@ -1077,6 +1077,78 @@ def ranglijst_soundtrack(d: dict, seed: int = 7) -> np.ndarray:
     return _ducked(buf, voice, fx, [])
 
 
+def vsl_soundtrack(d: dict, seed: int = 7) -> np.ndarray:
+    """VSL (scripts/vsl.py): bij elk moment brabbelt de ander en hapert Ehm; stil bij "the next line"; bij het voorbeeld
+    een kruis voor de foute zin en een ding voor de goede; feestelijk bed vanaf het aanbod."""
+    rng = np.random.RandomState(seed)
+    np.random.seed(seed)
+    total, D, o = d["total"], d["demo"], d["offer"]
+    buf = bed(total, rng, party_from=o["at"], quiet=[(d["turn"], D["start"])], tense_until=D["good"]["at"]) * 0.4
+    fx = np.zeros_like(buf)
+    voice = np.zeros_like(buf)
+    spans = []
+    for i, m in enumerate(d["moments"]):
+        if i:
+            place(fx, whoosh(rng, 0.25, up=True, gain=0.4), m["start"] - 4)
+        place(fx, pop(rng, -2), m["ask"]["at"] - 1, 0.6)
+        snd, at = babble(m["ask"]["text"], m["ask"]["at"], m["cast"], rng)
+        place(voice, snd, at)
+        snd, at = babble(m["ehm"]["text"], m["ehm"]["at"], "ehm", rng, nervous=True)
+        place(voice, snd, at)
+        place(voice, ehm_voc("gulp", rng), m["ehm"]["end"] + 3, 0.8)
+        spans += [(m["ask"]["at"], m["ask"]["end"]), (m["ehm"]["at"], m["ehm"]["end"])]
+    place(fx, thump(rng, -3, 0.9), d["turn"])
+    place(fx, pop(rng, 6), d["turn2"], 0.8)
+    place(voice, ehm_voc("hm", rng), d["turn2"] + 6, 0.7)
+    place(fx, whoosh(rng, 0.3, up=True, gain=0.4), D["start"] - 4)
+    snd, at = babble(D["ask"]["text"], D["ask"]["at"], D["cast"], rng)
+    place(voice, snd, at)
+    place(fx, thump(rng, -2, 0.8), D["nope"])
+    place(fx, wahwah(rng), D["nope"] + 10, 0.6)
+    place(fx, ding(rng), D["good"]["at"] - 2, 0.7)
+    snd, at = babble(D["good"]["text"], D["good"]["at"], "ehm", rng)
+    place(voice, snd, at)
+    snd, at = babble(D["twist"]["text"], D["twist"]["at"], D["cast"], rng)
+    place(voice, snd, at)
+    place(fx, levelup(rng), D["twist"]["end"] + 2, 0.8)
+    spans += [(D["ask"]["at"], D["ask"]["end"]), (D["good"]["at"], D["good"]["end"]), (D["twist"]["at"], D["twist"]["end"])]
+    place(fx, sparkle(rng), o["at"] + 6)
+    for f in o["chipsAt"]:
+        place(fx, pop(rng, 4), f, 0.7)
+    place(fx, pop(rng, 8), d["cta"], 0.8)
+    place(voice, ehm_voc("giggle", rng), d["cta"] + 6, 0.6)
+    return _ducked(buf, voice, fx, spans)
+
+
+def uitleg_soundtrack(d: dict, seed: int = 7) -> np.ndarray:
+    """Waarom het vastloopt (scripts/uitleg.py): de opgenomen stem (d["vo"], in remotion/public) met een zacht bed dat
+    wegduikt zolang er gesproken wordt, een plop bij elk kaartje en een level-up na de laatste goede zin."""
+    rng = np.random.RandomState(seed)
+    np.random.seed(seed)
+    total = d["total"]
+    sr, vo = wavfile.read(Path(__file__).resolve().parent.parent / "remotion" / "public" / d["vo"])
+    vo = vo.astype(np.float64) / (32768.0 if vo.dtype == np.int16 else 1.0)
+    if vo.ndim > 1:
+        vo = vo.mean(axis=1)
+    if sr != SR:
+        from scipy import signal
+        vo = signal.resample_poly(vo, SR, sr)
+    vo = vo / max(1e-9, np.max(np.abs(vo))) * 0.9
+    buf = bed(total, rng) * 0.22
+    voice = np.zeros_like(buf)
+    voice[: min(len(voice), len(vo))] = vo[: len(voice)]
+    fx = np.zeros_like(buf)
+    goods = [s for s in d["segments"] if s["kind"] == "good"]
+    for s in d["segments"]:
+        if s["kind"] == "not":
+            place(fx, thump(rng, -3, 0.8), s["at"], 0.6)
+        elif s["kind"] == "good":
+            place(fx, ding(rng), s["at"] - 3, 0.5)
+    place(fx, levelup(rng), goods[-1]["end"] + 4, 0.6)
+    spans = [(s["at"], s["end"]) for s in d["segments"]]
+    return _ducked(buf, voice, fx * 0.7, spans)
+
+
 def soundtrack_for(d: dict, seed: int) -> np.ndarray:
     """De juiste geluidsband bij de soort scène."""
     kind = d.get("kind")
@@ -1086,6 +1158,10 @@ def soundtrack_for(d: dict, seed: int) -> np.ndarray:
         return decoder_soundtrack(d, seed)
     if kind == "ranglijst":
         return ranglijst_soundtrack(d, seed)
+    if kind == "vsl":
+        return vsl_soundtrack(d, seed)
+    if kind == "uitleg":
+        return uitleg_soundtrack(d, seed)
     if d.get("coldOpen"):
         rng = np.random.RandomState(seed + 1)
         base = soundtrack(d, seed)

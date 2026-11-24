@@ -1,0 +1,369 @@
+{
+ "kind": "uitleg",
+ "slug": "naam-vergeten",
+ "pillar": "ongemak",
+ "title": "You forgot their name",
+ "setting": "feestje",
+ "cast": "kennis",
+ "trigger": "Hey! Remember me?",
+ "wrong": "Um... hey, you!",
+ "badge": "+1 courage",
+ "segments": [
+  {
+   "kind": "hook",
+   "text": "\"Hey! Remember me?\" And their name is just gone.",
+   "at": 0,
+   "end": 61
+  },
+  {
+   "kind": "not",
+   "text": "Dodging it gets harder every minute. You can't use their name, and you can't introduce anyone.",
+   "at": 83,
+   "end": 212
+  },
+  {
+   "kind": "why",
+   "text": "Admitting it costs one awkward second:",
+   "at": 235,
+   "end": 289
+  },
+  {
+   "kind": "good",
+   "text": "This is embarrassing, but your name just slipped my mind.",
+   "at": 304,
+   "end": 363
+  },
+  {
+   "kind": "why",
+   "text": "Almost everyone knows that feeling.",
+   "at": 382,
+   "end": 421
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for the next party.",
+   "at": 437,
+   "end": 463
+  }
+ ],
+ "words": [
+  {
+   "t": "\"Hey!",
+   "s": 0,
+   "e": 5,
+   "seg": 0
+  },
+  {
+   "t": "Remember",
+   "s": 13,
+   "e": 17,
+   "seg": 0
+  },
+  {
+   "t": "me?\"",
+   "s": 17,
+   "e": 28,
+   "seg": 0
+  },
+  {
+   "t": "And",
+   "s": 28,
+   "e": 38,
+   "seg": 0
+  },
+  {
+   "t": "their",
+   "s": 38,
+   "e": 41,
+   "seg": 0
+  },
+  {
+   "t": "name",
+   "s": 41,
+   "e": 46,
+   "seg": 0
+  },
+  {
+   "t": "is",
+   "s": 46,
+   "e": 49,
+   "seg": 0
+  },
+  {
+   "t": "just",
+   "s": 49,
+   "e": 54,
+   "seg": 0
+  },
+  {
+   "t": "gone.",
+   "s": 54,
+   "e": 61,
+   "seg": 0
+  },
+  {
+   "t": "Dodging",
+   "s": 83,
+   "e": 90,
+   "seg": 1
+  },
+  {
+   "t": "it",
+   "s": 90,
+   "e": 93,
+   "seg": 1
+  },
+  {
+   "t": "gets",
+   "s": 93,
+   "e": 98,
+   "seg": 1
+  },
+  {
+   "t": "harder",
+   "s": 98,
+   "e": 108,
+   "seg": 1
+  },
+  {
+   "t": "every",
+   "s": 108,
+   "e": 119,
+   "seg": 1
+  },
+  {
+   "t": "minute.",
+   "s": 119,
+   "e": 131,
+   "seg": 1
+  },
+  {
+   "t": "You",
+   "s": 143,
+   "e": 144,
+   "seg": 1
+  },
+  {
+   "t": "can't",
+   "s": 144,
+   "e": 153,
+   "seg": 1
+  },
+  {
+   "t": "use",
+   "s": 153,
+   "e": 157,
+   "seg": 1
+  },
+  {
+   "t": "their",
+   "s": 157,
+   "e": 162,
+   "seg": 1
+  },
+  {
+   "t": "name,",
+   "s": 162,
+   "e": 169,
+   "seg": 1
+  },
+  {
+   "t": "and",
+   "s": 169,
+   "e": 175,
+   "seg": 1
+  },
+  {
+   "t": "you",
+   "s": 175,
+   "e": 179,
+   "seg": 1
+  },
+  {
+   "t": "can't",
+   "s": 179,
+   "e": 190,
+   "seg": 1
+  },
+  {
+   "t": "introduce",
+   "s": 190,
+   "e": 197,
+   "seg": 1
+  },
+  {
+   "t": "anyone.",
+   "s": 197,
+   "e": 212,
+   "seg": 1
+  },
+  {
+   "t": "Admitting",
+   "s": 235,
+   "e": 242,
+   "seg": 2
+  },
+  {
+   "t": "it",
+   "s": 242,
+   "e": 250,
+   "seg": 2
+  },
+  {
+   "t": "costs",
+   "s": 250,
+   "e": 256,
+   "seg": 2
+  },
+  {
+   "t": "one",
+   "s": 256,
+   "e": 269,
+   "seg": 2
+  },
+  {
+   "t": "awkward",
+   "s": 269,
+   "e": 279,
+   "seg": 2
+  },
+  {
+   "t": "second:",
+   "s": 279,
+   "e": 289,
+   "seg": 2
+  },
+  {
+   "t": "This",
+   "s": 304,
+   "e": 307,
+   "seg": 3
+  },
+  {
+   "t": "is",
+   "s": 307,
+   "e": 310,
+   "seg": 3
+  },
+  {
+   "t": "embarrassing,",
+   "s": 310,
+   "e": 320,
+   "seg": 3
+  },
+  {
+   "t": "but",
+   "s": 334,
+   "e": 335,
+   "seg": 3
+  },
+  {
+   "t": "your",
+   "s": 335,
+   "e": 338,
+   "seg": 3
+  },
+  {
+   "t": "name",
+   "s": 338,
+   "e": 343,
+   "seg": 3
+  },
+  {
+   "t": "just",
+   "s": 343,
+   "e": 348,
+   "seg": 3
+  },
+  {
+   "t": "slipped",
+   "s": 348,
+   "e": 352,
+   "seg": 3
+  },
+  {
+   "t": "my",
+   "s": 352,
+   "e": 356,
+   "seg": 3
+  },
+  {
+   "t": "mind.",
+   "s": 356,
+   "e": 363,
+   "seg": 3
+  },
+  {
+   "t": "Almost",
+   "s": 382,
+   "e": 386,
+   "seg": 4
+  },
+  {
+   "t": "everyone",
+   "s": 386,
+   "e": 398,
+   "seg": 4
+  },
+  {
+   "t": "knows",
+   "s": 398,
+   "e": 406,
+   "seg": 4
+  },
+  {
+   "t": "that",
+   "s": 406,
+   "e": 412,
+   "seg": 4
+  },
+  {
+   "t": "feeling.",
+   "s": 412,
+   "e": 421,
+   "seg": 4
+  },
+  {
+   "t": "Save",
+   "s": 437,
+   "e": 438,
+   "seg": 5
+  },
+  {
+   "t": "this",
+   "s": 438,
+   "e": 444,
+   "seg": 5
+  },
+  {
+   "t": "for",
+   "s": 444,
+   "e": 449,
+   "seg": 5
+  },
+  {
+   "t": "the",
+   "s": 449,
+   "e": 452,
+   "seg": 5
+  },
+  {
+   "t": "next",
+   "s": 452,
+   "e": 455,
+   "seg": 5
+  },
+  {
+   "t": "party.",
+   "s": 455,
+   "e": 463,
+   "seg": 5
+  }
+ ],
+ "vo": "vo/uitleg-vo-naam-vergeten.wav",
+ "total": 503,
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
+}

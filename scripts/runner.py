@@ -137,7 +137,7 @@ def scene_for(scene: dict, platform: str) -> dict:
 
 # Scènevideo's: de vorm, de compositie in remotion/src/Root.tsx, en de omslag (in seconden) met de meeste spanning.
 SCENE_VIDEOS = {"video_escalatie": "Escalatie", "video_quiz": "Quiz", "video_duel": "Duel", "video_verteller": "Verteller",
-                "video_pov": "Pov", "video_decoder": "Decoder", "video_ranglijst": "Ranglijst"}
+                "video_pov": "Pov", "video_decoder": "Decoder", "video_ranglijst": "Ranglijst", "video_uitleg": "Uitleg"}
 
 
 def scene_cover(fmt: str, s: dict) -> float:
@@ -153,6 +153,8 @@ def scene_cover(fmt: str, s: dict) -> float:
         return (s["pairs"][0]["stamp"] + 20) / 30
     if fmt == "video_ranglijst":  # het bord bijna vol, de beste nog in de hand
         return (s["items"][-1]["at"] + 20) / 30
+    if fmt == "video_uitleg":     # de eerste goede zin in de groene ballon, met "Say this"
+        return (next(x for x in s["segments"] if x["kind"] == "good")["at"] + 15) / 30
     return max(0.5, (s["freeze"] - 4 + s.get("coldOpen", 0)) / 30)  # escalatie: het bevroren moment
 
 

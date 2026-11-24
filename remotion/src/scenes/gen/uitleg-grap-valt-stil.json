@@ -1,0 +1,339 @@
+{
+ "kind": "uitleg",
+ "slug": "grap-valt-stil",
+ "pillar": "ongemak",
+ "title": "Your joke falls flat",
+ "setting": "kantoor",
+ "cast": "collega",
+ "trigger": "...Was that a joke?",
+ "wrong": "No, what I meant was...",
+ "badge": "+1 humor",
+ "segments": [
+  {
+   "kind": "hook",
+   "text": "You make a joke. Silence. Then someone asks, \"Was that a joke?\"",
+   "at": 0,
+   "end": 79
+  },
+  {
+   "kind": "not",
+   "text": "Don't explain it. Explaining makes the silence longer.",
+   "at": 104,
+   "end": 184
+  },
+  {
+   "kind": "why",
+   "text": "Name your own flop instead:",
+   "at": 209,
+   "end": 232
+  },
+  {
+   "kind": "good",
+   "text": "Okay, that was funnier in my head.",
+   "at": 251,
+   "end": 301
+  },
+  {
+   "kind": "why",
+   "text": "Then hand the turn over:",
+   "at": 322,
+   "end": 362
+  },
+  {
+   "kind": "good",
+   "text": "What about you?",
+   "at": 362,
+   "end": 374
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your next meeting.",
+   "at": 389,
+   "end": 427
+  }
+ ],
+ "words": [
+  {
+   "t": "You",
+   "s": 0,
+   "e": 3,
+   "seg": 0
+  },
+  {
+   "t": "make",
+   "s": 3,
+   "e": 7,
+   "seg": 0
+  },
+  {
+   "t": "a",
+   "s": 7,
+   "e": 10,
+   "seg": 0
+  },
+  {
+   "t": "joke.",
+   "s": 10,
+   "e": 14,
+   "seg": 0
+  },
+  {
+   "t": "Silence.",
+   "s": 26,
+   "e": 30,
+   "seg": 0
+  },
+  {
+   "t": "Then",
+   "s": 47,
+   "e": 47,
+   "seg": 0
+  },
+  {
+   "t": "someone",
+   "s": 47,
+   "e": 52,
+   "seg": 0
+  },
+  {
+   "t": "asks,",
+   "s": 52,
+   "e": 60,
+   "seg": 0
+  },
+  {
+   "t": "\"Was",
+   "s": 67,
+   "e": 68,
+   "seg": 0
+  },
+  {
+   "t": "that",
+   "s": 68,
+   "e": 73,
+   "seg": 0
+  },
+  {
+   "t": "a",
+   "s": 73,
+   "e": 74,
+   "seg": 0
+  },
+  {
+   "t": "joke?\"",
+   "s": 74,
+   "e": 79,
+   "seg": 0
+  },
+  {
+   "t": "Don't",
+   "s": 104,
+   "e": 112,
+   "seg": 1
+  },
+  {
+   "t": "explain",
+   "s": 112,
+   "e": 122,
+   "seg": 1
+  },
+  {
+   "t": "it.",
+   "s": 122,
+   "e": 132,
+   "seg": 1
+  },
+  {
+   "t": "Explaining",
+   "s": 140,
+   "e": 151,
+   "seg": 1
+  },
+  {
+   "t": "makes",
+   "s": 151,
+   "e": 158,
+   "seg": 1
+  },
+  {
+   "t": "the",
+   "s": 158,
+   "e": 163,
+   "seg": 1
+  },
+  {
+   "t": "silence",
+   "s": 163,
+   "e": 171,
+   "seg": 1
+  },
+  {
+   "t": "longer.",
+   "s": 171,
+   "e": 184,
+   "seg": 1
+  },
+  {
+   "t": "Name",
+   "s": 209,
+   "e": 209,
+   "seg": 2
+  },
+  {
+   "t": "your",
+   "s": 209,
+   "e": 213,
+   "seg": 2
+  },
+  {
+   "t": "own",
+   "s": 213,
+   "e": 219,
+   "seg": 2
+  },
+  {
+   "t": "flop",
+   "s": 219,
+   "e": 227,
+   "seg": 2
+  },
+  {
+   "t": "instead:",
+   "s": 227,
+   "e": 232,
+   "seg": 2
+  },
+  {
+   "t": "Okay,",
+   "s": 251,
+   "e": 257,
+   "seg": 3
+  },
+  {
+   "t": "that",
+   "s": 265,
+   "e": 271,
+   "seg": 3
+  },
+  {
+   "t": "was",
+   "s": 271,
+   "e": 275,
+   "seg": 3
+  },
+  {
+   "t": "funnier",
+   "s": 275,
+   "e": 286,
+   "seg": 3
+  },
+  {
+   "t": "in",
+   "s": 286,
+   "e": 290,
+   "seg": 3
+  },
+  {
+   "t": "my",
+   "s": 290,
+   "e": 293,
+   "seg": 3
+  },
+  {
+   "t": "head.",
+   "s": 293,
+   "e": 301,
+   "seg": 3
+  },
+  {
+   "t": "Then",
+   "s": 322,
+   "e": 322,
+   "seg": 4
+  },
+  {
+   "t": "hand",
+   "s": 322,
+   "e": 330,
+   "seg": 4
+  },
+  {
+   "t": "the",
+   "s": 330,
+   "e": 335,
+   "seg": 4
+  },
+  {
+   "t": "turn",
+   "s": 335,
+   "e": 349,
+   "seg": 4
+  },
+  {
+   "t": "over:",
+   "s": 349,
+   "e": 362,
+   "seg": 4
+  },
+  {
+   "t": "What",
+   "s": 362,
+   "e": 362,
+   "seg": 5
+  },
+  {
+   "t": "about",
+   "s": 362,
+   "e": 367,
+   "seg": 5
+  },
+  {
+   "t": "you?",
+   "s": 367,
+   "e": 374,
+   "seg": 5
+  },
+  {
+   "t": "Save",
+   "s": 389,
+   "e": 396,
+   "seg": 6
+  },
+  {
+   "t": "this",
+   "s": 396,
+   "e": 403,
+   "seg": 6
+  },
+  {
+   "t": "for",
+   "s": 403,
+   "e": 409,
+   "seg": 6
+  },
+  {
+   "t": "your",
+   "s": 409,
+   "e": 412,
+   "seg": 6
+  },
+  {
+   "t": "next",
+   "s": 412,
+   "e": 417,
+   "seg": 6
+  },
+  {
+   "t": "meeting.",
+   "s": 417,
+   "e": 427,
+   "seg": 6
+  }
+ ],
+ "vo": "vo/uitleg-vo-grap-valt-stil.wav",
+ "total": 467,
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
+}

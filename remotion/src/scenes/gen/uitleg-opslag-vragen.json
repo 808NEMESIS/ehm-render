@@ -1,0 +1,375 @@
+{
+ "kind": "uitleg",
+ "slug": "opslag-vragen",
+ "pillar": "werk",
+ "title": "You want to ask for a raise",
+ "setting": "kantoor",
+ "cast": "baas",
+ "trigger": "So, what did you want to discuss?",
+ "wrong": "Um, I was wondering if maybe there's a bit more...",
+ "badge": "+1 courage",
+ "segments": [
+  {
+   "kind": "hook",
+   "text": "You finally ask for a raise, and it comes out as, \"Um, I was wondering if maybe...\"",
+   "at": 0,
+   "end": 105
+  },
+  {
+   "kind": "not",
+   "text": "A vague question gets a vague answer.",
+   "at": 105,
+   "end": 175
+  },
+  {
+   "kind": "why",
+   "text": "Say what it's about:",
+   "at": 193,
+   "end": 211
+  },
+  {
+   "kind": "good",
+   "text": "I'd like to talk about my salary.",
+   "at": 225,
+   "end": 260
+  },
+  {
+   "kind": "why",
+   "text": "Name the amount, and wait.",
+   "at": 284,
+   "end": 313
+  },
+  {
+   "kind": "good",
+   "text": "I'm asking for a raise to $72,000.",
+   "at": 327,
+   "end": 400
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for review season.",
+   "at": 400,
+   "end": 437
+  }
+ ],
+ "words": [
+  {
+   "t": "You",
+   "s": 0,
+   "e": 2,
+   "seg": 0
+  },
+  {
+   "t": "finally",
+   "s": 2,
+   "e": 9,
+   "seg": 0
+  },
+  {
+   "t": "ask",
+   "s": 9,
+   "e": 19,
+   "seg": 0
+  },
+  {
+   "t": "for",
+   "s": 19,
+   "e": 24,
+   "seg": 0
+  },
+  {
+   "t": "a",
+   "s": 24,
+   "e": 26,
+   "seg": 0
+  },
+  {
+   "t": "raise,",
+   "s": 26,
+   "e": 32,
+   "seg": 0
+  },
+  {
+   "t": "and",
+   "s": 32,
+   "e": 38,
+   "seg": 0
+  },
+  {
+   "t": "it",
+   "s": 38,
+   "e": 40,
+   "seg": 0
+  },
+  {
+   "t": "comes",
+   "s": 40,
+   "e": 45,
+   "seg": 0
+  },
+  {
+   "t": "out",
+   "s": 45,
+   "e": 51,
+   "seg": 0
+  },
+  {
+   "t": "as,",
+   "s": 51,
+   "e": 57,
+   "seg": 0
+  },
+  {
+   "t": "\"Um,",
+   "s": 68,
+   "e": 71,
+   "seg": 0
+  },
+  {
+   "t": "I",
+   "s": 78,
+   "e": 80,
+   "seg": 0
+  },
+  {
+   "t": "was",
+   "s": 80,
+   "e": 85,
+   "seg": 0
+  },
+  {
+   "t": "wondering",
+   "s": 85,
+   "e": 91,
+   "seg": 0
+  },
+  {
+   "t": "if",
+   "s": 91,
+   "e": 98,
+   "seg": 0
+  },
+  {
+   "t": "maybe...\"",
+   "s": 98,
+   "e": 105,
+   "seg": 0
+  },
+  {
+   "t": "A",
+   "s": 105,
+   "e": 130,
+   "seg": 1
+  },
+  {
+   "t": "vague",
+   "s": 130,
+   "e": 134,
+   "seg": 1
+  },
+  {
+   "t": "question",
+   "s": 134,
+   "e": 144,
+   "seg": 1
+  },
+  {
+   "t": "gets",
+   "s": 144,
+   "e": 154,
+   "seg": 1
+  },
+  {
+   "t": "a",
+   "s": 154,
+   "e": 157,
+   "seg": 1
+  },
+  {
+   "t": "vague",
+   "s": 157,
+   "e": 162,
+   "seg": 1
+  },
+  {
+   "t": "answer.",
+   "s": 162,
+   "e": 175,
+   "seg": 1
+  },
+  {
+   "t": "Say",
+   "s": 193,
+   "e": 195,
+   "seg": 2
+  },
+  {
+   "t": "what",
+   "s": 195,
+   "e": 200,
+   "seg": 2
+  },
+  {
+   "t": "it's",
+   "s": 200,
+   "e": 203,
+   "seg": 2
+  },
+  {
+   "t": "about:",
+   "s": 203,
+   "e": 211,
+   "seg": 2
+  },
+  {
+   "t": "I'd",
+   "s": 225,
+   "e": 228,
+   "seg": 3
+  },
+  {
+   "t": "like",
+   "s": 228,
+   "e": 232,
+   "seg": 3
+  },
+  {
+   "t": "to",
+   "s": 232,
+   "e": 235,
+   "seg": 3
+  },
+  {
+   "t": "talk",
+   "s": 235,
+   "e": 239,
+   "seg": 3
+  },
+  {
+   "t": "about",
+   "s": 239,
+   "e": 245,
+   "seg": 3
+  },
+  {
+   "t": "my",
+   "s": 245,
+   "e": 250,
+   "seg": 3
+  },
+  {
+   "t": "salary.",
+   "s": 250,
+   "e": 260,
+   "seg": 3
+  },
+  {
+   "t": "Name",
+   "s": 284,
+   "e": 284,
+   "seg": 4
+  },
+  {
+   "t": "the",
+   "s": 284,
+   "e": 289,
+   "seg": 4
+  },
+  {
+   "t": "amount,",
+   "s": 289,
+   "e": 295,
+   "seg": 4
+  },
+  {
+   "t": "and",
+   "s": 295,
+   "e": 307,
+   "seg": 4
+  },
+  {
+   "t": "wait.",
+   "s": 307,
+   "e": 313,
+   "seg": 4
+  },
+  {
+   "t": "I'm",
+   "s": 327,
+   "e": 331,
+   "seg": 5
+  },
+  {
+   "t": "asking",
+   "s": 331,
+   "e": 338,
+   "seg": 5
+  },
+  {
+   "t": "for",
+   "s": 338,
+   "e": 344,
+   "seg": 5
+  },
+  {
+   "t": "a",
+   "s": 344,
+   "e": 347,
+   "seg": 5
+  },
+  {
+   "t": "raise",
+   "s": 347,
+   "e": 353,
+   "seg": 5
+  },
+  {
+   "t": "to",
+   "s": 353,
+   "e": 359,
+   "seg": 5
+  },
+  {
+   "t": "$72,000.",
+   "s": 359,
+   "e": 400,
+   "seg": 5
+  },
+  {
+   "t": "Save",
+   "s": 400,
+   "e": 407,
+   "seg": 6
+  },
+  {
+   "t": "this",
+   "s": 407,
+   "e": 415,
+   "seg": 6
+  },
+  {
+   "t": "for",
+   "s": 415,
+   "e": 422,
+   "seg": 6
+  },
+  {
+   "t": "review",
+   "s": 422,
+   "e": 428,
+   "seg": 6
+  },
+  {
+   "t": "season.",
+   "s": 428,
+   "e": 437,
+   "seg": 6
+  }
+ ],
+ "vo": "vo/uitleg-vo-opslag-vragen.wav",
+ "total": 477,
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
+}

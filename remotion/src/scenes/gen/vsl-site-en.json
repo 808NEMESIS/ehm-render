@@ -1,0 +1,116 @@
+{
+ "kind": "vsl",
+ "slug": "vsl-en",
+ "plek": "site",
+ "pillar": "ongemak",
+ "moments": [
+  {
+   "head": "Your mind goes blank too?",
+   "slug": "naam-vergeten",
+   "setting": "feestje",
+   "cast": "kennis",
+   "start": 0,
+   "ask": {
+    "text": "Hey! Remember me?",
+    "at": 4,
+    "end": 34,
+    "until": 37
+   },
+   "ehm": {
+    "text": "Um... hey, you!",
+    "at": 38,
+    "end": 67,
+    "until": 81
+   }
+  },
+  {
+   "head": "The raise you never ask for.",
+   "slug": "opslag-vragen",
+   "setting": "kantoor",
+   "cast": "baas",
+   "start": 81,
+   "ask": {
+    "text": "So, what did you want to discuss?",
+    "at": 87,
+    "end": 137,
+    "until": 140
+   },
+   "ehm": {
+    "text": "Um, I was wondering...",
+    "at": 141,
+    "end": 177,
+    "until": 191
+   }
+  },
+  {
+   "head": "The yes you didn't mean.",
+   "slug": "extra-project",
+   "setting": "kantoor",
+   "cast": "baas",
+   "start": 191,
+   "ask": {
+    "text": "Can you take on one more project?",
+    "at": 197,
+    "end": 240,
+    "until": 243
+   },
+   "ehm": {
+    "text": "Sure, no problem.",
+    "at": 244,
+    "end": 270,
+    "until": 284
+   }
+  }
+ ],
+ "turn": 284,
+ "turn2": 318,
+ "turnText": [
+  "You don't need more confidence.",
+  "You need the next line."
+ ],
+ "demo": {
+  "start": 358,
+  "setting": "kantoor",
+  "cast": "baas",
+  "ask": {
+   "text": "Hey, got a sec?",
+   "at": 364,
+   "end": 392,
+   "until": 500
+  },
+  "wrong": "Uh, sure...",
+  "nope": 398,
+  "good": {
+   "text": "Right now I can't, I'm up against a deadline.",
+   "at": 428,
+   "end": 494,
+   "until": 500
+  },
+  "twist": {
+   "text": "Oh thank god. I haven't even started the slides.",
+   "at": 502,
+   "end": 576,
+   "until": 596
+  }
+ },
+ "offer": {
+  "title": "This is Ehm Club.",
+  "chips": [
+   "30 awkward moments",
+   "Lines you can actually say",
+   "1 small practice a day"
+  ],
+  "pdf": "10 lines · free",
+  "book": "The book · $7.99",
+  "at": 598,
+  "chipsAt": [
+   624,
+   638,
+   652
+  ]
+ },
+ "cta": 705,
+ "total": 750,
+ "sticker": "Get the 10 lines free ↓",
+ "link": "Straight to your inbox. No account."
+}

@@ -1,0 +1,128 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "stil-in-de-auto",
+ "pillar": "small_talk",
+ "caption": "Carpooling with a coworker:",
+ "hook": "Don't say “So... the weather, huh?”",
+ "verdict": true,
+ "setting": "buiten",
+ "cast": "collega",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "So. Long drive, huh?",
+   "at": 4,
+   "until": 47
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "So... the weather, huh?",
+   "at": 49,
+   "until": 100,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Yeah. Grey.",
+   "at": 102,
+   "until": 128
+  },
+  {
+   "panel": "top",
+   "who": "collega",
+   "text": "Mind if I put on a podcast?",
+   "at": 130,
+   "until": 203
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "So. Long drive, huh?",
+   "at": 259,
+   "until": 302
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What are you up to this weekend?",
+   "at": 304,
+   "until": 357,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Climbing, actually. First time outdoors.",
+   "at": 359,
+   "until": 424
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Nice, is that something you do a lot?",
+   "at": 426,
+   "until": 498,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "collega",
+   "text": "Every week. Want to join on Saturday?",
+   "at": 500,
+   "until": 605
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 92
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 120
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 175
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 349
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 488
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 598
+  }
+ ],
+ "nope": 187,
+ "crumble": 203,
+ "rewind": 223,
+ "expand": 249,
+ "celebrate": 572,
+ "cta": 615,
+ "total": 660,
+ "badge": "+1 climbing buddy",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
+}

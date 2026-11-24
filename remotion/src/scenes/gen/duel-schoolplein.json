@@ -1,0 +1,128 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "schoolplein",
+ "pillar": "small_talk",
+ "caption": "Waiting at school pickup:",
+ "hook": "Don't say “Cold today, huh?”",
+ "verdict": true,
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Ugh, they're late again today.",
+   "at": 4,
+   "until": 54
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Cold today, huh?",
+   "at": 56,
+   "until": 94,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Yep. Cold.",
+   "at": 96,
+   "until": 122
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "I'm going to wait in the car.",
+   "at": 124,
+   "until": 193
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Ugh, they're late again today.",
+   "at": 249,
+   "until": 299
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Which one's yours?",
+   "at": 301,
+   "until": 330,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "The one in the dino jacket. Mia.",
+   "at": 332,
+   "until": 394
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What does Mia talk about most at home?",
+   "at": 396,
+   "until": 457,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Your son, actually. Playdate on Friday?",
+   "at": 459,
+   "until": 575
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 86
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 114
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 165
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 322
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 447
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 558
+  }
+ ],
+ "nope": 177,
+ "crumble": 193,
+ "rewind": 213,
+ "expand": 239,
+ "celebrate": 532,
+ "cta": 585,
+ "total": 630,
+ "badge": "+1 parent friend",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
+}

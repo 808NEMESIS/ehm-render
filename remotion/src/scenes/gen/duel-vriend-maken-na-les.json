@@ -1,0 +1,128 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "vriend-maken-na-les",
+ "pillar": "daten_vriendschap",
+ "caption": "After class, packing up:",
+ "hook": "Don't say “Okay, bye!”",
+ "verdict": true,
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#C7A68A",
+  "deep": "#A5836A",
+  "acc": "das"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Phew. That was a tough one today.",
+   "at": 4,
+   "until": 62
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Okay, bye!",
+   "at": 64,
+   "until": 96,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Oh. Bye, I guess.",
+   "at": 98,
+   "until": 143
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Cool. I'll just stretch alone, then.",
+   "at": 145,
+   "until": 226
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Phew. That was a tough one today.",
+   "at": 282,
+   "until": 340
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "You were really good today. How long have you been doing this?",
+   "at": 342,
+   "until": 436,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Two years! I still can't do the splits.",
+   "at": 438,
+   "until": 498
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Want to grab a coffee after?",
+   "at": 500,
+   "until": 553,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Yes! I know a place next door.",
+   "at": 555,
+   "until": 650
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 88
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 135
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 198
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 428
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 543
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 637
+  }
+ ],
+ "nope": 210,
+ "crumble": 226,
+ "rewind": 246,
+ "expand": 272,
+ "celebrate": 611,
+ "cta": 660,
+ "total": 705,
+ "badge": "+1 new friend",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
+}

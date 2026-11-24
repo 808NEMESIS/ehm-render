@@ -1,0 +1,128 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "oude-vriend",
+ "pillar": "daten_vriendschap",
+ "caption": "Calling a friend you drifted from:",
+ "hook": "Don't say “Hey, long time haha”",
+ "verdict": true,
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#B49CFF",
+  "deep": "#8E72E8",
+  "acc": "strik"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Hey, stranger! What made you call?",
+   "at": 4,
+   "until": 63
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Hey, long time haha",
+   "at": 65,
+   "until": 109,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Yeah... it has been.",
+   "at": 111,
+   "until": 149
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Sorry, who is this again?",
+   "at": 151,
+   "until": 223
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Hey, stranger! What made you call?",
+   "at": 279,
+   "until": 338
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Thought of you today because of that terrible karaoke night.",
+   "at": 340,
+   "until": 423,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Oh no. The duet we never finished?",
+   "at": 425,
+   "until": 491
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "How are you really doing these days?",
+   "at": 493,
+   "until": 548,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Honestly? Better now. Coffee this week?",
+   "at": 550,
+   "until": 665
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 101
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 141
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 195
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 415
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 538
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 649
+  }
+ ],
+ "nope": 207,
+ "crumble": 223,
+ "rewind": 243,
+ "expand": 269,
+ "celebrate": 623,
+ "cta": 675,
+ "total": 720,
+ "badge": "+1 old friend",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
+}

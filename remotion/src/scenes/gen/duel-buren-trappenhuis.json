@@ -1,0 +1,128 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "buren-trappenhuis",
+ "pillar": "small_talk",
+ "caption": "The neighbor you never talk to:",
+ "hook": "Don't say “Hey.”",
+ "verdict": true,
+ "setting": "buiten",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#F7A8C4",
+  "deep": "#E07CA2",
+  "acc": "bril"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Oh, hi! Do you live here too?",
+   "at": 4,
+   "until": 65
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Hey.",
+   "at": 67,
+   "until": 82,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "...Okay. I'm Jo. From 4A.",
+   "at": 84,
+   "until": 139
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "I know your shower playlist by heart.",
+   "at": 141,
+   "until": 218
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Oh, hi! Do you live here too?",
+   "at": 274,
+   "until": 335
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Hi, I'm Sam from 4B. I don't think we've properly met.",
+   "at": 337,
+   "until": 432,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Finally! I'm Jo, from 4A.",
+   "at": 434,
+   "until": 491
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Have you lived here long?",
+   "at": 493,
+   "until": 536,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Six years. Come by for coffee sometime!",
+   "at": 538,
+   "until": 650
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 74
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 131
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 190
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 424
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 526
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 632
+  }
+ ],
+ "nope": 202,
+ "crumble": 218,
+ "rewind": 238,
+ "expand": 264,
+ "celebrate": 606,
+ "cta": 660,
+ "total": 705,
+ "badge": "+1 neighbor",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
+}

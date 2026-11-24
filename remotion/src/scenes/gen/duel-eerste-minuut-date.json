@@ -1,0 +1,128 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "eerste-minuut-date",
+ "pillar": "daten_vriendschap",
+ "caption": "The first minute of a date:",
+ "hook": "Don't say “So... you're Alex.”",
+ "verdict": true,
+ "setting": "restaurant",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#7FD1D9",
+  "deep": "#4FB0BA",
+  "acc": "pet"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Hi! Sorry, are you waiting for someone?",
+   "at": 4,
+   "until": 77
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "So... you're Alex.",
+   "at": 79,
+   "until": 117,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "...Yes. Like on the app.",
+   "at": 119,
+   "until": 163
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Should I just ask for the check now?",
+   "at": 165,
+   "until": 240
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Hi! Sorry, are you waiting for someone?",
+   "at": 296,
+   "until": 369
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Good to finally meet in person. Was it easy to find?",
+   "at": 371,
+   "until": 467,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Easy! I walked past it twice, though.",
+   "at": 469,
+   "until": 538
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "What was the best part of your week?",
+   "at": 540,
+   "until": 597,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Honestly? This. And we just started.",
+   "at": 599,
+   "until": 710
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 109
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 155
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 212
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 459
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 587
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 694
+  }
+ ],
+ "nope": 224,
+ "crumble": 240,
+ "rewind": 260,
+ "expand": 286,
+ "celebrate": 668,
+ "cta": 720,
+ "total": 765,
+ "badge": "+1 second date",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
+}

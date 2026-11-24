@@ -105,6 +105,11 @@
   "at": 506,
   "until": 644
  },
+ "sticker_by_platform": {
+  "instagram": {
+   "text": "Comment SAY → free PDF"
+  }
+ },
  "bossExit": 551,
  "bossReturn": 647,
  "celebrate": 563,

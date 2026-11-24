@@ -1,0 +1,128 @@
+{
+ "kind": "duel",
+ "layout": "sequence",
+ "slug": "verkoper-aan-de-lijn",
+ "pillar": "grenzen",
+ "caption": "When the sales call won't end:",
+ "hook": "Don't say “Um, let me think about it...”",
+ "verdict": true,
+ "setting": "keuken",
+ "cast": "kennis",
+ "outfit": {
+  "body": "#F2D16B",
+  "deep": "#D9B23F",
+  "acc": "knot"
+ },
+ "lines": [
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Hi! Quick question about your energy bill?",
+   "at": 4,
+   "until": 74
+  },
+  {
+   "panel": "top",
+   "who": "ehm",
+   "text": "Um, let me think about it...",
+   "at": 76,
+   "until": 132,
+   "tone": "not"
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Great! I'll stay on while you think.",
+   "at": 134,
+   "until": 190
+  },
+  {
+   "panel": "top",
+   "who": "kennis",
+   "text": "Option twelve comes with a free toaster!",
+   "at": 192,
+   "until": 273
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Hi! Quick question about your energy bill?",
+   "at": 329,
+   "until": 399
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "I'm not interested.",
+   "at": 401,
+   "until": 438,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "But have you heard about the toaster?",
+   "at": 440,
+   "until": 495
+  },
+  {
+   "panel": "bottom",
+   "who": "ehm",
+   "text": "Have a good day, I'm going to hang up now.",
+   "at": 497,
+   "until": 573,
+   "tone": "yes"
+  },
+  {
+   "panel": "bottom",
+   "who": "kennis",
+   "text": "Fair enough. Have a good evening!",
+   "at": 575,
+   "until": 680
+  }
+ ],
+ "sfx": [
+  {
+   "panel": "top",
+   "text": "GULP!",
+   "at": 124
+  },
+  {
+   "panel": "top",
+   "text": "AWK...",
+   "at": 182
+  },
+  {
+   "panel": "top",
+   "text": "UH-OH",
+   "at": 245
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 430
+  },
+  {
+   "panel": "bottom",
+   "text": "NICE!",
+   "at": 563
+  },
+  {
+   "panel": "bottom",
+   "text": "YAY!",
+   "at": 663
+  }
+ ],
+ "nope": 257,
+ "crumble": 273,
+ "rewind": 293,
+ "expand": 319,
+ "celebrate": 637,
+ "cta": 690,
+ "total": 735,
+ "badge": "+1 free evening",
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
+}

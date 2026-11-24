@@ -18,7 +18,7 @@
   {
    "kind": "not",
    "text": "A vague question gets a vague answer.",
-   "at": 105,
+   "at": 106,
    "end": 175
   },
   {
@@ -48,7 +48,7 @@
   {
    "kind": "cta",
    "text": "Save this for review season.",
-   "at": 400,
+   "at": 401,
    "end": 437
   }
  ],

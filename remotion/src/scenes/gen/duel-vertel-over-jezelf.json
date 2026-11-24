@@ -4,7 +4,7 @@
  "slug": "vertel-over-jezelf",
  "pillar": "werk",
  "caption": "Tell me about yourself:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "kantoor",
  "cast": "baas",
@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "So, tell me about yourself.",
-   "at": 10,
-   "until": 60
+   "at": 4,
+   "until": 54
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, well, I was born in...",
-   "at": 62,
-   "until": 121,
+   "at": 56,
+   "until": 115,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Born where? Okay...",
-   "at": 123,
-   "until": 159
+   "at": 117,
+   "until": 153
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Let's skip to your first job.",
-   "at": 161,
-   "until": 224
+   "at": 155,
+   "until": 218
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "So, tell me about yourself.",
-   "at": 280,
-   "until": 330
+   "at": 274,
+   "until": 324
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm a project manager who's great at keeping big projects on track.",
-   "at": 332,
-   "until": 431,
+   "at": 326,
+   "until": 425,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Nice. Got an example?",
-   "at": 433,
-   "until": 473
+   "at": 427,
+   "until": 467
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "At my last job, that meant launching our app two weeks early.",
-   "at": 475,
-   "until": 571,
+   "at": 469,
+   "until": 565,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "That's the best answer I heard all week.",
-   "at": 573,
-   "until": 682
+   "at": 567,
+   "until": 665
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 113
+   "at": 107
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 151
+   "at": 145
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 196
+   "at": 190
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 423
+   "at": 417
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 561
+   "at": 555
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 658
+   "at": 652
   }
  ],
- "nope": 208,
- "crumble": 224,
- "rewind": 244,
- "expand": 270,
- "celebrate": 632,
- "cta": 692,
- "total": 780,
+ "nope": 202,
+ "crumble": 218,
+ "rewind": 238,
+ "expand": 264,
+ "celebrate": 626,
+ "cta": 675,
+ "total": 720,
  "badge": "+1 confidence",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

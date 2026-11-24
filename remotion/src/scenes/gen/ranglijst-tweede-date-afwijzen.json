@@ -14,37 +14,37 @@
   {
    "text": "\"I'm really busy this month\"",
    "tier": "C",
-   "at": 36,
-   "land": 91
+   "at": 12,
+   "land": 67
   },
   {
    "text": "Ghost them and hope they forget",
    "tier": "F",
-   "at": 109,
-   "land": 169
+   "at": 85,
+   "land": 145
   },
   {
    "text": "Reply \"haha\" to everything",
    "tier": "B",
-   "at": 187,
-   "land": 237
+   "at": 163,
+   "land": 213
   },
   {
    "text": "\"I think we're better as friends\"",
    "tier": "A",
-   "at": 255,
-   "land": 315
+   "at": 231,
+   "land": 291
   },
   {
    "text": "I didn't feel the connection I'm looking for.",
    "tier": "S",
-   "at": 333,
-   "land": 415,
+   "at": 309,
+   "land": 391,
    "script": true
   }
  ],
- "outro": 445,
- "total": 525,
+ "outro": 435,
+ "total": 480,
  "ask": "Wrong order? Fight me in the comments.",
  "sticker": "Comment SAY → free PDF"
 }

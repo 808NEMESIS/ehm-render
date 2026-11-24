@@ -4,7 +4,7 @@
  "slug": "opslag-vragen",
  "pillar": "werk",
  "caption": "Asking your boss for a raise:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "kantoor",
  "cast": "baas",
@@ -18,110 +18,113 @@
    "panel": "top",
    "who": "baas",
    "text": "So, what did you want to discuss?",
-   "at": 10,
-   "until": 70
+   "at": 4,
+   "until": 64
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, I was wondering if maybe there's a bit more...",
-   "at": 72,
-   "until": 160,
+   "at": 66,
+   "until": 154,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "A bit more what? Coffee?",
-   "at": 162,
-   "until": 219
+   "at": 156,
+   "until": 213
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Great! You're our new coffee captain.",
-   "at": 221,
-   "until": 307
+   "at": 215,
+   "until": 301
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "So, what did you want to discuss?",
-   "at": 363,
-   "until": 423
+   "at": 357,
+   "until": 417
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'd like to talk about my salary.",
-   "at": 425,
-   "until": 486,
+   "at": 419,
+   "until": 480,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Okay, I'm listening.",
-   "at": 488,
-   "until": 534
+   "at": 482,
+   "until": 528
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm asking for a raise to $72,000.",
-   "at": 536,
-   "until": 640,
+   "at": 530,
+   "until": 634,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Finally! I thought you'd never ask.",
-   "at": 642,
-   "until": 763
+   "at": 636,
+   "until": 740
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 152
+   "at": 146
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 211
+   "at": 205
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 279
+   "at": 273
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 478
+   "at": 472
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 630
+   "at": 624
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 739
+   "at": 733
   }
  ],
- "nope": 291,
- "crumble": 307,
- "rewind": 327,
- "expand": 353,
- "celebrate": 713,
- "cta": 773,
- "total": 855,
+ "nope": 285,
+ "crumble": 301,
+ "rewind": 321,
+ "expand": 347,
+ "celebrate": 707,
+ "cta": 750,
+ "total": 795,
  "badge": "+1 courage",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "voice",
  "voice": "kokoro"
 }

@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "collega",
    "text": "Sorry, quick thing, I just think we should—",
-   "at": 10,
-   "until": 81
+   "at": 4,
+   "until": 75
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Oh, sorry, you go ahead...",
-   "at": 83,
-   "until": 144,
+   "at": 77,
+   "until": 138,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Great. So, my idea is way better.",
-   "at": 146,
-   "until": 217
+   "at": 140,
+   "until": 211
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "So that's decided. Thanks, everyone. My idea.",
-   "at": 219,
-   "until": 329
+   "at": 213,
+   "until": 323
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Sorry, quick thing, I just think we should—",
-   "at": 385,
-   "until": 456
+   "at": 379,
+   "until": 450
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'd like to finish my point.",
-   "at": 458,
-   "until": 505,
+   "at": 452,
+   "until": 499,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Oh. Sorry, go ahead.",
-   "at": 507,
-   "until": 558
+   "at": 501,
+   "until": 552
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "So, as I was saying: the budget is too tight.",
-   "at": 560,
-   "until": 640,
+   "at": 554,
+   "until": 634,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Good point. I hadn't thought of that.",
-   "at": 642,
-   "until": 748
+   "at": 636,
+   "until": 725
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 136
+   "at": 130
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 209
+   "at": 203
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 301
+   "at": 295
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 497
+   "at": 491
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 630
+   "at": 624
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 724
+   "at": 718
   }
  ],
- "nope": 313,
- "crumble": 329,
- "rewind": 349,
- "expand": 375,
- "celebrate": 698,
- "cta": 758,
- "total": 840,
+ "nope": 307,
+ "crumble": 323,
+ "rewind": 343,
+ "expand": 369,
+ "celebrate": 692,
+ "cta": 735,
+ "total": 780,
  "badge": "+1 voice",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

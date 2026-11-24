@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "collega",
    "text": "Did you hear what happened with Mark?",
-   "at": 10,
-   "until": 65
+   "at": 4,
+   "until": 59
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Oh wow, really? Tell me everything.",
-   "at": 67,
-   "until": 142,
+   "at": 61,
+   "until": 136,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "So apparently he cried in the bathroom.",
-   "at": 144,
-   "until": 209
+   "at": 138,
+   "until": 203
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Oh, hi Mark! We were just... talking.",
-   "at": 211,
-   "until": 305
+   "at": 205,
+   "until": 299
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Did you hear what happened with Mark?",
-   "at": 361,
-   "until": 416
+   "at": 355,
+   "until": 410
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I don't really know what happened.",
-   "at": 418,
-   "until": 473,
+   "at": 412,
+   "until": 467,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Oh. I thought you knew.",
-   "at": 475,
-   "until": 517
+   "at": 469,
+   "until": 511
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'd rather not guess about someone who's not here.",
-   "at": 519,
-   "until": 594,
+   "at": 513,
+   "until": 588,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "You're right. That's not fair to him.",
-   "at": 596,
-   "until": 702
+   "at": 590,
+   "until": 680
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 134
+   "at": 128
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 201
+   "at": 195
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 277
+   "at": 271
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 465
+   "at": 459
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 584
+   "at": 578
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 678
+   "at": 672
   }
  ],
- "nope": 289,
- "crumble": 305,
- "rewind": 325,
- "expand": 351,
- "celebrate": 652,
- "cta": 712,
- "total": 795,
+ "nope": 283,
+ "crumble": 299,
+ "rewind": 319,
+ "expand": 345,
+ "celebrate": 646,
+ "cta": 690,
+ "total": 735,
  "badge": "+1 integrity",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

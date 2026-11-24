@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "Hi! I'm Alex, your new manager.",
-   "at": 10,
-   "until": 77
+   "at": 4,
+   "until": 71
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Hi, so... yeah, I'm just here, haha.",
-   "at": 79,
-   "until": 162,
+   "at": 73,
+   "until": 156,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Haha. Okay. And you are...?",
-   "at": 164,
-   "until": 223
+   "at": 158,
+   "until": 217
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "So... do you actually work here?",
-   "at": 225,
-   "until": 303
+   "at": 219,
+   "until": 297
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Hi! I'm Alex, your new manager.",
-   "at": 359,
-   "until": 426
+   "at": 353,
+   "until": 420
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Hi, I'm Sam, I work on the design team.",
-   "at": 428,
-   "until": 507,
+   "at": 422,
+   "until": 501,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Nice to meet you, Sam!",
-   "at": 509,
-   "until": 551
+   "at": 503,
+   "until": 545
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "What matters most to you in the next few months?",
-   "at": 553,
-   "until": 626,
+   "at": 547,
+   "until": 620,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Great question. Let's grab coffee this week.",
-   "at": 628,
-   "until": 742
+   "at": 622,
+   "until": 725
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 154
+   "at": 148
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 215
+   "at": 209
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 275
+   "at": 269
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 499
+   "at": 493
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 616
+   "at": 610
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 718
+   "at": 712
   }
  ],
- "nope": 287,
- "crumble": 303,
- "rewind": 323,
- "expand": 349,
- "celebrate": 692,
- "cta": 752,
- "total": 840,
+ "nope": 281,
+ "crumble": 297,
+ "rewind": 317,
+ "expand": 343,
+ "celebrate": 686,
+ "cta": 735,
+ "total": 780,
  "badge": "+1 first impression",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

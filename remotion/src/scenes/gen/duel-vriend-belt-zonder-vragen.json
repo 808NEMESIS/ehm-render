@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "kennis",
    "text": "Hey! Got a minute? I just need to vent.",
-   "at": 10,
-   "until": 87
+   "at": 4,
+   "until": 81
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Hey! Yeah, I can talk...",
-   "at": 89,
-   "until": 142,
+   "at": 83,
+   "until": 136,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "So, it all started in 2019...",
-   "at": 144,
-   "until": 198
+   "at": 138,
+   "until": 192
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Oh wait, my sister's calling. I'll add her.",
-   "at": 200,
-   "until": 297
+   "at": 194,
+   "until": 291
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Hey! Got a minute? I just need to vent.",
-   "at": 353,
-   "until": 430
+   "at": 347,
+   "until": 424
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm in the middle of something right now.",
-   "at": 432,
-   "until": 495,
+   "at": 426,
+   "until": 489,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Oh, sorry! Bad timing.",
-   "at": 497,
-   "until": 548
+   "at": 491,
+   "until": 542
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Can I call you back tonight?",
-   "at": 550,
-   "until": 599,
+   "at": 544,
+   "until": 593,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Tonight's perfect. I'll make tea.",
-   "at": 601,
-   "until": 703
+   "at": 595,
+   "until": 680
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 134
+   "at": 128
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 190
+   "at": 184
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 269
+   "at": 263
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 487
+   "at": 481
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 589
+   "at": 583
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 679
+   "at": 673
   }
  ],
- "nope": 281,
- "crumble": 297,
- "rewind": 317,
- "expand": 343,
- "celebrate": 653,
- "cta": 713,
- "total": 795,
+ "nope": 275,
+ "crumble": 291,
+ "rewind": 311,
+ "expand": 337,
+ "celebrate": 647,
+ "cta": 690,
+ "total": 735,
  "badge": "+1 focus",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

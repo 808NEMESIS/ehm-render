@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "So... what's the main takeaway here?",
-   "at": 10,
-   "until": 66
+   "at": 4,
+   "until": 60
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Sorry, sorry, I totally lost it...",
-   "at": 68,
-   "until": 141,
+   "at": 62,
+   "until": 135,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Let's just skip to the next presenter.",
-   "at": 143,
-   "until": 220
+   "at": 137,
+   "until": 214
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "So... what's the main takeaway here?",
-   "at": 276,
-   "until": 332
+   "at": 270,
+   "until": 326
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Let me take a second to find my place.",
-   "at": 334,
-   "until": 401,
+   "at": 328,
+   "until": 395,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Two weeks ahead? That's great news.",
-   "at": 403,
-   "until": 477
+   "at": 397,
+   "until": 485
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 135
+   "at": 129
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 192
+   "at": 186
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 391
+   "at": 385
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 483
+   "at": 477
   }
  ],
- "nope": 204,
- "crumble": 220,
- "rewind": 240,
- "expand": 266,
- "celebrate": 457,
- "cta": 487,
+ "nope": 198,
+ "crumble": 214,
+ "rewind": 234,
+ "expand": 260,
+ "celebrate": 451,
+ "cta": 495,
  "total": 540,
  "badge": "+1 composure",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "collega",
    "text": "Can I ask... what do you make?",
-   "at": 10,
-   "until": 64
+   "at": 4,
+   "until": 58
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Uh... why, what do you make?",
-   "at": 66,
-   "until": 125,
+   "at": 60,
+   "until": 119,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Wait. You first. No, you first.",
-   "at": 127,
-   "until": 191
+   "at": 121,
+   "until": 185
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Let's never speak of this again.",
-   "at": 193,
-   "until": 264
+   "at": 187,
+   "until": 258
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Can I ask... what do you make?",
-   "at": 320,
-   "until": 374
+   "at": 314,
+   "until": 368
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'd rather not share my exact number.",
-   "at": 376,
-   "until": 437,
+   "at": 370,
+   "until": 431,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Fair. I'm just trying to negotiate.",
-   "at": 439,
-   "until": 495
+   "at": 433,
+   "until": 489
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "But I'm happy to tell you how I negotiated it.",
-   "at": 497,
-   "until": 582,
+   "at": 491,
+   "until": 576,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Yes please. That's exactly what I need.",
-   "at": 584,
-   "until": 698
+   "at": 578,
+   "until": 680
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 117
+   "at": 111
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 183
+   "at": 177
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 236
+   "at": 230
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 429
+   "at": 423
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 572
+   "at": 566
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 674
+   "at": 668
   }
  ],
- "nope": 248,
- "crumble": 264,
- "rewind": 284,
- "expand": 310,
- "celebrate": 648,
- "cta": 708,
- "total": 795,
+ "nope": 242,
+ "crumble": 258,
+ "rewind": 278,
+ "expand": 304,
+ "celebrate": 642,
+ "cta": 690,
+ "total": 735,
  "badge": "+1 tact",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

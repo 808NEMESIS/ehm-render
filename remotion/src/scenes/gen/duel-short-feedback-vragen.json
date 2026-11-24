@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "So, how do you think the pitch went?",
-   "at": 10,
-   "until": 70
+   "at": 4,
+   "until": 64
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "So... it was okay, I guess?",
-   "at": 72,
-   "until": 133,
+   "at": 66,
+   "until": 127,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "We'll talk about it in your annual review.",
-   "at": 135,
-   "until": 222
+   "at": 129,
+   "until": 216
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "So, how do you think the pitch went?",
-   "at": 278,
-   "until": 338
+   "at": 272,
+   "until": 332
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Can I ask you for feedback on the client pitch?",
-   "at": 340,
-   "until": 413,
+   "at": 334,
+   "until": 407,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Shorter intro. The rest was great.",
-   "at": 415,
-   "until": 493
+   "at": 409,
+   "until": 500
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 127
+   "at": 121
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 194
+   "at": 188
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 403
+   "at": 397
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 499
+   "at": 493
   }
  ],
- "nope": 206,
- "crumble": 222,
- "rewind": 242,
- "expand": 268,
- "celebrate": 473,
- "cta": 503,
+ "nope": 200,
+ "crumble": 216,
+ "rewind": 236,
+ "expand": 262,
+ "celebrate": 467,
+ "cta": 510,
  "total": 555,
  "badge": "+1 growth",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

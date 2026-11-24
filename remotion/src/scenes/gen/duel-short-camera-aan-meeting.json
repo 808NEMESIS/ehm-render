@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "Can everyone turn their cameras on?",
-   "at": 10,
-   "until": 67
+   "at": 4,
+   "until": 61
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, sorry, I look terrible today.",
-   "at": 69,
-   "until": 138,
+   "at": 63,
+   "until": 132,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Great! Now share your screen too.",
-   "at": 140,
-   "until": 210
+   "at": 134,
+   "until": 204
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Can everyone turn their cameras on?",
-   "at": 266,
-   "until": 323
+   "at": 260,
+   "until": 317
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm keeping my camera off today.",
-   "at": 325,
-   "until": 386,
+   "at": 319,
+   "until": 380,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Honestly? Mine's off too. I'm in pajamas.",
-   "at": 388,
-   "until": 491
+   "at": 382,
+   "until": 485
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 132
+   "at": 126
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 182
+   "at": 176
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 376
+   "at": 370
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 497
+   "at": 491
   }
  ],
- "nope": 194,
- "crumble": 210,
- "rewind": 230,
- "expand": 256,
- "celebrate": 471,
- "cta": 501,
- "total": 555,
+ "nope": 188,
+ "crumble": 204,
+ "rewind": 224,
+ "expand": 250,
+ "celebrate": 465,
+ "cta": 495,
+ "total": 540,
  "badge": "+1 boundaries",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

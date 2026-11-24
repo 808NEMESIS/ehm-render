@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "We can offer you seventy thousand.",
-   "at": 10,
-   "until": 67
+   "at": 4,
+   "until": 61
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Oh... okay, that's fine.",
-   "at": 69,
-   "until": 118,
+   "at": 63,
+   "until": 112,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Welcome to the team. Bring your own laptop.",
-   "at": 120,
-   "until": 210
+   "at": 114,
+   "until": 204
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "We can offer you seventy thousand.",
-   "at": 266,
-   "until": 323
+   "at": 260,
+   "until": 317
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Based on my experience, I was expecting closer to $80,000.",
-   "at": 325,
-   "until": 425,
+   "at": 319,
+   "until": 419,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Let's say seventy-six. And an extra week off.",
-   "at": 427,
-   "until": 525
+   "at": 421,
+   "until": 530
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 112
+   "at": 106
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 182
+   "at": 176
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 415
+   "at": 409
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 531
+   "at": 525
   }
  ],
- "nope": 194,
- "crumble": 210,
- "rewind": 230,
- "expand": 256,
- "celebrate": 505,
- "cta": 535,
+ "nope": 188,
+ "crumble": 204,
+ "rewind": 224,
+ "expand": 250,
+ "celebrate": 499,
+ "cta": 540,
  "total": 585,
  "badge": "+1 salary",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "So, how do you think the pitch went?",
-   "at": 10,
-   "until": 70
+   "at": 4,
+   "until": 64
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "So... it was okay, I guess?",
-   "at": 72,
-   "until": 135,
+   "at": 66,
+   "until": 129,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Yeah. Okay, I guess.",
-   "at": 137,
-   "until": 186
+   "at": 131,
+   "until": 180
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "We'll talk about it in your annual review.",
-   "at": 188,
-   "until": 275
+   "at": 182,
+   "until": 269
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "So, how do you think the pitch went?",
-   "at": 331,
-   "until": 391
+   "at": 325,
+   "until": 385
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Can I ask you for feedback on the client pitch?",
-   "at": 393,
-   "until": 464,
+   "at": 387,
+   "until": 458,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Sure. Honestly? It was good.",
-   "at": 466,
-   "until": 523
+   "at": 460,
+   "until": 517
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "What's one thing I could do better next time?",
-   "at": 525,
-   "until": 592,
+   "at": 519,
+   "until": 586,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Shorter intro. The rest was great.",
-   "at": 594,
-   "until": 702
+   "at": 588,
+   "until": 680
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 127
+   "at": 121
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 178
+   "at": 172
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 247
+   "at": 241
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 456
+   "at": 450
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 582
+   "at": 576
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 678
+   "at": 672
   }
  ],
- "nope": 259,
- "crumble": 275,
- "rewind": 295,
- "expand": 321,
- "celebrate": 652,
- "cta": 712,
- "total": 795,
+ "nope": 253,
+ "crumble": 269,
+ "rewind": 289,
+ "expand": 315,
+ "celebrate": 646,
+ "cta": 690,
+ "total": 735,
  "badge": "+1 growth",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

@@ -326,7 +326,8 @@ export const Duel: React.FC<DuelProps> = ({data: d, audio}) => {
           ) : (
             <>
               <div style={{fontFamily: FONT_HEAD, fontWeight: 700, fontSize: 80, lineHeight: 1.05, color: C.zon, ...outline(15), textShadow: `0 8px 0 ${C.ink}`}}>{d.caption}</div>
-              <div style={{marginTop: 10, fontFamily: FONT_BODY, fontWeight: 800, fontSize: 42, color: C.ink}}>{d.hook}</div>
+              {/* de vraag aan de kijker (sinds 24 nov): groot genoeg om in de eerste seconde te lezen */}
+              <div style={{marginTop: 12, fontFamily: FONT_BODY, fontWeight: 900, fontSize: 52, color: C.ink}}>{d.hook}</div>
             </>
           )}
         </div>
@@ -394,11 +395,11 @@ export const Duel: React.FC<DuelProps> = ({data: d, audio}) => {
       })()}
       {out >= d.cta && (() => {
         const a = spr(out, d.cta, {damping: 10, stiffness: 220});
-        const b = spr(out, d.cta + 12, {damping: 9, stiffness: 220});
+        const b = spr(out, d.cta + 6, {damping: 9, stiffness: 220});   // eindkaart is kort (1,5 s): sticker snel erbij
         return (
           <>
             <div style={{position: 'absolute', left: 40, right: 40, top: 1280, textAlign: 'center', transform: `scale(${a}) rotate(-2deg)`}}>
-              <span style={{fontFamily: FONT_HEAD, fontWeight: 700, fontSize: 84, color: C.white, ...outline(15), textShadow: `0 8px 0 ${C.ink}`}}>Be Ehm B.</span>
+              <span style={{fontFamily: FONT_HEAD, fontWeight: 700, fontSize: 84, color: C.white, ...outline(15), textShadow: `0 8px 0 ${C.ink}`}}>{seq ? 'Be Take 2.' : 'Be Ehm B.'}</span>
             </div>
             <div style={{position: 'absolute', left: 80, right: 80, top: 1410, textAlign: 'center', transform: `scale(${b})`}}>
               <span style={{display: 'inline-block', background: C.zon, border: `7px solid ${C.ink}`, borderRadius: 999, padding: '14px 32px', boxShadow: `7px 7px 0 ${C.ink}`,

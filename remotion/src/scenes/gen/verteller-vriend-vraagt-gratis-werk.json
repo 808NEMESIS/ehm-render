@@ -15,86 +15,82 @@
   {
    "part": "hook",
    "text": "Do you ever freeze up when a friend asks you to work for free?",
-   "at": 12,
-   "end": 114,
-   "until": 120
-  },
-  {
-   "part": "scene",
-   "text": "You're catching up with a friend. Then comes the favor.",
-   "at": 138,
-   "end": 233,
-   "until": 239
+   "at": 6,
+   "end": 108,
+   "until": 114
   },
   {
    "part": "panic",
    "text": "Your mind goes blank.",
-   "at": 332,
-   "end": 383,
-   "until": 389
+   "at": 205,
+   "end": 256,
+   "until": 262
   },
   {
    "part": "turn",
    "text": "Here's what to say instead.",
-   "at": 401,
-   "end": 452,
-   "until": 458
+   "at": 274,
+   "end": 325,
+   "until": 331
   },
   {
    "part": "cta",
-   "text": "Save this for the next time it happens.",
-   "at": 769,
-   "end": 837,
-   "until": 843
+   "text": "Save this one.",
+   "at": 632,
+   "end": 666,
+   "until": 672
   }
  ],
  "lines": [
   {
    "who": "kennis",
    "text": "You're good at logos, right? Quick favor?",
-   "at": 241,
-   "end": 312,
-   "until": 395
+   "at": 114,
+   "end": 185,
+   "until": 268
   },
   {
    "who": "ehm",
    "text": "This is the kind of work I normally charge for.",
-   "at": 462,
-   "end": 538,
-   "until": 544,
+   "at": 335,
+   "end": 411,
+   "until": 417,
    "tone": "yes"
   },
   {
    "who": "kennis",
    "text": "Oh, right. I didn't think of that.",
-   "at": 546,
-   "end": 602,
-   "until": 608
+   "at": 419,
+   "end": 475,
+   "until": 481
   },
   {
    "who": "ehm",
    "text": "Want me to send you my rates?",
-   "at": 610,
-   "end": 653,
-   "until": 661,
+   "at": 483,
+   "end": 526,
+   "until": 534,
    "tone": "yes"
   },
   {
    "who": "kennis",
    "text": "Yes please. I'd rather pay a pro.",
-   "at": 663,
-   "end": 727,
-   "until": 757
+   "at": 536,
+   "end": 600,
+   "until": 624
   }
  ],
- "scene": 128,
- "panic": 318,
- "turn": 395,
- "good": 462,
- "celebrate": 733,
- "cta": 763,
- "total": 885,
+ "scene": 1,
+ "panic": 191,
+ "turn": 268,
+ "good": 335,
+ "celebrate": 606,
+ "cta": 630,
+ "total": 675,
  "badge": "+1 worth",
  "sticker": "10 lines for when your mind goes blank → free PDF",
- "voice": "kokoro"
+ "voice": "kokoro",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

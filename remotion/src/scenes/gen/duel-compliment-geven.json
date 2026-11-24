@@ -4,7 +4,7 @@
  "slug": "compliment-geven",
  "pillar": "daten_vriendschap",
  "caption": "Complimenting a coworker:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "kantoor",
  "cast": "collega",
@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "collega",
    "text": "Did you need something?",
-   "at": 10,
-   "until": 47
+   "at": 4,
+   "until": 41
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, you look... good, I guess.",
-   "at": 49,
-   "until": 115,
+   "at": 43,
+   "until": 109,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "...Good? Thanks?",
-   "at": 117,
-   "until": 143
+   "at": 111,
+   "until": 137
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "I'm going home to change.",
-   "at": 145,
-   "until": 202
+   "at": 139,
+   "until": 196
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Did you need something?",
-   "at": 258,
-   "until": 295
+   "at": 252,
+   "until": 289
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I loved how you handled that tough question.",
-   "at": 297,
-   "until": 364,
+   "at": 291,
+   "until": 358,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Oh! Thanks, I was so nervous.",
-   "at": 366,
-   "until": 425
+   "at": 360,
+   "until": 419
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I could learn a thing or two from you.",
-   "at": 427,
-   "until": 490,
+   "at": 421,
+   "until": 484,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "That honestly made my whole week.",
-   "at": 492,
-   "until": 593
+   "at": 486,
+   "until": 575
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 107
+   "at": 101
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 135
+   "at": 129
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 174
+   "at": 168
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 356
+   "at": 350
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 480
+   "at": 474
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 569
+   "at": 563
   }
  ],
- "nope": 186,
- "crumble": 202,
- "rewind": 222,
- "expand": 248,
- "celebrate": 543,
- "cta": 603,
- "total": 690,
+ "nope": 180,
+ "crumble": 196,
+ "rewind": 216,
+ "expand": 242,
+ "celebrate": 537,
+ "cta": 585,
+ "total": 630,
  "badge": "+1 kindness",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

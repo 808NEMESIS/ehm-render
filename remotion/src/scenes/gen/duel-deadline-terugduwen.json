@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "I need the full report by tomorrow.",
-   "at": 10,
-   "until": 69
+   "at": 4,
+   "until": 63
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Sure, no problem, I'll make it work...",
-   "at": 71,
-   "until": 140,
+   "at": 65,
+   "until": 134,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Great! And the slides as well, then.",
-   "at": 142,
-   "until": 209
+   "at": 136,
+   "until": 203
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "You're amazing. Same thing next week?",
-   "at": 211,
-   "until": 289
+   "at": 205,
+   "until": 283
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "I need the full report by tomorrow.",
-   "at": 345,
-   "until": 404
+   "at": 339,
+   "until": 398
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Tomorrow isn't realistic with what's on my plate.",
-   "at": 406,
-   "until": 477,
+   "at": 400,
+   "until": 471,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Hmm. It's for the client...",
-   "at": 479,
-   "until": 521
+   "at": 473,
+   "until": 515
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I can do Thursday, or drop something else. Which do you prefer?",
-   "at": 523,
-   "until": 634,
+   "at": 517,
+   "until": 628,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Thursday works. The client can wait a day.",
-   "at": 636,
-   "until": 752
+   "at": 630,
+   "until": 740
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 132
+   "at": 126
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 201
+   "at": 195
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 261
+   "at": 255
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 469
+   "at": 463
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 624
+   "at": 618
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 728
+   "at": 722
   }
  ],
- "nope": 273,
- "crumble": 289,
- "rewind": 309,
- "expand": 335,
- "celebrate": 702,
- "cta": 762,
- "total": 840,
+ "nope": 267,
+ "crumble": 283,
+ "rewind": 303,
+ "expand": 329,
+ "celebrate": 696,
+ "cta": 750,
+ "total": 795,
  "badge": "+1 sanity",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

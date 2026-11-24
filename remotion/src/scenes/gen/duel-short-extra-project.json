@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "Can you take on one more project?",
-   "at": 10,
-   "until": 61
+   "at": 4,
+   "until": 55
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Sure, no problem.",
-   "at": 63,
-   "until": 99,
+   "at": 57,
+   "until": 93,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Oh, and can you finish by Friday?",
-   "at": 101,
-   "until": 185
+   "at": 95,
+   "until": 179
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Can you take on one more project?",
-   "at": 241,
-   "until": 292
+   "at": 235,
+   "until": 286
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I get that this matters.",
-   "at": 294,
-   "until": 337,
+   "at": 288,
+   "until": 331,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Actually, my presentation can wait. Don't tell anyone.",
-   "at": 339,
-   "until": 452
+   "at": 333,
+   "until": 455
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 93
+   "at": 87
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 157
+   "at": 151
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 327
+   "at": 321
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 458
+   "at": 452
   }
  ],
- "nope": 169,
- "crumble": 185,
- "rewind": 205,
- "expand": 231,
- "celebrate": 432,
- "cta": 462,
+ "nope": 163,
+ "crumble": 179,
+ "rewind": 199,
+ "expand": 225,
+ "celebrate": 426,
+ "cta": 465,
  "total": 510,
  "badge": "+1 boundary",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

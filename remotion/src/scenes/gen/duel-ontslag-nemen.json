@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "You wanted to talk? I've got five minutes.",
-   "at": 10,
-   "until": 82
+   "at": 4,
+   "until": 76
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "So, um, I don't really know how to say this, but...",
-   "at": 84,
-   "until": 184,
+   "at": 78,
+   "until": 178,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Wait... are you breaking up with me?",
-   "at": 186,
-   "until": 246
+   "at": 180,
+   "until": 240
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Fine. Then who's doing the Henderson report?",
-   "at": 248,
-   "until": 336
+   "at": 242,
+   "until": 330
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "You wanted to talk? I've got five minutes.",
-   "at": 392,
-   "until": 464
+   "at": 386,
+   "until": 458
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I wanted to tell you first: I've accepted another job.",
-   "at": 466,
-   "until": 553,
+   "at": 460,
+   "until": 547,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Oh. Wow. Congratulations.",
-   "at": 555,
-   "until": 608
+   "at": 549,
+   "until": 602
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'll make sure the handover goes smoothly.",
-   "at": 610,
-   "until": 673,
+   "at": 604,
+   "until": 667,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Thank you. Honestly, that's how it should go.",
-   "at": 675,
-   "until": 802
+   "at": 669,
+   "until": 785
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 176
+   "at": 170
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 238
+   "at": 232
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 308
+   "at": 302
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 545
+   "at": 539
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 663
+   "at": 657
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 778
+   "at": 772
   }
  ],
- "nope": 320,
- "crumble": 336,
- "rewind": 356,
- "expand": 382,
- "celebrate": 752,
- "cta": 812,
- "total": 900,
+ "nope": 314,
+ "crumble": 330,
+ "rewind": 350,
+ "expand": 376,
+ "celebrate": 746,
+ "cta": 795,
+ "total": 840,
  "badge": "+1 professional",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

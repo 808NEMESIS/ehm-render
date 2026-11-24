@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "So... what's the main takeaway here?",
-   "at": 10,
-   "until": 66
+   "at": 4,
+   "until": 60
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Sorry, sorry, I totally lost it...",
-   "at": 68,
-   "until": 143,
+   "at": 62,
+   "until": 137,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Take your time. We have... all day.",
-   "at": 145,
-   "until": 208
+   "at": 139,
+   "until": 202
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Let's just skip to the next presenter.",
-   "at": 210,
-   "until": 287
+   "at": 204,
+   "until": 281
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "So... what's the main takeaway here?",
-   "at": 343,
-   "until": 399
+   "at": 337,
+   "until": 393
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Let me take a second to find my place.",
-   "at": 401,
-   "until": 466,
+   "at": 395,
+   "until": 460,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Of course. Take your time.",
-   "at": 468,
-   "until": 510
+   "at": 462,
+   "until": 504
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "The key point here is: we're two weeks ahead.",
-   "at": 512,
-   "until": 579,
+   "at": 506,
+   "until": 573,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Two weeks ahead? That's great news.",
-   "at": 581,
-   "until": 685
+   "at": 575,
+   "until": 665
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 135
+   "at": 129
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 200
+   "at": 194
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 259
+   "at": 253
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 458
+   "at": 452
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 569
+   "at": 563
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 661
+   "at": 655
   }
  ],
- "nope": 271,
- "crumble": 287,
- "rewind": 307,
- "expand": 333,
- "celebrate": 635,
- "cta": 695,
- "total": 780,
+ "nope": 265,
+ "crumble": 281,
+ "rewind": 301,
+ "expand": 327,
+ "celebrate": 629,
+ "cta": 675,
+ "total": 720,
  "badge": "+1 composure",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

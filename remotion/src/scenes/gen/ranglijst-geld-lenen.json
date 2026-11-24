@@ -14,37 +14,37 @@
   {
    "text": "Suddenly you're \"also broke\"",
    "tier": "C",
-   "at": 36,
-   "land": 86
+   "at": 12,
+   "land": 62
   },
   {
    "text": "Lend it and never mention it again",
    "tier": "F",
-   "at": 104,
-   "land": 169
+   "at": 80,
+   "land": 145
   },
   {
    "text": "\"Let me check and get back to you\"",
    "tier": "B",
-   "at": 187,
-   "land": 257
+   "at": 163,
+   "land": 233
   },
   {
    "text": "Offer to help them make a plan",
    "tier": "A",
-   "at": 275,
-   "land": 340
+   "at": 251,
+   "land": 316
   },
   {
    "text": "I don't lend money, even to friends.",
    "tier": "S",
-   "at": 358,
-   "land": 435,
+   "at": 334,
+   "land": 411,
    "script": true
   }
  ],
- "outro": 465,
- "total": 540,
+ "outro": 450,
+ "total": 495,
  "ask": "Wrong order? Fight me in the comments.",
  "sticker": "Comment SAY → free PDF"
 }

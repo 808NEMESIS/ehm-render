@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "collega",
    "text": "So I had this idea: weekly client calls.",
-   "at": 10,
-   "until": 71
+   "at": 4,
+   "until": 65
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Yeah, exactly what I was thinking...",
-   "at": 73,
-   "until": 135,
+   "at": 67,
+   "until": 129,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "The director loved my idea, by the way.",
-   "at": 137,
-   "until": 235
+   "at": 131,
+   "until": 229
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "So I had this idea: weekly client calls.",
-   "at": 291,
-   "until": 352
+   "at": 285,
+   "until": 346
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm glad we're building on my earlier suggestion.",
-   "at": 354,
-   "until": 427,
+   "at": 348,
+   "until": 421,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Fair. It is your idea. Go ahead.",
-   "at": 429,
-   "until": 520
+   "at": 423,
+   "until": 515
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 129
+   "at": 123
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 207
+   "at": 201
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 417
+   "at": 411
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 526
+   "at": 520
   }
  ],
- "nope": 219,
- "crumble": 235,
- "rewind": 255,
- "expand": 281,
- "celebrate": 500,
- "cta": 530,
- "total": 585,
+ "nope": 213,
+ "crumble": 229,
+ "rewind": 249,
+ "expand": 275,
+ "celebrate": 494,
+ "cta": 525,
+ "total": 570,
  "badge": "+1 credit",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "That was fun! Same time next week?",
-   "at": 10,
-   "until": 64
+   "at": 4,
+   "until": 58
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Yeah, maybe next week or something...",
-   "at": 66,
-   "until": 124,
+   "at": 60,
+   "until": 118,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "So... meet my parents on Sunday?",
-   "at": 126,
-   "until": 204
+   "at": 120,
+   "until": 198
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "That was fun! Same time next week?",
-   "at": 260,
-   "until": 314
+   "at": 254,
+   "until": 308
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I had a nice time meeting you.",
-   "at": 316,
-   "until": 371,
+   "at": 310,
+   "until": 365,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Honestly? Me neither. Thanks for saying it.",
-   "at": 373,
-   "until": 468
+   "at": 367,
+   "until": 470
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 118
+   "at": 112
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 176
+   "at": 170
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 361
+   "at": 355
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 474
+   "at": 468
   }
  ],
- "nope": 188,
- "crumble": 204,
- "rewind": 224,
- "expand": 250,
- "celebrate": 448,
- "cta": 478,
+ "nope": 182,
+ "crumble": 198,
+ "rewind": 218,
+ "expand": 244,
+ "celebrate": 442,
+ "cta": 480,
  "total": 525,
  "badge": "+1 honesty",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

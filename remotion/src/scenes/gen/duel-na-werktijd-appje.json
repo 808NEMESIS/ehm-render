@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "Hey, quick thing. Can you fix the slides?",
-   "at": 10,
-   "until": 81
+   "at": 4,
+   "until": 75
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Sure, I'll do it right now.",
-   "at": 83,
-   "until": 135,
+   "at": 77,
+   "until": 129,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Great! And the budget, while you're at it.",
-   "at": 137,
-   "until": 210
+   "at": 131,
+   "until": 204
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "You're the only one who answers. Thanks!",
-   "at": 212,
-   "until": 296
+   "at": 206,
+   "until": 290
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Hey, quick thing. Can you fix the slides?",
-   "at": 352,
-   "until": 423
+   "at": 346,
+   "until": 417
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm offline for the evening, so I'll pick this up tomorrow.",
-   "at": 425,
-   "until": 525,
+   "at": 419,
+   "until": 519,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Wait, what if it can't wait?",
-   "at": 527,
-   "until": 575
+   "at": 521,
+   "until": 569
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "If it's urgent, just call me.",
-   "at": 577,
-   "until": 633,
+   "at": 571,
+   "until": 627,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Not urgent. Tomorrow's fine. Enjoy your evening.",
-   "at": 635,
-   "until": 772
+   "at": 629,
+   "until": 755
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 127
+   "at": 121
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 202
+   "at": 196
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 268
+   "at": 262
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 517
+   "at": 511
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 623
+   "at": 617
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 748
+   "at": 742
   }
  ],
- "nope": 280,
- "crumble": 296,
- "rewind": 316,
- "expand": 342,
- "celebrate": 722,
- "cta": 782,
- "total": 870,
+ "nope": 274,
+ "crumble": 290,
+ "rewind": 310,
+ "expand": 336,
+ "celebrate": 716,
+ "cta": 765,
+ "total": 810,
  "badge": "+1 evening",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

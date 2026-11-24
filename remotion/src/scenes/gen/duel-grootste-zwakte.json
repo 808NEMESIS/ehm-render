@@ -4,7 +4,7 @@
  "slug": "grootste-zwakte",
  "pillar": "werk",
  "caption": "Your greatest weakness?",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "vergadering",
  "cast": "baas",
@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "What's your greatest weakness?",
-   "at": 10,
-   "until": 47
+   "at": 4,
+   "until": 41
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "I'm a perfectionist.",
-   "at": 49,
-   "until": 88,
+   "at": 43,
+   "until": 82,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Interesting. Everyone says that.",
-   "at": 90,
-   "until": 148
+   "at": 84,
+   "until": 142
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Same answer as everyone. Next!",
-   "at": 150,
-   "until": 226
+   "at": 144,
+   "until": 220
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "What's your greatest weakness?",
-   "at": 282,
-   "until": 319
+   "at": 276,
+   "until": 313
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I used to struggle with delegating.",
-   "at": 321,
-   "until": 380,
+   "at": 315,
+   "until": 374,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "And how do you handle that now?",
-   "at": 382,
-   "until": 429
+   "at": 376,
+   "until": 423
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Now I agree on owners and check-ins upfront.",
-   "at": 431,
-   "until": 504,
+   "at": 425,
+   "until": 498,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Finally, a real answer. I delegate badly too.",
-   "at": 506,
-   "until": 649
+   "at": 500,
+   "until": 635
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 80
+   "at": 74
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 140
+   "at": 134
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 198
+   "at": 192
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 372
+   "at": 366
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 494
+   "at": 488
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 625
+   "at": 619
   }
  ],
- "nope": 210,
- "crumble": 226,
- "rewind": 246,
- "expand": 272,
- "celebrate": 599,
- "cta": 659,
- "total": 735,
+ "nope": 204,
+ "crumble": 220,
+ "rewind": 240,
+ "expand": 266,
+ "celebrate": 593,
+ "cta": 645,
+ "total": 690,
  "badge": "+1 honesty",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

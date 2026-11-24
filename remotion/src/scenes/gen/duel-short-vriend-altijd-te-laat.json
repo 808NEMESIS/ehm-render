@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "Sorry, sorry! Traffic was crazy.",
-   "at": 10,
-   "until": 75
+   "at": 4,
+   "until": 69
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Haha, no worries! Again.",
-   "at": 77,
-   "until": 134,
+   "at": 71,
+   "until": 128,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Oh, I invited Sam. He's even later.",
-   "at": 136,
-   "until": 235
+   "at": 130,
+   "until": 229
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Sorry, sorry! Traffic was crazy.",
-   "at": 291,
-   "until": 356
+   "at": 285,
+   "until": 350
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Hey, I've noticed we're often starting late.",
-   "at": 358,
-   "until": 432,
+   "at": 352,
+   "until": 426,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Deal. I'll set an alarm this time.",
-   "at": 434,
-   "until": 514
+   "at": 428,
+   "until": 515
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 128
+   "at": 122
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 207
+   "at": 201
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 422
+   "at": 416
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 520
+   "at": 514
   }
  ],
- "nope": 219,
- "crumble": 235,
- "rewind": 255,
- "expand": 281,
- "celebrate": 494,
- "cta": 524,
+ "nope": 213,
+ "crumble": 229,
+ "rewind": 249,
+ "expand": 275,
+ "celebrate": 488,
+ "cta": 525,
  "total": 570,
  "badge": "+1 self-respect",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

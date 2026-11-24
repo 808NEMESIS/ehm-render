@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "So, what did you want to discuss?",
-   "at": 10,
-   "until": 68
+   "at": 4,
+   "until": 62
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, I was wondering if maybe there's a bit more...",
-   "at": 70,
-   "until": 156,
+   "at": 64,
+   "until": 150,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Great! You're our new coffee captain.",
-   "at": 158,
-   "until": 236
+   "at": 152,
+   "until": 230
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "So, what did you want to discuss?",
-   "at": 292,
-   "until": 350
+   "at": 286,
+   "until": 344
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'd like to talk about my salary.",
-   "at": 352,
-   "until": 415,
+   "at": 346,
+   "until": 409,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Finally! I thought you'd never ask.",
-   "at": 417,
-   "until": 499
+   "at": 411,
+   "until": 500
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 150
+   "at": 144
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 208
+   "at": 202
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 405
+   "at": 399
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 505
+   "at": 499
   }
  ],
- "nope": 220,
- "crumble": 236,
- "rewind": 256,
- "expand": 282,
- "celebrate": 479,
- "cta": 509,
+ "nope": 214,
+ "crumble": 230,
+ "rewind": 250,
+ "expand": 276,
+ "celebrate": 473,
+ "cta": 510,
  "total": 555,
  "badge": "+1 courage",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

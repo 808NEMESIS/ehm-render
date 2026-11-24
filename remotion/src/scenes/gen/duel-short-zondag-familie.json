@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "See you Sunday, sweetie?",
-   "at": 10,
-   "until": 54
+   "at": 4,
+   "until": 48
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, maybe, I'll see...",
-   "at": 56,
-   "until": 101,
+   "at": 50,
+   "until": 95,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "I already told everyone you're coming!",
-   "at": 103,
-   "until": 186
+   "at": 97,
+   "until": 180
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "See you Sunday, sweetie?",
-   "at": 242,
-   "until": 286
+   "at": 236,
+   "until": 280
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm skipping this Sunday, I need a quiet day.",
-   "at": 288,
-   "until": 366,
+   "at": 282,
+   "until": 360,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Honestly? I wanted a quiet Sunday too.",
-   "at": 368,
-   "until": 460
+   "at": 362,
+   "until": 455
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 95
+   "at": 89
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 158
+   "at": 152
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 356
+   "at": 350
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 466
+   "at": 460
   }
  ],
- "nope": 170,
- "crumble": 186,
- "rewind": 206,
- "expand": 232,
- "celebrate": 440,
- "cta": 470,
- "total": 525,
+ "nope": 164,
+ "crumble": 180,
+ "rewind": 200,
+ "expand": 226,
+ "celebrate": 434,
+ "cta": 465,
+ "total": 510,
  "badge": "+1 boundary",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "kennis",
    "text": "Sorry, one sec. Just checking something.",
-   "at": 10,
-   "until": 81
+   "at": 4,
+   "until": 75
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Haha, am I boring you?",
-   "at": 83,
-   "until": 137,
+   "at": 77,
+   "until": 131,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Kind of, yeah. No offense.",
-   "at": 139,
-   "until": 194
+   "at": 133,
+   "until": 188
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Mind if I take this? It's my ex.",
-   "at": 196,
-   "until": 278
+   "at": 190,
+   "until": 272
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Sorry, one sec. Just checking something.",
-   "at": 334,
-   "until": 405
+   "at": 328,
+   "until": 399
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Hey, is everything okay?",
-   "at": 407,
-   "until": 461,
+   "at": 401,
+   "until": 455,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Yeah, just work stuff.",
-   "at": 463,
-   "until": 499
+   "at": 457,
+   "until": 493
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I've noticed you're checking your phone quite a bit.",
-   "at": 501,
-   "until": 576,
+   "at": 495,
+   "until": 570,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "You're right. Phone's away. Tell me more.",
-   "at": 578,
-   "until": 699
+   "at": 572,
+   "until": 680
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 129
+   "at": 123
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 186
+   "at": 180
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 250
+   "at": 244
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 453
+   "at": 447
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 566
+   "at": 560
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 675
+   "at": 669
   }
  ],
- "nope": 262,
- "crumble": 278,
- "rewind": 298,
- "expand": 324,
- "celebrate": 649,
- "cta": 709,
- "total": 795,
+ "nope": 256,
+ "crumble": 272,
+ "rewind": 292,
+ "expand": 318,
+ "celebrate": 643,
+ "cta": 690,
+ "total": 735,
  "badge": "+1 confidence",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

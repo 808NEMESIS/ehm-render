@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "So... do you like the soup?",
-   "at": 10,
-   "until": 58
+   "at": 4,
+   "until": 52
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um... great food.",
-   "at": 60,
-   "until": 92,
+   "at": 54,
+   "until": 86,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "I'll get more soup, then.",
-   "at": 94,
-   "until": 158
+   "at": 88,
+   "until": 152
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "So... do you like the soup?",
-   "at": 214,
-   "until": 262
+   "at": 208,
+   "until": 256
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "What was Sam like as a kid?",
-   "at": 264,
-   "until": 315,
+   "at": 258,
+   "until": 309,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Me? Even worse. Don't tell Sam.",
-   "at": 317,
-   "until": 398
+   "at": 311,
+   "until": 395
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 86
+   "at": 80
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 130
+   "at": 124
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 305
+   "at": 299
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 404
+   "at": 398
   }
  ],
- "nope": 142,
- "crumble": 158,
- "rewind": 178,
- "expand": 204,
- "celebrate": 378,
- "cta": 408,
- "total": 465,
+ "nope": 136,
+ "crumble": 152,
+ "rewind": 172,
+ "expand": 198,
+ "celebrate": 372,
+ "cta": 405,
+ "total": 450,
  "badge": "+1 family",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

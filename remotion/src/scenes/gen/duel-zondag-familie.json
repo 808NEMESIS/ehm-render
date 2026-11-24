@@ -4,7 +4,7 @@
  "slug": "zondag-familie",
  "pillar": "grenzen",
  "caption": "Mom, every Sunday:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "keuken",
  "cast": "kennis",
@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "kennis",
    "text": "See you Sunday, sweetie?",
-   "at": 10,
-   "until": 54
+   "at": 4,
+   "until": 48
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, maybe, I'll see...",
-   "at": 56,
-   "until": 103,
+   "at": 50,
+   "until": 97,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Great, I'll make lasagna!",
-   "at": 105,
-   "until": 151
+   "at": 99,
+   "until": 145
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "I already told everyone you're coming!",
-   "at": 153,
-   "until": 236
+   "at": 147,
+   "until": 230
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "See you Sunday, sweetie?",
-   "at": 292,
-   "until": 336
+   "at": 286,
+   "until": 330
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm skipping this Sunday, I need a quiet day.",
-   "at": 338,
-   "until": 414,
+   "at": 332,
+   "until": 408,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Oh... okay, I understand.",
-   "at": 416,
-   "until": 471
+   "at": 410,
+   "until": 465
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'll be there next week. I'll bring dessert.",
-   "at": 473,
-   "until": 541,
+   "at": 467,
+   "until": 535,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Honestly? I wanted a quiet Sunday too.",
-   "at": 543,
-   "until": 665
+   "at": 537,
+   "until": 650
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 95
+   "at": 89
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 143
+   "at": 137
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 208
+   "at": 202
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 406
+   "at": 400
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 531
+   "at": 525
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 641
+   "at": 635
   }
  ],
- "nope": 220,
- "crumble": 236,
- "rewind": 256,
- "expand": 282,
- "celebrate": 615,
- "cta": 675,
- "total": 750,
+ "nope": 214,
+ "crumble": 230,
+ "rewind": 250,
+ "expand": 276,
+ "celebrate": 609,
+ "cta": 660,
+ "total": 705,
  "badge": "+1 boundary",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

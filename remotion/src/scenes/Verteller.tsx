@@ -183,7 +183,9 @@ export const Verteller: React.FC<VertellerProps> = ({data: d, audio}) => {
   const sub = d.narration.find((n) => n.part !== 'hook' && out >= n.at - 2 && out <= n.until);
 
   // het decor komt binnen: van klein en gedraaid naar schermvullend
-  const enter = out >= d.scene ? Math.min(1, spr(out, d.scene, {damping: 13, stiffness: 140, mass: 0.8})) : 0;
+  // Sinds 24 nov (scene = 1) staat het decor er vanaf het eerste beeld en staat de vraag erboven: geen stille opening.
+  const direct = d.scene <= 1;
+  const enter = direct ? 1 : out >= d.scene ? Math.min(1, spr(out, d.scene, {damping: 13, stiffness: 140, mass: 0.8})) : 0;
   // paniek: inzoomen op Ehm en een kloppend randje
   const zoom = out >= d.panic && out < d.good ? 1 + 0.08 * Easing.out(Easing.cubic)(lin(out, d.panic, d.turn)) : 1;
   const beat = out >= d.panic && out < d.turn ? Math.max(0, Math.sin((out - d.panic) / 30 * Math.PI * 2 * 1.6)) : 0;
@@ -201,7 +203,7 @@ export const Verteller: React.FC<VertellerProps> = ({data: d, audio}) => {
 
       <AbsoluteFill style={{filter: 'url(#boil)'}}>
         {/* 1. de vraag, groot, woord voor woord met de stem mee */}
-        {out < d.scene + 12 && (() => {
+        {!direct && out < d.scene + 12 && (() => {
           const o = out >= d.scene ? lin(out, d.scene, d.scene + 12, 1, 0) : 1;
           const ehmIn = spr(out, 4, {damping: 12, stiffness: 160});
           return (
@@ -222,10 +224,18 @@ export const Verteller: React.FC<VertellerProps> = ({data: d, audio}) => {
         })()}
 
         {/* 2. de situatie: kop klein, het decor groot */}
-        {out >= d.scene && (
+        {(direct || out >= d.scene) && (
           <>
-            <div style={{position: 'absolute', left: 50, right: 50, top: 150, textAlign: 'center', opacity: out >= d.turn - 4 ? lin(out, d.turn - 4, d.turn + 4, 1, 0) : lin(out, d.scene, d.scene + 10)}}>
-              <div style={{fontFamily: FONT_HEAD, fontWeight: 700, fontSize: 72, lineHeight: 1.05, color: C.zon, ...outline(14), textShadow: `0 7px 0 ${C.ink}`}}>{d.caption}</div>
+            <div style={{position: 'absolute', left: 50, right: 50, top: direct ? 70 : 150, textAlign: 'center',
+                         opacity: out >= d.turn - 4 ? lin(out, d.turn - 4, d.turn + 4, 1, 0) : direct ? 1 : lin(out, d.scene, d.scene + 10),
+                         transform: direct ? `rotate(${-1.5 + (step % 4 === 0 ? 0.3 : 0)}deg) scale(${0.92 + 0.08 * spr(out, 0, {damping: 12})})` : undefined}}>
+              {direct ? (
+                // de vraag aan de kijker staat er vanaf het eerste beeld helemaal; de stem leest hem voor
+                <div style={{fontFamily: FONT_HEAD, fontWeight: 700, fontSize: d.hook.length <= 48 ? 70 : 60, lineHeight: 1.05, color: C.zon,
+                             ...outline(14), textShadow: `0 7px 0 ${C.ink}`}}>{d.hook}</div>
+              ) : (
+                <div style={{fontFamily: FONT_HEAD, fontWeight: 700, fontSize: 72, lineHeight: 1.05, color: C.zon, ...outline(14), textShadow: `0 7px 0 ${C.ink}`}}>{d.caption}</div>
+              )}
             </div>
             <div style={{position: 'absolute', left: RECT.x, top: RECT.y, width: RECT.w, height: RECT.h,
                          transform: `scale(${0.6 + 0.4 * enter}) rotate(${(1 - enter) * -6}deg)`, opacity: Math.min(1, enter * 2)}}>

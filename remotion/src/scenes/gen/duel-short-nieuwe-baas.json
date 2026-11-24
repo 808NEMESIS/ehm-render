@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "Hi! I'm Alex, your new manager.",
-   "at": 10,
-   "until": 77
+   "at": 4,
+   "until": 71
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Hi, so... yeah, I'm just here, haha.",
-   "at": 79,
-   "until": 160,
+   "at": 73,
+   "until": 154,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "So... do you actually work here?",
-   "at": 162,
-   "until": 240
+   "at": 156,
+   "until": 234
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Hi! I'm Alex, your new manager.",
-   "at": 296,
-   "until": 363
+   "at": 290,
+   "until": 357
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Hi, I'm Sam, I work on the design team.",
-   "at": 365,
-   "until": 446,
+   "at": 359,
+   "until": 440,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Great question. Let's grab coffee this week.",
-   "at": 448,
-   "until": 532
+   "at": 442,
+   "until": 530
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 154
+   "at": 148
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 212
+   "at": 206
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 436
+   "at": 430
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 538
+   "at": 532
   }
  ],
- "nope": 224,
- "crumble": 240,
- "rewind": 260,
- "expand": 286,
- "celebrate": 512,
- "cta": 542,
- "total": 600,
+ "nope": 218,
+ "crumble": 234,
+ "rewind": 254,
+ "expand": 280,
+ "celebrate": 506,
+ "cta": 540,
+ "total": 585,
  "badge": "+1 first impression",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

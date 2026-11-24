@@ -4,7 +4,7 @@
  "slug": "feestje-afzeggen",
  "pillar": "grenzen",
  "caption": "Invited to a party you'd skip:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "keuken",
  "cast": "kennis",
@@ -18,110 +18,113 @@
    "panel": "top",
    "who": "kennis",
    "text": "Party at mine Saturday! You in?",
-   "at": 10,
-   "until": 84
+   "at": 4,
+   "until": 78
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "I'll try to make it...",
-   "at": 86,
-   "until": 131,
+   "at": 80,
+   "until": 125,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Great! I'll put you down.",
-   "at": 133,
-   "until": 194
+   "at": 127,
+   "until": 188
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "I told everyone you're the main act!",
-   "at": 196,
-   "until": 294
+   "at": 190,
+   "until": 288
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Party at mine Saturday! You in?",
-   "at": 350,
-   "until": 424
+   "at": 344,
+   "until": 418
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm going to sit this one out.",
-   "at": 426,
-   "until": 482,
+   "at": 420,
+   "until": 476,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Aw. Totally fine!",
-   "at": 484,
-   "until": 537
+   "at": 478,
+   "until": 531
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Coffee next week instead?",
-   "at": 539,
-   "until": 594,
+   "at": 533,
+   "until": 588,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Yes! I hate parties. I'm only hosting for Tom.",
-   "at": 596,
-   "until": 750
+   "at": 590,
+   "until": 725
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 123
+   "at": 117
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 186
+   "at": 180
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 266
+   "at": 260
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 474
+   "at": 468
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 584
+   "at": 578
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 726
+   "at": 720
   }
  ],
- "nope": 278,
- "crumble": 294,
- "rewind": 314,
- "expand": 340,
- "celebrate": 700,
- "cta": 760,
- "total": 840,
+ "nope": 272,
+ "crumble": 288,
+ "rewind": 308,
+ "expand": 334,
+ "celebrate": 694,
+ "cta": 735,
+ "total": 780,
  "badge": "+1 honesty",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "voice",
  "voice": "kokoro"
 }

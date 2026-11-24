@@ -4,7 +4,7 @@
  "slug": "heb-je-even",
  "pillar": "grenzen",
  "caption": "Your boss, right before your deadline:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "kantoor",
  "cast": "baas",
@@ -18,101 +18,104 @@
    "panel": "top",
    "who": "baas",
    "text": "Hey, got a sec?",
-   "at": 10,
-   "until": 46
+   "at": 4,
+   "until": 40
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Uh, sure...",
-   "at": 48,
-   "until": 76,
+   "at": 42,
+   "until": 70,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "It's a quick one. Just the slides.",
-   "at": 78,
-   "until": 138
+   "at": 72,
+   "until": 132
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Thanks! You're a lifesaver.",
-   "at": 140,
-   "until": 210
+   "at": 134,
+   "until": 204
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Hey, got a sec?",
-   "at": 266,
-   "until": 302
+   "at": 260,
+   "until": 296
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Right now I can't, I'm up against a deadline.",
-   "at": 304,
-   "until": 378,
+   "at": 298,
+   "until": 372,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Can we do 3pm? Then you'll have my full attention.",
-   "at": 380,
-   "until": 464,
+   "at": 374,
+   "until": 458,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Oh thank god. I haven't even started the slides.",
-   "at": 466,
-   "until": 600
+   "at": 460,
+   "until": 575
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 68
+   "at": 62
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 130
+   "at": 124
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 182
+   "at": 176
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 372
+   "at": 366
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 454
+   "at": 448
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 576
+   "at": 570
   }
  ],
- "nope": 194,
- "crumble": 210,
- "rewind": 230,
- "expand": 256,
- "celebrate": 550,
- "cta": 610,
- "total": 690,
+ "nope": 188,
+ "crumble": 204,
+ "rewind": 224,
+ "expand": 250,
+ "celebrate": 544,
+ "cta": 585,
+ "total": 630,
  "badge": "+1 courage",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

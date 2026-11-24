@@ -4,7 +4,7 @@
  "slug": "verjaardag-onbekende",
  "pillar": "small_talk",
  "caption": "Party. You only know the host:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "feestje",
  "cast": "kennis",
@@ -18,110 +18,113 @@
    "panel": "top",
    "who": "kennis",
    "text": "Hi! I don't think we've met.",
-   "at": 10,
-   "until": 70
+   "at": 4,
+   "until": 64
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "So... um... nice party?",
-   "at": 72,
-   "until": 137,
+   "at": 66,
+   "until": 131,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Yeah. It is.",
-   "at": 139,
-   "until": 186
+   "at": 133,
+   "until": 180
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Okay. Bye.",
-   "at": 188,
-   "until": 258
+   "at": 182,
+   "until": 252
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Hi! I don't think we've met.",
-   "at": 314,
-   "until": 374
+   "at": 308,
+   "until": 368
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "How do you know the host?",
-   "at": 376,
-   "until": 421,
+   "at": 370,
+   "until": 415,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "We went to college together!",
-   "at": 423,
-   "until": 482
+   "at": 417,
+   "until": 476
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Oh nice, how long have you two known each other?",
-   "at": 484,
-   "until": 568,
+   "at": 478,
+   "until": 562,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Twelve years! Want the embarrassing stories?",
-   "at": 570,
-   "until": 708
+   "at": 564,
+   "until": 695
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 129
+   "at": 123
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 178
+   "at": 172
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 230
+   "at": 224
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 413
+   "at": 407
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 558
+   "at": 552
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 684
+   "at": 678
   }
  ],
- "nope": 242,
- "crumble": 258,
- "rewind": 278,
- "expand": 304,
- "celebrate": 658,
- "cta": 718,
- "total": 795,
+ "nope": 236,
+ "crumble": 252,
+ "rewind": 272,
+ "expand": 298,
+ "celebrate": 652,
+ "cta": 705,
+ "total": 750,
  "badge": "+1 new friend",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "voice",
  "voice": "kokoro"
 }

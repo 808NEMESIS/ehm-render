@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "You're good at logos, right? Quick favor?",
-   "at": 10,
-   "until": 79
+   "at": 4,
+   "until": 73
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Oh, sure, it's probably quick...",
-   "at": 81,
-   "until": 140,
+   "at": 75,
+   "until": 134,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "My cousin needs one too. Thanks, bestie!",
-   "at": 142,
-   "until": 233
+   "at": 136,
+   "until": 227
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "You're good at logos, right? Quick favor?",
-   "at": 289,
-   "until": 358
+   "at": 283,
+   "until": 352
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "This is the kind of work I normally charge for.",
-   "at": 360,
-   "until": 437,
+   "at": 354,
+   "until": 431,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Yes please. I'd rather pay a pro.",
-   "at": 439,
-   "until": 519
+   "at": 433,
+   "until": 515
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 134
+   "at": 128
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 205
+   "at": 199
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 427
+   "at": 421
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 525
+   "at": 519
   }
  ],
- "nope": 217,
- "crumble": 233,
- "rewind": 253,
- "expand": 279,
- "celebrate": 499,
- "cta": 529,
- "total": 585,
+ "nope": 211,
+ "crumble": 227,
+ "rewind": 247,
+ "expand": 273,
+ "celebrate": 493,
+ "cta": 525,
+ "total": 570,
  "badge": "+1 worth",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

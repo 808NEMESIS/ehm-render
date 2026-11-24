@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "Why are the invoice numbers all wrong?",
-   "at": 10,
-   "until": 65
+   "at": 4,
+   "until": 59
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "It wasn't really my fault, the system...",
-   "at": 67,
-   "until": 133,
+   "at": 61,
+   "until": 127,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "The system? I built the system.",
-   "at": 135,
-   "until": 193
+   "at": 129,
+   "until": 187
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Let's discuss this with HR. Bring the system.",
-   "at": 195,
-   "until": 285
+   "at": 189,
+   "until": 279
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Why are the invoice numbers all wrong?",
-   "at": 341,
-   "until": 396
+   "at": 335,
+   "until": 390
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I made a mistake with the invoice numbers.",
-   "at": 398,
-   "until": 465,
+   "at": 392,
+   "until": 459,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Okay. Thanks for saying it.",
-   "at": 467,
-   "until": 513
+   "at": 461,
+   "until": 507
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Here's what I've already done to fix it.",
-   "at": 515,
-   "until": 584,
+   "at": 509,
+   "until": 578,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Honestly? That's why I trust you with it.",
-   "at": 586,
-   "until": 706
+   "at": 580,
+   "until": 680
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 125
+   "at": 119
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 185
+   "at": 179
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 257
+   "at": 251
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 457
+   "at": 451
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 574
+   "at": 568
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 682
+   "at": 676
   }
  ],
- "nope": 269,
- "crumble": 285,
- "rewind": 305,
- "expand": 331,
- "celebrate": 656,
- "cta": 716,
- "total": 795,
+ "nope": 263,
+ "crumble": 279,
+ "rewind": 299,
+ "expand": 325,
+ "celebrate": 650,
+ "cta": 690,
+ "total": 735,
  "badge": "+1 trust",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

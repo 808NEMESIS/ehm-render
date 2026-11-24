@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "Sorry, one sec. Just checking something.",
-   "at": 10,
-   "until": 81
+   "at": 4,
+   "until": 75
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Haha, am I boring you?",
-   "at": 83,
-   "until": 135,
+   "at": 77,
+   "until": 129,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Mind if I take this? It's my ex.",
-   "at": 137,
-   "until": 219
+   "at": 131,
+   "until": 213
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Sorry, one sec. Just checking something.",
-   "at": 275,
-   "until": 346
+   "at": 269,
+   "until": 340
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Hey, is everything okay?",
-   "at": 348,
-   "until": 404,
+   "at": 342,
+   "until": 398,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "You're right. Phone's away. Tell me more.",
-   "at": 406,
-   "until": 497
+   "at": 400,
+   "until": 500
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 129
+   "at": 123
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 191
+   "at": 185
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 394
+   "at": 388
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 503
+   "at": 497
   }
  ],
- "nope": 203,
- "crumble": 219,
- "rewind": 239,
- "expand": 265,
- "celebrate": 477,
- "cta": 507,
+ "nope": 197,
+ "crumble": 213,
+ "rewind": 233,
+ "expand": 259,
+ "celebrate": 471,
+ "cta": 510,
  "total": 555,
  "badge": "+1 confidence",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

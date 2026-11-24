@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "Hey, got a sec?",
-   "at": 10,
-   "until": 46
+   "at": 4,
+   "until": 40
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Uh, sure...",
-   "at": 48,
-   "until": 74,
+   "at": 42,
+   "until": 68,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Thanks! You're a lifesaver.",
-   "at": 76,
-   "until": 146
+   "at": 70,
+   "until": 140
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Hey, got a sec?",
-   "at": 202,
-   "until": 238
+   "at": 196,
+   "until": 232
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Right now I can't, I'm up against a deadline.",
-   "at": 240,
-   "until": 318,
+   "at": 234,
+   "until": 312,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Oh thank god. I haven't even started the slides.",
-   "at": 320,
-   "until": 424
+   "at": 314,
+   "until": 425
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 68
+   "at": 62
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 118
+   "at": 112
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 308
+   "at": 302
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 430
+   "at": 424
   }
  ],
- "nope": 130,
- "crumble": 146,
- "rewind": 166,
- "expand": 192,
- "celebrate": 404,
- "cta": 434,
+ "nope": 124,
+ "crumble": 140,
+ "rewind": 160,
+ "expand": 186,
+ "celebrate": 398,
+ "cta": 435,
  "total": 480,
  "badge": "+1 courage",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

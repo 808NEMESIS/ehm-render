@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "kennis",
    "text": "That was fun! Same time next week?",
-   "at": 10,
-   "until": 64
+   "at": 4,
+   "until": 58
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Yeah, maybe next week or something...",
-   "at": 66,
-   "until": 126,
+   "at": 60,
+   "until": 120,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Great! I'll book the place. And Friday?",
-   "at": 128,
-   "until": 195
+   "at": 122,
+   "until": 189
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "So... meet my parents on Sunday?",
-   "at": 197,
-   "until": 275
+   "at": 191,
+   "until": 269
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "That was fun! Same time next week?",
-   "at": 331,
-   "until": 385
+   "at": 325,
+   "until": 379
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I had a nice time meeting you.",
-   "at": 387,
-   "until": 440,
+   "at": 381,
+   "until": 434,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Oh. But?",
-   "at": 442,
-   "until": 466
+   "at": 436,
+   "until": 460
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I didn't feel the connection I'm looking for.",
-   "at": 468,
-   "until": 537,
+   "at": 462,
+   "until": 531,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Honestly? Me neither. Thanks for saying it.",
-   "at": 539,
-   "until": 664
+   "at": 533,
+   "until": 650
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 118
+   "at": 112
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 187
+   "at": 181
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 247
+   "at": 241
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 432
+   "at": 426
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 527
+   "at": 521
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 640
+   "at": 634
   }
  ],
- "nope": 259,
- "crumble": 275,
- "rewind": 295,
- "expand": 321,
- "celebrate": 614,
- "cta": 674,
- "total": 750,
+ "nope": 253,
+ "crumble": 269,
+ "rewind": 289,
+ "expand": 315,
+ "celebrate": 608,
+ "cta": 660,
+ "total": 705,
  "badge": "+1 honesty",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

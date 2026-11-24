@@ -85,8 +85,11 @@
  ],
  "correct": 2,
  "celebrate": 559,
- "cta": 623,
- "total": 720,
+ "cta": 615,
+ "total": 660,
  "badge": "+1 neighbor",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

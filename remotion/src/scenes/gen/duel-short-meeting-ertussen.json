@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "Great, we launch Monday. Agreed?",
-   "at": 10,
-   "until": 67
+   "at": 4,
+   "until": 61
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Sorry, can I just... never mind.",
-   "at": 69,
-   "until": 134,
+   "at": 63,
+   "until": 128,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Done! Best meeting ever.",
-   "at": 136,
-   "until": 202
+   "at": 130,
+   "until": 196
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Great, we launch Monday. Agreed?",
-   "at": 258,
-   "until": 315
+   "at": 252,
+   "until": 309
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Can I add something here?",
-   "at": 317,
-   "until": 364,
+   "at": 311,
+   "until": 358,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Good catch. That would've cost us a month.",
-   "at": 366,
-   "until": 448
+   "at": 360,
+   "until": 455
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 128
+   "at": 122
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 174
+   "at": 168
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 354
+   "at": 348
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 454
+   "at": 448
   }
  ],
- "nope": 186,
- "crumble": 202,
- "rewind": 222,
- "expand": 248,
- "celebrate": 428,
- "cta": 458,
+ "nope": 180,
+ "crumble": 196,
+ "rewind": 216,
+ "expand": 242,
+ "celebrate": 422,
+ "cta": 465,
  "total": 510,
  "badge": "+1 voice",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

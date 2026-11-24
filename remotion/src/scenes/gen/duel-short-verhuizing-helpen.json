@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "Can you help me move Saturday?",
-   "at": 10,
-   "until": 59
+   "at": 4,
+   "until": 53
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um... which weekend was it again?",
-   "at": 61,
-   "until": 119,
+   "at": 55,
+   "until": 113,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "You're the only one who said yes!",
-   "at": 121,
-   "until": 194
+   "at": 115,
+   "until": 188
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Can you help me move Saturday?",
-   "at": 250,
-   "until": 299
+   "at": 244,
+   "until": 293
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I won't be helping with the heavy lifting this time.",
-   "at": 301,
-   "until": 382,
+   "at": 295,
+   "until": 376,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Pizza? You're officially my favorite friend.",
-   "at": 384,
-   "until": 478
+   "at": 378,
+   "until": 485
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 113
+   "at": 107
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 166
+   "at": 160
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 372
+   "at": 366
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 484
+   "at": 478
   }
  ],
- "nope": 178,
- "crumble": 194,
- "rewind": 214,
- "expand": 240,
- "celebrate": 458,
- "cta": 488,
+ "nope": 172,
+ "crumble": 188,
+ "rewind": 208,
+ "expand": 234,
+ "celebrate": 452,
+ "cta": 495,
  "total": 540,
  "badge": "+1 boundary",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

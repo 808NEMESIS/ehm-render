@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "collega",
    "text": "Morning.",
-   "at": 10,
-   "until": 25
+   "at": 4,
+   "until": 19
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Busy day, huh?",
-   "at": 27,
-   "until": 63,
+   "at": 21,
+   "until": 57,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Anyway. Nice weather, huh?",
-   "at": 65,
-   "until": 142
+   "at": 59,
+   "until": 136
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Morning.",
-   "at": 198,
-   "until": 213
+   "at": 192,
+   "until": 207
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "What are you working on these days?",
-   "at": 215,
-   "until": 270,
+   "at": 209,
+   "until": 264,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Wait, you're fun. Lunch tomorrow?",
-   "at": 272,
-   "until": 351
+   "at": 266,
+   "until": 350
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 57
+   "at": 51
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 114
+   "at": 108
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 260
+   "at": 254
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 357
+   "at": 351
   }
  ],
- "nope": 126,
- "crumble": 142,
- "rewind": 162,
- "expand": 188,
- "celebrate": 331,
- "cta": 361,
- "total": 420,
+ "nope": 120,
+ "crumble": 136,
+ "rewind": 156,
+ "expand": 182,
+ "celebrate": 325,
+ "cta": 360,
+ "total": 405,
  "badge": "+1 work friend",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

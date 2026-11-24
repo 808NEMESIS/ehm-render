@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "kennis",
    "text": "Sorry, sorry! Traffic was crazy.",
-   "at": 10,
-   "until": 75
+   "at": 4,
+   "until": 69
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Haha, no worries! Again.",
-   "at": 77,
-   "until": 136,
+   "at": 71,
+   "until": 130,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Knew you wouldn't mind. You're so easy.",
-   "at": 138,
-   "until": 198
+   "at": 132,
+   "until": 192
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Oh, I invited Sam. He's even later.",
-   "at": 200,
-   "until": 299
+   "at": 194,
+   "until": 293
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Sorry, sorry! Traffic was crazy.",
-   "at": 355,
-   "until": 420
+   "at": 349,
+   "until": 414
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Hey, I've noticed we're often starting late.",
-   "at": 422,
-   "until": 494,
+   "at": 416,
+   "until": 488,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Yeah... that's fair.",
-   "at": 496,
-   "until": 526
+   "at": 490,
+   "until": 520
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Next time, can we pick a time we can both make?",
-   "at": 528,
-   "until": 610,
+   "at": 522,
+   "until": 604,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Deal. I'll set an alarm this time.",
-   "at": 612,
-   "until": 722
+   "at": 606,
+   "until": 710
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 128
+   "at": 122
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 190
+   "at": 184
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 271
+   "at": 265
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 486
+   "at": 480
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 600
+   "at": 594
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 698
+   "at": 692
   }
  ],
- "nope": 283,
- "crumble": 299,
- "rewind": 319,
- "expand": 345,
- "celebrate": 672,
- "cta": 732,
- "total": 810,
+ "nope": 277,
+ "crumble": 293,
+ "rewind": 313,
+ "expand": 339,
+ "celebrate": 666,
+ "cta": 720,
+ "total": 765,
  "badge": "+1 self-respect",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

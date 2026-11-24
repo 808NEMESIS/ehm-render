@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "collega",
    "text": "Oh, hi. Can I help you?",
-   "at": 10,
-   "until": 65
+   "at": 4,
+   "until": 59
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "I'm new, I don't know anyone, haha...",
-   "at": 67,
-   "until": 138,
+   "at": 61,
+   "until": 132,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Enjoy your lunch, new person.",
-   "at": 140,
-   "until": 212
+   "at": 134,
+   "until": 206
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Oh, hi. Can I help you?",
-   "at": 268,
-   "until": 323
+   "at": 262,
+   "until": 317
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Mind if I sit here? I'm Sam, I just started on the design team.",
-   "at": 325,
-   "until": 440,
+   "at": 319,
+   "until": 434,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Never microwave fish. And sit with us daily.",
-   "at": 442,
-   "until": 540
+   "at": 436,
+   "until": 545
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 132
+   "at": 126
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 184
+   "at": 178
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 430
+   "at": 424
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 546
+   "at": 540
   }
  ],
- "nope": 196,
- "crumble": 212,
- "rewind": 232,
- "expand": 258,
- "celebrate": 520,
- "cta": 550,
+ "nope": 190,
+ "crumble": 206,
+ "rewind": 226,
+ "expand": 252,
+ "celebrate": 514,
+ "cta": 555,
  "total": 600,
  "badge": "+1 lunch buddy",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

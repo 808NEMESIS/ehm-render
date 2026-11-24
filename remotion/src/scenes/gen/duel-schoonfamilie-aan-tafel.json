@@ -4,7 +4,7 @@
  "slug": "schoonfamilie-aan-tafel",
  "pillar": "small_talk",
  "caption": "Dinner with your partner's family:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "restaurant",
  "cast": "kennis",
@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "kennis",
    "text": "So... do you like the soup?",
-   "at": 10,
-   "until": 58
+   "at": 4,
+   "until": 52
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um... great food.",
-   "at": 60,
-   "until": 94,
+   "at": 54,
+   "until": 88,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "...More soup?",
-   "at": 96,
-   "until": 115
+   "at": 90,
+   "until": 109
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "I'll get more soup, then.",
-   "at": 117,
-   "until": 181
+   "at": 111,
+   "until": 175
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "So... do you like the soup?",
-   "at": 237,
-   "until": 285
+   "at": 231,
+   "until": 279
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "What was Sam like as a kid?",
-   "at": 287,
-   "until": 336,
+   "at": 281,
+   "until": 330,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Oh, a total menace. Climbed everything!",
-   "at": 338,
-   "until": 417
+   "at": 332,
+   "until": 411
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Ha, that explains a lot. What were you like at that age?",
-   "at": 419,
-   "until": 518,
+   "at": 413,
+   "until": 512,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Me? Even worse. Don't tell Sam.",
-   "at": 520,
-   "until": 631
+   "at": 514,
+   "until": 605
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 86
+   "at": 80
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 107
+   "at": 101
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 153
+   "at": 147
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 328
+   "at": 322
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 508
+   "at": 502
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 607
+   "at": 601
   }
  ],
- "nope": 165,
- "crumble": 181,
- "rewind": 201,
- "expand": 227,
- "celebrate": 581,
- "cta": 641,
- "total": 720,
+ "nope": 159,
+ "crumble": 175,
+ "rewind": 195,
+ "expand": 221,
+ "celebrate": 575,
+ "cta": 615,
+ "total": 660,
  "badge": "+1 family",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

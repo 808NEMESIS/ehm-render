@@ -4,7 +4,7 @@
  "slug": "netwerkborrel",
  "pillar": "small_talk",
  "caption": "Networking event, you know nobody:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "feestje",
  "cast": "collega",
@@ -18,110 +18,113 @@
    "panel": "top",
    "who": "collega",
    "text": "Can I help you?",
-   "at": 10,
-   "until": 47
+   "at": 4,
+   "until": 41
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Sorry to bother you, but...",
-   "at": 49,
-   "until": 106,
+   "at": 43,
+   "until": 100,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Bother me with what?",
-   "at": 108,
-   "until": 151
+   "at": 102,
+   "until": 145
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Please talk to my assistant.",
-   "at": 153,
-   "until": 230
+   "at": 147,
+   "until": 224
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Can I help you?",
-   "at": 286,
-   "until": 323
+   "at": 280,
+   "until": 317
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Mind if I join you? I don't know anyone here yet.",
-   "at": 325,
-   "until": 418,
+   "at": 319,
+   "until": 412,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Please! I don't know anyone either.",
-   "at": 420,
-   "until": 479
+   "at": 414,
+   "until": 473
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "What brought you here tonight?",
-   "at": 481,
-   "until": 529,
+   "at": 475,
+   "until": 523,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Honestly? My boss forced me. Let's escape together.",
-   "at": 531,
-   "until": 683
+   "at": 525,
+   "until": 665
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 98
+   "at": 92
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 143
+   "at": 137
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 202
+   "at": 196
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 410
+   "at": 404
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 519
+   "at": 513
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 659
+   "at": 653
   }
  ],
- "nope": 214,
- "crumble": 230,
- "rewind": 250,
- "expand": 276,
- "celebrate": 633,
- "cta": 693,
- "total": 780,
+ "nope": 208,
+ "crumble": 224,
+ "rewind": 244,
+ "expand": 270,
+ "celebrate": 627,
+ "cta": 675,
+ "total": 720,
  "badge": "+1 contact",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "voice",
  "voice": "kokoro"
 }

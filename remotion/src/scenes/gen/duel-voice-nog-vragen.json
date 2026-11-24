@@ -4,7 +4,7 @@
  "slug": "nog-vragen",
  "pillar": "werk",
  "caption": "End of the job interview:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "vergadering",
  "cast": "baas",
@@ -18,110 +18,113 @@
    "panel": "top",
    "who": "baas",
    "text": "Any questions for us?",
-   "at": 10,
-   "until": 60
+   "at": 4,
+   "until": 54
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "No, I think you covered everything.",
-   "at": 62,
-   "until": 134,
+   "at": 56,
+   "until": 128,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Nothing at all? Hm.",
-   "at": 136,
-   "until": 196
+   "at": 130,
+   "until": 190
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Maybe.",
-   "at": 198,
-   "until": 249
+   "at": 192,
+   "until": 243
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Any questions for us?",
-   "at": 305,
-   "until": 355
+   "at": 299,
+   "until": 349
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "What does success look like in this role after six months?",
-   "at": 357,
-   "until": 456,
+   "at": 351,
+   "until": 450,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Great question. Owning the roadmap.",
-   "at": 458,
-   "until": 534
+   "at": 452,
+   "until": 528
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "What do you enjoy most about working here?",
-   "at": 536,
-   "until": 608,
+   "at": 530,
+   "until": 602,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Honestly? The people. You'd fit right in.",
-   "at": 610,
-   "until": 742
+   "at": 604,
+   "until": 725
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 126
+   "at": 120
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 188
+   "at": 182
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 221
+   "at": 215
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 448
+   "at": 442
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 598
+   "at": 592
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 718
+   "at": 712
   }
  ],
- "nope": 233,
- "crumble": 249,
- "rewind": 269,
- "expand": 295,
- "celebrate": 692,
- "cta": 752,
- "total": 840,
+ "nope": 227,
+ "crumble": 243,
+ "rewind": 263,
+ "expand": 289,
+ "celebrate": 686,
+ "cta": 735,
+ "total": 780,
  "badge": "+1 interview",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "voice",
  "voice": "kokoro"
 }

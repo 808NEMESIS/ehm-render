@@ -18,44 +18,44 @@
    "panel": "top",
    "who": "kennis",
    "text": "And that's just the first trail!",
-   "at": 10,
-   "until": 51
+   "at": 4,
+   "until": 45
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, yeah... well... yeah.",
-   "at": 53,
-   "until": 105,
+   "at": 47,
+   "until": 99,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Wait, there's also a third trail!",
-   "at": 107,
-   "until": 185
+   "at": 101,
+   "until": 179
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "And that's just the first trail!",
-   "at": 241,
-   "until": 282
+   "at": 235,
+   "until": 276
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'll let you go in a sec, but first: that hiking tip was great.",
-   "at": 284,
-   "until": 388,
+   "at": 278,
+   "until": 382,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Thank god. My feet are killing me.",
-   "at": 390,
+   "at": 384,
    "until": 470
   }
  ],
@@ -63,32 +63,35 @@
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 99
+   "at": 93
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 157
+   "at": 151
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 378
+   "at": 372
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 476
+   "at": 470
   }
  ],
- "nope": 169,
- "crumble": 185,
- "rewind": 205,
- "expand": 231,
- "celebrate": 450,
+ "nope": 163,
+ "crumble": 179,
+ "rewind": 199,
+ "expand": 225,
+ "celebrate": 444,
  "cta": 480,
  "total": 525,
  "badge": "+1 exit",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

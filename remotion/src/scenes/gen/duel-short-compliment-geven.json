@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "collega",
    "text": "Did you need something?",
-   "at": 10,
-   "until": 47
+   "at": 4,
+   "until": 41
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, you look... good, I guess.",
-   "at": 49,
-   "until": 113,
+   "at": 43,
+   "until": 107,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "I'm going home to change.",
-   "at": 115,
-   "until": 172
+   "at": 109,
+   "until": 166
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Did you need something?",
-   "at": 228,
-   "until": 265
+   "at": 222,
+   "until": 259
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I loved how you handled that tough question.",
-   "at": 267,
-   "until": 336,
+   "at": 261,
+   "until": 330,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "That honestly made my whole week.",
-   "at": 338,
-   "until": 409
+   "at": 332,
+   "until": 410
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 107
+   "at": 101
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 144
+   "at": 138
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 326
+   "at": 320
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 415
+   "at": 409
   }
  ],
- "nope": 156,
- "crumble": 172,
- "rewind": 192,
- "expand": 218,
- "celebrate": 389,
- "cta": 419,
+ "nope": 150,
+ "crumble": 166,
+ "rewind": 186,
+ "expand": 212,
+ "celebrate": 383,
+ "cta": 420,
  "total": 465,
  "badge": "+1 kindness",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

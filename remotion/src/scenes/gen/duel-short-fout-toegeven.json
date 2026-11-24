@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "Why are the invoice numbers all wrong?",
-   "at": 10,
-   "until": 65
+   "at": 4,
+   "until": 59
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "It wasn't really my fault, the system...",
-   "at": 67,
-   "until": 131,
+   "at": 61,
+   "until": 125,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Let's discuss this with HR. Bring the system.",
-   "at": 133,
-   "until": 223
+   "at": 127,
+   "until": 217
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Why are the invoice numbers all wrong?",
-   "at": 279,
-   "until": 334
+   "at": 273,
+   "until": 328
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I made a mistake with the invoice numbers.",
-   "at": 336,
-   "until": 405,
+   "at": 330,
+   "until": 399,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Honestly? That's why I trust you with it.",
-   "at": 407,
-   "until": 497
+   "at": 401,
+   "until": 500
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 125
+   "at": 119
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 195
+   "at": 189
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 395
+   "at": 389
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 503
+   "at": 497
   }
  ],
- "nope": 207,
- "crumble": 223,
- "rewind": 243,
- "expand": 269,
- "celebrate": 477,
- "cta": 507,
+ "nope": 201,
+ "crumble": 217,
+ "rewind": 237,
+ "expand": 263,
+ "celebrate": 471,
+ "cta": 510,
  "total": 555,
  "badge": "+1 trust",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

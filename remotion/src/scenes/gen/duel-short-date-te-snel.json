@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "Let's move in together! I found a place.",
-   "at": 10,
-   "until": 78
+   "at": 4,
+   "until": 72
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, okay, if you really want...",
-   "at": 80,
-   "until": 145,
+   "at": 74,
+   "until": 139,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "I named our future dog. It's Biscuit.",
-   "at": 147,
-   "until": 235
+   "at": 141,
+   "until": 229
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Let's move in together! I found a place.",
-   "at": 291,
-   "until": 359
+   "at": 285,
+   "until": 353
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I like spending time with you.",
-   "at": 361,
-   "until": 410,
+   "at": 355,
+   "until": 404,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Phew. Honestly? I panicked. Slower sounds great.",
-   "at": 412,
-   "until": 522
+   "at": 406,
+   "until": 530
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 139
+   "at": 133
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 207
+   "at": 201
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 400
+   "at": 394
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 528
+   "at": 522
   }
  ],
- "nope": 219,
- "crumble": 235,
- "rewind": 255,
- "expand": 281,
- "celebrate": 502,
- "cta": 532,
+ "nope": 213,
+ "crumble": 229,
+ "rewind": 249,
+ "expand": 275,
+ "celebrate": 496,
+ "cta": 540,
  "total": 585,
  "badge": "+1 boundaries",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

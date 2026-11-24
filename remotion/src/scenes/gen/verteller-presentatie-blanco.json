@@ -15,86 +15,82 @@
   {
    "part": "hook",
    "text": "Do you ever freeze up when your mind goes blank in a presentation?",
-   "at": 12,
-   "end": 128,
-   "until": 134
-  },
-  {
-   "part": "scene",
-   "text": "Everyone is looking at you. Then your boss asks.",
-   "at": 152,
-   "end": 243,
-   "until": 249
+   "at": 6,
+   "end": 122,
+   "until": 128
   },
   {
    "part": "panic",
    "text": "Your mind goes blank.",
-   "at": 329,
-   "end": 380,
-   "until": 386
+   "at": 206,
+   "end": 257,
+   "until": 263
   },
   {
    "part": "turn",
    "text": "Here's what to say instead.",
-   "at": 398,
-   "end": 449,
-   "until": 455
+   "at": 275,
+   "end": 326,
+   "until": 332
   },
   {
    "part": "cta",
-   "text": "Save this for the next time it happens.",
-   "at": 758,
-   "end": 826,
-   "until": 832
+   "text": "Save this one.",
+   "at": 617,
+   "end": 651,
+   "until": 657
   }
  ],
  "lines": [
   {
    "who": "baas",
    "text": "So... what's the main takeaway here?",
-   "at": 251,
-   "end": 309,
-   "until": 392
+   "at": 128,
+   "end": 186,
+   "until": 269
   },
   {
    "who": "ehm",
    "text": "Let me take a second to find my place.",
-   "at": 459,
-   "end": 518,
-   "until": 524,
+   "at": 336,
+   "end": 395,
+   "until": 401,
    "tone": "yes"
   },
   {
    "who": "baas",
    "text": "Of course. Take your time.",
-   "at": 526,
-   "end": 570,
-   "until": 576
+   "at": 403,
+   "end": 447,
+   "until": 453
   },
   {
    "who": "ehm",
    "text": "The key point here is: we're two weeks ahead.",
-   "at": 578,
-   "end": 643,
-   "until": 651,
+   "at": 455,
+   "end": 520,
+   "until": 528,
    "tone": "yes"
   },
   {
    "who": "baas",
    "text": "Two weeks ahead? That's great news.",
-   "at": 653,
-   "end": 716,
-   "until": 746
+   "at": 530,
+   "end": 593,
+   "until": 609
   }
  ],
- "scene": 142,
- "panic": 315,
- "turn": 392,
- "good": 459,
- "celebrate": 722,
- "cta": 752,
- "total": 870,
+ "scene": 1,
+ "panic": 192,
+ "turn": 269,
+ "good": 336,
+ "celebrate": 599,
+ "cta": 615,
+ "total": 660,
  "badge": "+1 composure",
  "sticker": "10 lines for when your mind goes blank → free PDF",
- "voice": "kokoro"
+ "voice": "kokoro",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "So, why are you leaving your current job?",
-   "at": 10,
-   "until": 78
+   "at": 4,
+   "until": 72
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Honestly? My boss is a nightmare.",
-   "at": 80,
-   "until": 144,
+   "at": 74,
+   "until": 138,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Oh. Wow. Go on...",
-   "at": 146,
-   "until": 191
+   "at": 140,
+   "until": 185
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Thanks for coming in. We'll be in touch.",
-   "at": 193,
-   "until": 279
+   "at": 187,
+   "until": 273
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "So, why are you leaving your current job?",
-   "at": 335,
-   "until": 403
+   "at": 329,
+   "until": 397
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I've learned a lot in my current role.",
-   "at": 405,
-   "until": 468,
+   "at": 399,
+   "until": 462,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "That's great to hear.",
-   "at": 470,
-   "until": 499
+   "at": 464,
+   "until": 493
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Now I'm looking for more responsibility.",
-   "at": 501,
-   "until": 570,
+   "at": 495,
+   "until": 564,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Perfect. That's exactly what this role offers.",
-   "at": 572,
-   "until": 694
+   "at": 566,
+   "until": 680
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 136
+   "at": 130
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 183
+   "at": 177
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 251
+   "at": 245
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 460
+   "at": 454
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 560
+   "at": 554
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 670
+   "at": 664
   }
  ],
- "nope": 263,
- "crumble": 279,
- "rewind": 299,
- "expand": 325,
- "celebrate": 644,
- "cta": 704,
- "total": 780,
+ "nope": 257,
+ "crumble": 273,
+ "rewind": 293,
+ "expand": 319,
+ "celebrate": 638,
+ "cta": 690,
+ "total": 735,
  "badge": "+1 class",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

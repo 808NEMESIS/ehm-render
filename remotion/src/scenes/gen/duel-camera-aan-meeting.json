@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "Can everyone turn their cameras on?",
-   "at": 10,
-   "until": 67
+   "at": 4,
+   "until": 61
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, sorry, I look terrible today.",
-   "at": 69,
-   "until": 140,
+   "at": 63,
+   "until": 134,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Come on, nobody cares how you look.",
-   "at": 142,
-   "until": 210
+   "at": 136,
+   "until": 204
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Great! Now share your screen too.",
-   "at": 212,
-   "until": 282
+   "at": 206,
+   "until": 276
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Can everyone turn their cameras on?",
-   "at": 338,
-   "until": 395
+   "at": 332,
+   "until": 389
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm keeping my camera off today.",
-   "at": 397,
-   "until": 456,
+   "at": 391,
+   "until": 450,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Sure, no problem.",
-   "at": 458,
-   "until": 492
+   "at": 452,
+   "until": 486
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm here and following along, though.",
-   "at": 494,
-   "until": 558,
+   "at": 488,
+   "until": 552,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Honestly? Mine's off too. I'm in pajamas.",
-   "at": 560,
-   "until": 693
+   "at": 554,
+   "until": 680
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 132
+   "at": 126
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 202
+   "at": 196
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 254
+   "at": 248
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 448
+   "at": 442
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 548
+   "at": 542
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 669
+   "at": 663
   }
  ],
- "nope": 266,
- "crumble": 282,
- "rewind": 302,
- "expand": 328,
- "celebrate": 643,
- "cta": 703,
- "total": 780,
+ "nope": 260,
+ "crumble": 276,
+ "rewind": 296,
+ "expand": 322,
+ "celebrate": 637,
+ "cta": 690,
+ "total": 735,
  "badge": "+1 boundaries",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

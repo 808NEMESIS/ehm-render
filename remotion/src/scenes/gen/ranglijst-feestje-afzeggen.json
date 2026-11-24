@@ -14,37 +14,37 @@
   {
    "text": "Say \"maybe\" and hope they forget",
    "tier": "C",
-   "at": 36,
-   "land": 96
+   "at": 12,
+   "land": 72
   },
   {
    "text": "Blame your cat. You don't have a cat.",
    "tier": "F",
-   "at": 114,
-   "land": 184
+   "at": 90,
+   "land": 160
   },
   {
    "text": "Go for one hour, then vanish",
    "tier": "B",
-   "at": 202,
-   "land": 262
+   "at": 178,
+   "land": 238
   },
   {
    "text": "Send a funny voice note saying no",
    "tier": "A",
-   "at": 280,
-   "land": 345
+   "at": 256,
+   "land": 321
   },
   {
    "text": "I'm going to sit this one out.",
    "tier": "S",
-   "at": 363,
-   "land": 440,
+   "at": 339,
+   "land": 416,
    "script": true
   }
  ],
- "outro": 470,
- "total": 555,
+ "outro": 450,
+ "total": 495,
  "ask": "Wrong order? Fight me in the comments.",
  "sticker": "Comment SAY → free PDF"
 }

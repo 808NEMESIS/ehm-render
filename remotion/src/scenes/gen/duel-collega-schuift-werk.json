@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "collega",
    "text": "Hey, can you take my reports this week?",
-   "at": 10,
-   "until": 74
+   "at": 4,
+   "until": 68
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Sure, just send it over...",
-   "at": 76,
-   "until": 126,
+   "at": 70,
+   "until": 120,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Amazing! And my emails too, then.",
-   "at": 128,
-   "until": 197
+   "at": 122,
+   "until": 191
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "You're the best. I'm off to lunch.",
-   "at": 199,
-   "until": 275
+   "at": 193,
+   "until": 269
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Hey, can you take my reports this week?",
-   "at": 331,
-   "until": 395
+   "at": 325,
+   "until": 389
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I can't take this on as well.",
-   "at": 397,
-   "until": 446,
+   "at": 391,
+   "until": 440,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Oh. But I'm swamped...",
-   "at": 448,
-   "until": 488
+   "at": 442,
+   "until": 482
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Want to check with our manager who should pick it up?",
-   "at": 490,
-   "until": 573,
+   "at": 484,
+   "until": 567,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Fair. I'll ask her. Sorry for dumping it.",
-   "at": 575,
-   "until": 702
+   "at": 569,
+   "until": 680
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 118
+   "at": 112
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 189
+   "at": 183
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 247
+   "at": 241
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 438
+   "at": 432
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 563
+   "at": 557
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 678
+   "at": 672
   }
  ],
- "nope": 259,
- "crumble": 275,
- "rewind": 295,
- "expand": 321,
- "celebrate": 652,
- "cta": 712,
- "total": 795,
+ "nope": 253,
+ "crumble": 269,
+ "rewind": 289,
+ "expand": 315,
+ "celebrate": 646,
+ "cta": 690,
+ "total": 735,
  "badge": "+1 boundaries",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

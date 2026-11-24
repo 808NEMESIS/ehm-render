@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "What's your greatest weakness?",
-   "at": 10,
-   "until": 47
+   "at": 4,
+   "until": 41
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "I'm a perfectionist.",
-   "at": 49,
-   "until": 86,
+   "at": 43,
+   "until": 80,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Same answer as everyone. Next!",
-   "at": 88,
-   "until": 164
+   "at": 82,
+   "until": 158
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "What's your greatest weakness?",
-   "at": 220,
-   "until": 257
+   "at": 214,
+   "until": 251
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I used to struggle with delegating.",
-   "at": 259,
-   "until": 320,
+   "at": 253,
+   "until": 314,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Finally, a real answer. I delegate badly too.",
-   "at": 322,
-   "until": 435
+   "at": 316,
+   "until": 440
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 80
+   "at": 74
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 136
+   "at": 130
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 310
+   "at": 304
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 441
+   "at": 435
   }
  ],
- "nope": 148,
- "crumble": 164,
- "rewind": 184,
- "expand": 210,
- "celebrate": 415,
- "cta": 445,
+ "nope": 142,
+ "crumble": 158,
+ "rewind": 178,
+ "expand": 204,
+ "celebrate": 409,
+ "cta": 450,
  "total": 495,
  "badge": "+1 honesty",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

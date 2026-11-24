@@ -15,86 +15,82 @@
   {
    "part": "hook",
    "text": "Do you ever freeze up when your date keeps checking their phone?",
-   "at": 12,
-   "end": 115,
-   "until": 121
-  },
-  {
-   "part": "scene",
-   "text": "You're telling a story on a date. And they're scrolling.",
-   "at": 139,
-   "end": 232,
-   "until": 238
+   "at": 6,
+   "end": 109,
+   "until": 115
   },
   {
    "part": "panic",
    "text": "Your mind goes blank.",
-   "at": 333,
-   "end": 384,
-   "until": 390
+   "at": 208,
+   "end": 259,
+   "until": 265
   },
   {
    "part": "turn",
    "text": "Here's what to say instead.",
-   "at": 402,
-   "end": 453,
-   "until": 459
+   "at": 277,
+   "end": 328,
+   "until": 334
   },
   {
    "part": "cta",
-   "text": "Save this for the next time it happens.",
-   "at": 753,
-   "end": 821,
-   "until": 827
+   "text": "Save this one.",
+   "at": 617,
+   "end": 651,
+   "until": 657
   }
  ],
  "lines": [
   {
    "who": "kennis",
    "text": "Sorry, one sec. Just checking something.",
-   "at": 240,
-   "end": 313,
-   "until": 396
+   "at": 115,
+   "end": 188,
+   "until": 271
   },
   {
    "who": "ehm",
    "text": "Hey, is everything okay?",
-   "at": 463,
-   "end": 506,
-   "until": 512,
+   "at": 338,
+   "end": 381,
+   "until": 387,
    "tone": "yes"
   },
   {
    "who": "kennis",
    "text": "Yeah, just work stuff.",
-   "at": 514,
-   "end": 560,
-   "until": 566
+   "at": 389,
+   "end": 435,
+   "until": 441
   },
   {
    "who": "ehm",
    "text": "I've noticed you're checking your phone quite a bit.",
-   "at": 568,
-   "end": 634,
-   "until": 642,
+   "at": 443,
+   "end": 509,
+   "until": 517,
    "tone": "yes"
   },
   {
    "who": "kennis",
    "text": "You're right. Phone's away. Tell me more.",
-   "at": 644,
-   "end": 711,
-   "until": 741
+   "at": 519,
+   "end": 586,
+   "until": 609
   }
  ],
- "scene": 129,
- "panic": 319,
- "turn": 396,
- "good": 463,
- "celebrate": 717,
- "cta": 747,
- "total": 870,
+ "scene": 1,
+ "panic": 194,
+ "turn": 271,
+ "good": 338,
+ "celebrate": 592,
+ "cta": 615,
+ "total": 660,
  "badge": "+1 confidence",
  "sticker": "10 lines for when your mind goes blank → free PDF",
- "voice": "kokoro"
+ "voice": "kokoro",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

@@ -18,44 +18,44 @@
    "panel": "top",
    "who": "baas",
    "text": "So, why are you leaving your current job?",
-   "at": 10,
-   "until": 78
+   "at": 4,
+   "until": 72
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Honestly? My boss is a nightmare.",
-   "at": 80,
-   "until": 142,
+   "at": 74,
+   "until": 136,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Thanks for coming in. We'll be in touch.",
-   "at": 144,
-   "until": 230
+   "at": 138,
+   "until": 224
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "So, why are you leaving your current job?",
-   "at": 286,
-   "until": 354
+   "at": 280,
+   "until": 348
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I've learned a lot in my current role.",
-   "at": 356,
-   "until": 421,
+   "at": 350,
+   "until": 415,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Perfect. That's exactly what this role offers.",
-   "at": 423,
+   "at": 417,
    "until": 515
   }
  ],
@@ -63,32 +63,35 @@
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 136
+   "at": 130
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 202
+   "at": 196
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 411
+   "at": 405
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 521
+   "at": 515
   }
  ],
- "nope": 214,
- "crumble": 230,
- "rewind": 250,
- "expand": 276,
- "celebrate": 495,
+ "nope": 208,
+ "crumble": 224,
+ "rewind": 244,
+ "expand": 270,
+ "celebrate": 489,
  "cta": 525,
  "total": 570,
  "badge": "+1 class",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

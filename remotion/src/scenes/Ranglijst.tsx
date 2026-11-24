@@ -113,7 +113,7 @@ export const Ranglijst: React.FC<RanglijstProps> = ({data: d, audio}) => {
           );
         })()}
       </div>
-      <Sticker text={d.sticker} top={1440} left={HOLD.x - 20} at={d.outro + 14} t={out} />
+      <Sticker text={d.sticker} top={1440} left={HOLD.x - 20} at={d.outro + 4} t={out} />
       {audio && <Html5Audio src={staticFile(audio)} />}
     </Paper>
   );

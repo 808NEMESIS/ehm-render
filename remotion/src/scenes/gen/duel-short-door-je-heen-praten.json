@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "collega",
    "text": "Sorry, quick thing, I just think we should—",
-   "at": 10,
-   "until": 81
+   "at": 4,
+   "until": 75
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Oh, sorry, you go ahead...",
-   "at": 83,
-   "until": 142,
+   "at": 77,
+   "until": 136,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "So that's decided. Thanks, everyone. My idea.",
-   "at": 144,
-   "until": 254
+   "at": 138,
+   "until": 248
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Sorry, quick thing, I just think we should—",
-   "at": 310,
-   "until": 381
+   "at": 304,
+   "until": 375
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'd like to finish my point.",
-   "at": 383,
-   "until": 432,
+   "at": 377,
+   "until": 426,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Good point. I hadn't thought of that.",
-   "at": 434,
-   "until": 510
+   "at": 428,
+   "until": 515
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 136
+   "at": 130
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 226
+   "at": 220
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 422
+   "at": 416
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 516
+   "at": 510
   }
  ],
- "nope": 238,
- "crumble": 254,
- "rewind": 274,
- "expand": 300,
- "celebrate": 490,
- "cta": 520,
+ "nope": 232,
+ "crumble": 248,
+ "rewind": 268,
+ "expand": 294,
+ "celebrate": 484,
+ "cta": 525,
  "total": 570,
  "badge": "+1 voice",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

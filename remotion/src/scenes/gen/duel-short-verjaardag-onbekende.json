@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "Hi! I don't think we've met.",
-   "at": 10,
-   "until": 58
+   "at": 4,
+   "until": 52
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "So... um... nice party?",
-   "at": 60,
-   "until": 109,
+   "at": 54,
+   "until": 103,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Okay. Bye.",
-   "at": 111,
-   "until": 161
+   "at": 105,
+   "until": 155
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Hi! I don't think we've met.",
-   "at": 217,
-   "until": 265
+   "at": 211,
+   "until": 259
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "How do you know the host?",
-   "at": 267,
-   "until": 312,
+   "at": 261,
+   "until": 306,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Twelve years! Want the embarrassing stories?",
-   "at": 314,
-   "until": 400
+   "at": 308,
+   "until": 395
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 103
+   "at": 97
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 133
+   "at": 127
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 302
+   "at": 296
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 406
+   "at": 400
   }
  ],
- "nope": 145,
- "crumble": 161,
- "rewind": 181,
- "expand": 207,
- "celebrate": 380,
- "cta": 410,
- "total": 465,
+ "nope": 139,
+ "crumble": 155,
+ "rewind": 175,
+ "expand": 201,
+ "celebrate": 374,
+ "cta": 405,
+ "total": 450,
  "badge": "+1 new friend",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

@@ -18,44 +18,44 @@
    "panel": "top",
    "who": "baas",
    "text": "You wanted to talk? I've got five minutes.",
-   "at": 10,
-   "until": 82
+   "at": 4,
+   "until": 76
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "So, um, I don't really know how to say this, but...",
-   "at": 84,
-   "until": 182,
+   "at": 78,
+   "until": 176,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Fine. Then who's doing the Henderson report?",
-   "at": 184,
-   "until": 272
+   "at": 178,
+   "until": 266
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "You wanted to talk? I've got five minutes.",
-   "at": 328,
-   "until": 400
+   "at": 322,
+   "until": 394
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I wanted to tell you first: I've accepted another job.",
-   "at": 402,
-   "until": 491,
+   "at": 396,
+   "until": 485,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Thank you. Honestly, that's how it should go.",
-   "at": 493,
+   "at": 487,
    "until": 590
   }
  ],
@@ -63,32 +63,35 @@
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 176
+   "at": 170
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 244
+   "at": 238
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 481
+   "at": 475
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 596
+   "at": 590
   }
  ],
- "nope": 256,
- "crumble": 272,
- "rewind": 292,
- "expand": 318,
- "celebrate": 570,
+ "nope": 250,
+ "crumble": 266,
+ "rewind": 286,
+ "expand": 312,
+ "celebrate": 564,
  "cta": 600,
  "total": 645,
  "badge": "+1 professional",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

@@ -4,7 +4,7 @@
  "slug": "grap-valt-stil",
  "pillar": "ongemak",
  "caption": "When your joke falls flat:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "kantoor",
  "cast": "collega",
@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "collega",
    "text": "...Was that a joke?",
-   "at": 10,
-   "until": 39
+   "at": 4,
+   "until": 33
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "No, what I meant was...",
-   "at": 41,
-   "until": 87,
+   "at": 35,
+   "until": 81,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Explain it again?",
-   "at": 89,
-   "until": 122
+   "at": 83,
+   "until": 116
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Everyone's staring at you now.",
-   "at": 124,
-   "until": 197
+   "at": 118,
+   "until": 191
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "...Was that a joke?",
-   "at": 253,
-   "until": 282
+   "at": 247,
+   "until": 276
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Okay, that was funnier in my head.",
-   "at": 284,
-   "until": 348,
+   "at": 278,
+   "until": 342,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Ha. Okay, that one's fair.",
-   "at": 350,
-   "until": 407
+   "at": 344,
+   "until": 401
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Let me try again: this meeting could have been an email.",
-   "at": 409,
-   "until": 496,
+   "at": 403,
+   "until": 490,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Mine are worse. Want to hear one?",
-   "at": 498,
-   "until": 604
+   "at": 492,
+   "until": 590
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 79
+   "at": 73
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 114
+   "at": 108
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 169
+   "at": 163
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 340
+   "at": 334
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 486
+   "at": 480
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 580
+   "at": 574
   }
  ],
- "nope": 181,
- "crumble": 197,
- "rewind": 217,
- "expand": 243,
- "celebrate": 554,
- "cta": 614,
- "total": 690,
+ "nope": 175,
+ "crumble": 191,
+ "rewind": 211,
+ "expand": 237,
+ "celebrate": 548,
+ "cta": 600,
+ "total": 645,
  "badge": "+1 humor",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

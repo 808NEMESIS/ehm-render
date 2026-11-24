@@ -4,7 +4,7 @@
  "slug": "extra-project",
  "pillar": "grenzen",
  "caption": "Your boss has another project:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "kantoor",
  "cast": "baas",
@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "Can you take on one more project?",
-   "at": 10,
-   "until": 61
+   "at": 4,
+   "until": 55
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Sure, no problem.",
-   "at": 63,
-   "until": 101,
+   "at": 57,
+   "until": 95,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Amazing. It's just a small launch.",
-   "at": 103,
-   "until": 161
+   "at": 97,
+   "until": 155
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Oh, and can you finish by Friday?",
-   "at": 163,
-   "until": 247
+   "at": 157,
+   "until": 241
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Can you take on one more project?",
-   "at": 303,
-   "until": 354
+   "at": 297,
+   "until": 348
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I get that this matters.",
-   "at": 356,
-   "until": 397,
+   "at": 350,
+   "until": 391,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "I sense a 'but' coming.",
-   "at": 399,
-   "until": 438
+   "at": 393,
+   "until": 432
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "If I take this on, something else slips. What should wait?",
-   "at": 440,
-   "until": 537,
+   "at": 434,
+   "until": 531,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Actually, my presentation can wait. Don't tell anyone.",
-   "at": 539,
-   "until": 682
+   "at": 533,
+   "until": 665
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 93
+   "at": 87
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 153
+   "at": 147
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 219
+   "at": 213
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 389
+   "at": 383
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 527
+   "at": 521
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 658
+   "at": 652
   }
  ],
- "nope": 231,
- "crumble": 247,
- "rewind": 267,
- "expand": 293,
- "celebrate": 632,
- "cta": 692,
- "total": 780,
+ "nope": 225,
+ "crumble": 241,
+ "rewind": 261,
+ "expand": 287,
+ "celebrate": 626,
+ "cta": 675,
+ "total": 720,
  "badge": "+1 boundary",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

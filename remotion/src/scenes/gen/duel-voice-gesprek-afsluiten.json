@@ -4,7 +4,7 @@
  "slug": "gesprek-afsluiten",
  "pillar": "ongemak",
  "caption": "When the conversation won't end:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "buiten",
  "cast": "kennis",
@@ -18,110 +18,113 @@
    "panel": "top",
    "who": "kennis",
    "text": "And that's just the first trail!",
-   "at": 10,
-   "until": 74
+   "at": 4,
+   "until": 68
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, yeah... well... yeah.",
-   "at": 76,
-   "until": 135,
+   "at": 70,
+   "until": 129,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Then there's the second trail.",
-   "at": 137,
-   "until": 203
+   "at": 131,
+   "until": 197
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Wait, there's also a third trail!",
-   "at": 205,
-   "until": 297
+   "at": 199,
+   "until": 291
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "And that's just the first trail!",
-   "at": 353,
-   "until": 417
+   "at": 347,
+   "until": 411
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'll let you go in a sec, but first: that hiking tip was great.",
-   "at": 419,
-   "until": 530,
+   "at": 413,
+   "until": 524,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Oh! Glad you liked it.",
-   "at": 532,
-   "until": 587
+   "at": 526,
+   "until": 581
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm going to go mingle. Catch you later!",
-   "at": 589,
-   "until": 663,
+   "at": 583,
+   "until": 657,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Thank god. My feet are killing me.",
-   "at": 665,
-   "until": 790
+   "at": 659,
+   "until": 770
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 127
+   "at": 121
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 195
+   "at": 189
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 269
+   "at": 263
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 522
+   "at": 516
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 653
+   "at": 647
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 766
+   "at": 760
   }
  ],
- "nope": 281,
- "crumble": 297,
- "rewind": 317,
- "expand": 343,
- "celebrate": 740,
- "cta": 800,
- "total": 885,
+ "nope": 275,
+ "crumble": 291,
+ "rewind": 311,
+ "expand": 337,
+ "celebrate": 734,
+ "cta": 780,
+ "total": 825,
  "badge": "+1 exit",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "voice",
  "voice": "kokoro"
 }

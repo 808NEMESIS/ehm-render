@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "collega",
    "text": "...Was that a joke?",
-   "at": 10,
-   "until": 39
+   "at": 4,
+   "until": 33
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "No, what I meant was...",
-   "at": 41,
-   "until": 85,
+   "at": 35,
+   "until": 79,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Everyone's staring at you now.",
-   "at": 87,
-   "until": 160
+   "at": 81,
+   "until": 154
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "...Was that a joke?",
-   "at": 216,
-   "until": 245
+   "at": 210,
+   "until": 239
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Okay, that was funnier in my head.",
-   "at": 247,
-   "until": 313,
+   "at": 241,
+   "until": 307,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Mine are worse. Want to hear one?",
-   "at": 315,
-   "until": 391
+   "at": 309,
+   "until": 395
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 79
+   "at": 73
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 132
+   "at": 126
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 303
+   "at": 297
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 397
+   "at": 391
   }
  ],
- "nope": 144,
- "crumble": 160,
- "rewind": 180,
- "expand": 206,
- "celebrate": 371,
- "cta": 401,
+ "nope": 138,
+ "crumble": 154,
+ "rewind": 174,
+ "expand": 200,
+ "celebrate": 365,
+ "cta": 405,
  "total": 450,
  "badge": "+1 humor",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

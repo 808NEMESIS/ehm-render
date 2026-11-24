@@ -4,7 +4,7 @@
  "slug": "geld-lenen",
  "pillar": "grenzen",
  "caption": "When your friend needs money:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "keuken",
  "cast": "kennis",
@@ -18,101 +18,104 @@
    "panel": "top",
    "who": "kennis",
    "text": "Hey, could you lend me some money?",
-   "at": 10,
-   "until": 68
+   "at": 4,
+   "until": 62
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um... how much?",
-   "at": 70,
-   "until": 104,
+   "at": 64,
+   "until": 98,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Just $50. Actually, maybe $200.",
-   "at": 106,
-   "until": 165
+   "at": 100,
+   "until": 159
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "So... could you cover my whole month?",
-   "at": 167,
-   "until": 247
+   "at": 161,
+   "until": 241
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Hey, could you lend me some money?",
-   "at": 303,
-   "until": 361
+   "at": 297,
+   "until": 355
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I don't lend money, even to friends.",
-   "at": 363,
-   "until": 425,
+   "at": 357,
+   "until": 419,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "But I'm happy to help you think it through.",
-   "at": 427,
-   "until": 494,
+   "at": 421,
+   "until": 488,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Thanks. I needed a friend more than money.",
-   "at": 496,
-   "until": 616
+   "at": 490,
+   "until": 590
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 96
+   "at": 90
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 157
+   "at": 151
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 219
+   "at": 213
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 419
+   "at": 413
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 484
+   "at": 478
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 592
+   "at": 586
   }
  ],
- "nope": 231,
- "crumble": 247,
- "rewind": 267,
- "expand": 293,
- "celebrate": 566,
- "cta": 626,
- "total": 705,
+ "nope": 225,
+ "crumble": 241,
+ "rewind": 261,
+ "expand": 287,
+ "celebrate": 560,
+ "cta": 600,
+ "total": 645,
  "badge": "+1 boundary",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

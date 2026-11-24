@@ -14,30 +14,30 @@
   {
    "say": "Per my last email...",
    "mean": "Can you read?",
-   "at": 40,
-   "end": 65,
-   "stamp": 73,
-   "until": 121
+   "at": 12,
+   "end": 37,
+   "stamp": 45,
+   "until": 93
   },
   {
    "say": "Let's circle back on that.",
    "mean": "Never. We will never.",
-   "at": 129,
-   "end": 156,
-   "stamp": 164,
-   "until": 218
+   "at": 101,
+   "end": 128,
+   "stamp": 136,
+   "until": 190
   },
   {
    "say": "Great question!",
    "mean": "I have no idea.",
-   "at": 226,
-   "end": 239,
-   "stamp": 247,
-   "until": 301
+   "at": 198,
+   "end": 211,
+   "stamp": 219,
+   "until": 273
   }
  ],
- "outro": 309,
- "total": 390,
+ "outro": 285,
+ "total": 330,
  "send": "Send this to someone who says “Per my last email...”",
  "sticker": "Comment SAY → free PDF"
 }

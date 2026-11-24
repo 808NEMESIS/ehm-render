@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "These numbers are wrong. Again.",
-   "at": 10,
-   "until": 60
+   "at": 4,
+   "until": 54
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Sorry, sorry, you're right, I'm so bad at this.",
-   "at": 62,
-   "until": 154,
+   "at": 56,
+   "until": 148,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Yes. You are. Anyone else want to try?",
-   "at": 156,
-   "until": 229
+   "at": 150,
+   "until": 223
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Let's take this project off your plate.",
-   "at": 231,
-   "until": 304
+   "at": 225,
+   "until": 298
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "These numbers are wrong. Again.",
-   "at": 360,
-   "until": 410
+   "at": 354,
+   "until": 404
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Thanks, I want to get this right.",
-   "at": 412,
-   "until": 468,
+   "at": 406,
+   "until": 462,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Okay. So what happened?",
-   "at": 470,
-   "until": 518
+   "at": 464,
+   "until": 512
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Can we go through the details after the meeting?",
-   "at": 520,
-   "until": 595,
+   "at": 514,
+   "until": 589,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Good idea. My office, at three.",
-   "at": 597,
-   "until": 712
+   "at": 591,
+   "until": 695
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 146
+   "at": 140
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 221
+   "at": 215
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 276
+   "at": 270
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 460
+   "at": 454
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 585
+   "at": 579
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 688
+   "at": 682
   }
  ],
- "nope": 288,
- "crumble": 304,
- "rewind": 324,
- "expand": 350,
- "celebrate": 662,
- "cta": 722,
- "total": 810,
+ "nope": 282,
+ "crumble": 298,
+ "rewind": 318,
+ "expand": 344,
+ "celebrate": 656,
+ "cta": 705,
+ "total": 750,
  "badge": "+1 backbone",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

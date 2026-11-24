@@ -4,7 +4,7 @@
  "slug": "koffieautomaat-collega",
  "pillar": "small_talk",
  "caption": "At the coffee machine:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "kantoor",
  "cast": "collega",
@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "collega",
    "text": "Morning.",
-   "at": 10,
-   "until": 25
+   "at": 4,
+   "until": 19
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Busy day, huh?",
-   "at": 27,
-   "until": 65,
+   "at": 21,
+   "until": 59,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Yep.",
-   "at": 67,
-   "until": 80
+   "at": 61,
+   "until": 74
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Anyway. Nice weather, huh?",
-   "at": 82,
-   "until": 159
+   "at": 76,
+   "until": 153
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Morning.",
-   "at": 215,
-   "until": 230
+   "at": 209,
+   "until": 224
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "What are you working on these days?",
-   "at": 232,
-   "until": 285,
+   "at": 226,
+   "until": 279,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "The new app launch. Honestly, it's chaos.",
-   "at": 287,
-   "until": 356
+   "at": 281,
+   "until": 350
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "What's the fun part of that?",
-   "at": 358,
-   "until": 403,
+   "at": 352,
+   "until": 397,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Wait, you're fun. Lunch tomorrow?",
-   "at": 405,
-   "until": 514
+   "at": 399,
+   "until": 500
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 57
+   "at": 51
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 72
+   "at": 66
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 131
+   "at": 125
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 277
+   "at": 271
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 393
+   "at": 387
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 490
+   "at": 484
   }
  ],
- "nope": 143,
- "crumble": 159,
- "rewind": 179,
- "expand": 205,
- "celebrate": 464,
- "cta": 524,
- "total": 600,
+ "nope": 137,
+ "crumble": 153,
+ "rewind": 173,
+ "expand": 199,
+ "celebrate": 458,
+ "cta": 510,
+ "total": 555,
  "badge": "+1 work friend",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

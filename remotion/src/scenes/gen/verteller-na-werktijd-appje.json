@@ -15,86 +15,82 @@
   {
    "part": "hook",
    "text": "Do you ever freeze up when your boss texts you at 9:47 PM?",
-   "at": 12,
-   "end": 151,
-   "until": 157
-  },
-  {
-   "part": "scene",
-   "text": "You're finally on the couch. Then your phone buzzes.",
-   "at": 175,
-   "end": 269,
-   "until": 275
+   "at": 6,
+   "end": 145,
+   "until": 151
   },
   {
    "part": "panic",
    "text": "Your mind goes blank.",
-   "at": 370,
-   "end": 421,
-   "until": 427
+   "at": 244,
+   "end": 295,
+   "until": 301
   },
   {
    "part": "turn",
    "text": "Here's what to say instead.",
-   "at": 439,
-   "end": 490,
-   "until": 496
+   "at": 313,
+   "end": 364,
+   "until": 370
   },
   {
    "part": "cta",
-   "text": "Save this for the next time it happens.",
-   "at": 837,
-   "end": 905,
-   "until": 911
+   "text": "Save this one.",
+   "at": 707,
+   "end": 741,
+   "until": 747
   }
  ],
  "lines": [
   {
    "who": "baas",
    "text": "Hey, quick thing. Can you fix the slides?",
-   "at": 277,
-   "end": 350,
-   "until": 433
+   "at": 151,
+   "end": 224,
+   "until": 307
   },
   {
    "who": "ehm",
    "text": "I'm offline for the evening, so I'll pick this up tomorrow.",
-   "at": 500,
-   "end": 591,
-   "until": 597,
+   "at": 374,
+   "end": 465,
+   "until": 471,
    "tone": "yes"
   },
   {
    "who": "baas",
    "text": "Wait, what if it can't wait?",
-   "at": 599,
-   "end": 642,
-   "until": 648
+   "at": 473,
+   "end": 516,
+   "until": 522
   },
   {
    "who": "ehm",
    "text": "If it's urgent, just call me.",
-   "at": 650,
-   "end": 694,
-   "until": 702,
+   "at": 524,
+   "end": 568,
+   "until": 576,
    "tone": "yes"
   },
   {
    "who": "baas",
    "text": "Not urgent. Tomorrow's fine. Enjoy your evening.",
-   "at": 704,
-   "end": 795,
-   "until": 825
+   "at": 578,
+   "end": 669,
+   "until": 699
   }
  ],
- "scene": 165,
- "panic": 356,
- "turn": 433,
- "good": 500,
- "celebrate": 801,
- "cta": 831,
- "total": 945,
+ "scene": 1,
+ "panic": 230,
+ "turn": 307,
+ "good": 374,
+ "celebrate": 675,
+ "cta": 705,
+ "total": 750,
  "badge": "+1 evening",
  "sticker": "10 lines for when your mind goes blank → free PDF",
- "voice": "kokoro"
+ "voice": "kokoro",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

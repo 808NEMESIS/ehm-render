@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "kennis",
    "text": "So, when are you two having kids?",
-   "at": 10,
-   "until": 68
+   "at": 4,
+   "until": 62
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, well, it's kind of complicated...",
-   "at": 70,
-   "until": 141,
+   "at": 64,
+   "until": 135,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Well, you're not getting any younger.",
-   "at": 143,
-   "until": 205
+   "at": 137,
+   "until": 199
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Everyone, they're thinking about it! Cheers!",
-   "at": 207,
-   "until": 300
+   "at": 201,
+   "until": 294
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "So, when are you two having kids?",
-   "at": 356,
-   "until": 414
+   "at": 350,
+   "until": 408
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'd rather keep that to myself.",
-   "at": 416,
-   "until": 467,
+   "at": 410,
+   "until": 461,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Oh! Of course, sweetie.",
-   "at": 469,
-   "until": 516
+   "at": 463,
+   "until": 510
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Anyway, how have you been?",
-   "at": 518,
-   "until": 572,
+   "at": 512,
+   "until": 566,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Oh, me? Well, I took up salsa!",
-   "at": 574,
-   "until": 698
+   "at": 568,
+   "until": 680
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 133
+   "at": 127
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 197
+   "at": 191
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 272
+   "at": 266
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 459
+   "at": 453
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 562
+   "at": 556
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 674
+   "at": 668
   }
  ],
- "nope": 284,
- "crumble": 300,
- "rewind": 320,
- "expand": 346,
- "celebrate": 648,
- "cta": 708,
- "total": 795,
+ "nope": 278,
+ "crumble": 294,
+ "rewind": 314,
+ "expand": 340,
+ "celebrate": 642,
+ "cta": 690,
+ "total": 735,
  "badge": "+1 grace",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

@@ -14,37 +14,37 @@
   {
    "text": "Say yes, deliver in 2029",
    "tier": "C",
-   "at": 36,
-   "land": 91
+   "at": 12,
+   "land": 67
   },
   {
    "text": "Do it, then complain for a year",
    "tier": "F",
-   "at": 109,
-   "land": 174
+   "at": 85,
+   "land": 150
   },
   {
    "text": "\"I'm swamped right now, sorry!\"",
    "tier": "B",
-   "at": 192,
-   "land": 247
+   "at": 168,
+   "land": 223
   },
   {
    "text": "Offer a friends discount",
    "tier": "A",
-   "at": 265,
-   "land": 315
+   "at": 241,
+   "land": 291
   },
   {
    "text": "This is the kind of work I normally charge for.",
    "tier": "S",
-   "at": 333,
-   "land": 425,
+   "at": 309,
+   "land": 401,
    "script": true
   }
  ],
- "outro": 455,
- "total": 540,
+ "outro": 435,
+ "total": 480,
  "ask": "Wrong order? Fight me in the comments.",
  "sticker": "Comment SAY → free PDF"
 }

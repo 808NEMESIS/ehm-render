@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "I see a gap here. What happened?",
-   "at": 10,
-   "until": 72
+   "at": 4,
+   "until": 66
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Oh, um, that was... a weird time.",
-   "at": 74,
-   "until": 144,
+   "at": 68,
+   "until": 138,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Let's... keep this one short, then.",
-   "at": 146,
-   "until": 223
+   "at": 140,
+   "until": 217
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "I see a gap here. What happened?",
-   "at": 279,
-   "until": 341
+   "at": 273,
+   "until": 335
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I took some time off to care for a family member.",
-   "at": 343,
-   "until": 430,
+   "at": 337,
+   "until": 424,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "That's great. Most people never say it that clearly.",
-   "at": 432,
-   "until": 528
+   "at": 426,
+   "until": 530
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 138
+   "at": 132
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 195
+   "at": 189
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 420
+   "at": 414
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 534
+   "at": 528
   }
  ],
- "nope": 207,
- "crumble": 223,
- "rewind": 243,
- "expand": 269,
- "celebrate": 508,
- "cta": 538,
+ "nope": 201,
+ "crumble": 217,
+ "rewind": 237,
+ "expand": 263,
+ "celebrate": 502,
+ "cta": 540,
  "total": 585,
  "badge": "+1 confidence",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

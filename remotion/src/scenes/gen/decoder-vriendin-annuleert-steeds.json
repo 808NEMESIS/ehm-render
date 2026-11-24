@@ -14,30 +14,30 @@
   {
    "say": "Let's grab coffee sometime!",
    "mean": "We will never grab coffee.",
-   "at": 40,
-   "end": 73,
-   "stamp": 81,
-   "until": 141
+   "at": 12,
+   "end": 45,
+   "stamp": 53,
+   "until": 113
   },
   {
    "say": "Something came up.",
    "mean": "The couch came up.",
-   "at": 149,
-   "end": 172,
-   "stamp": 180,
-   "until": 234
+   "at": 121,
+   "end": 144,
+   "stamp": 152,
+   "until": 206
   },
   {
    "say": "Rain check?",
    "mean": "Ask me again in 2027.",
-   "at": 242,
-   "end": 251,
-   "stamp": 259,
-   "until": 319
+   "at": 214,
+   "end": 223,
+   "stamp": 231,
+   "until": 291
   }
  ],
- "outro": 327,
- "total": 420,
+ "outro": 300,
+ "total": 345,
  "send": "Send this to someone who says “Let's grab coffee sometime!”",
  "sticker": "Comment SAY → free PDF"
 }

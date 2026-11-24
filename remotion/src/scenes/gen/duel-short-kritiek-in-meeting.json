@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "These numbers are wrong. Again.",
-   "at": 10,
-   "until": 60
+   "at": 4,
+   "until": 54
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Sorry, sorry, you're right, I'm so bad at this.",
-   "at": 62,
-   "until": 152,
+   "at": 56,
+   "until": 146,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Let's take this project off your plate.",
-   "at": 154,
-   "until": 227
+   "at": 148,
+   "until": 221
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "These numbers are wrong. Again.",
-   "at": 283,
-   "until": 333
+   "at": 277,
+   "until": 327
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Thanks, I want to get this right.",
-   "at": 335,
-   "until": 393,
+   "at": 329,
+   "until": 387,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Good idea. My office, at three.",
-   "at": 395,
-   "until": 480
+   "at": 389,
+   "until": 485
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 146
+   "at": 140
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 199
+   "at": 193
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 383
+   "at": 377
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 486
+   "at": 480
   }
  ],
- "nope": 211,
- "crumble": 227,
- "rewind": 247,
- "expand": 273,
- "celebrate": 460,
- "cta": 490,
+ "nope": 205,
+ "crumble": 221,
+ "rewind": 241,
+ "expand": 267,
+ "celebrate": 454,
+ "cta": 495,
  "total": 540,
  "badge": "+1 backbone",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

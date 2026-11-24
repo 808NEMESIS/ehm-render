@@ -14,30 +14,30 @@
   {
    "say": "I'm not usually like this.",
    "mean": "I am exactly like this.",
-   "at": 40,
-   "end": 75,
-   "stamp": 83,
-   "until": 143
+   "at": 12,
+   "end": 47,
+   "stamp": 55,
+   "until": 115
   },
   {
    "say": "Let's see where it goes.",
    "mean": "I have zero plans.",
-   "at": 151,
-   "end": 178,
-   "stamp": 186,
-   "until": 240
+   "at": 123,
+   "end": 150,
+   "stamp": 158,
+   "until": 212
   },
   {
    "say": "Sorry, one sec.",
    "mean": "I'm updating the group chat about you.",
-   "at": 248,
-   "end": 274,
-   "stamp": 282,
-   "until": 354
+   "at": 220,
+   "end": 246,
+   "stamp": 254,
+   "until": 326
   }
  ],
- "outro": 362,
- "total": 450,
+ "outro": 345,
+ "total": 390,
  "send": "Send this to someone who says “I'm not usually like this.”",
  "sticker": "Comment SAY → free PDF"
 }

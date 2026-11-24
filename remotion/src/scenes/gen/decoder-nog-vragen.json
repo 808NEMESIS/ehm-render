@@ -14,30 +14,30 @@
   {
    "say": "We're like a family here.",
    "mean": "You'll answer emails on Sunday.",
-   "at": 40,
-   "end": 75,
-   "stamp": 83,
-   "until": 143
+   "at": 12,
+   "end": 47,
+   "stamp": 55,
+   "until": 115
   },
   {
    "say": "It's a fast-paced environment.",
    "mean": "Nobody knows what's going on.",
-   "at": 151,
-   "end": 192,
-   "stamp": 200,
-   "until": 260
+   "at": 123,
+   "end": 164,
+   "stamp": 172,
+   "until": 232
   },
   {
    "say": "We'll be in touch!",
    "mean": "We will not be in touch.",
-   "at": 268,
-   "end": 289,
-   "stamp": 297,
-   "until": 363
+   "at": 240,
+   "end": 261,
+   "stamp": 269,
+   "until": 335
   }
  ],
- "outro": 371,
- "total": 465,
+ "outro": 345,
+ "total": 390,
  "send": "Send this to someone who says “We're like a family here.”",
  "sticker": "Comment SAY → free PDF"
 }

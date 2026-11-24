@@ -14,37 +14,37 @@
   {
    "text": "Fake a phone call",
    "tier": "C",
-   "at": 36,
-   "land": 86
+   "at": 12,
+   "land": 62
   },
   {
    "text": "Walk away mid-sentence",
    "tier": "F",
-   "at": 104,
-   "land": 149
+   "at": 80,
+   "land": 125
   },
   {
    "text": "Slowly back away, still nodding",
    "tier": "B",
-   "at": 167,
-   "land": 222
+   "at": 143,
+   "land": 198
   },
   {
    "text": "Introduce them to someone else",
    "tier": "A",
-   "at": 240,
-   "land": 295
+   "at": 216,
+   "land": 271
   },
   {
    "text": "I'm going to go mingle. Catch you later!",
    "tier": "S",
-   "at": 313,
-   "land": 395,
+   "at": 289,
+   "land": 371,
    "script": true
   }
  ],
- "outro": 425,
- "total": 510,
+ "outro": 405,
+ "total": 450,
  "ask": "Wrong order? Fight me in the comments.",
  "sticker": "Comment SAY → free PDF"
 }

@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "We can offer you seventy thousand.",
-   "at": 10,
-   "until": 67
+   "at": 4,
+   "until": 61
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Oh... okay, that's fine.",
-   "at": 69,
-   "until": 120,
+   "at": 63,
+   "until": 114,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Great! Glad that works for you.",
-   "at": 122,
-   "until": 172
+   "at": 116,
+   "until": 166
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Welcome to the team. Bring your own laptop.",
-   "at": 174,
-   "until": 264
+   "at": 168,
+   "until": 258
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "We can offer you seventy thousand.",
-   "at": 320,
-   "until": 377
+   "at": 314,
+   "until": 371
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Based on my experience, I was expecting closer to $80,000.",
-   "at": 379,
-   "until": 477,
+   "at": 373,
+   "until": 471,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Hmm. That's above our range.",
-   "at": 479,
-   "until": 525
+   "at": 473,
+   "until": 519
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Is there room to meet in the middle?",
-   "at": 527,
-   "until": 584,
+   "at": 521,
+   "until": 578,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Let's say seventy-six. And an extra week off.",
-   "at": 586,
-   "until": 714
+   "at": 580,
+   "until": 695
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 112
+   "at": 106
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 164
+   "at": 158
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 236
+   "at": 230
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 469
+   "at": 463
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 574
+   "at": 568
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 690
+   "at": 684
   }
  ],
- "nope": 248,
- "crumble": 264,
- "rewind": 284,
- "expand": 310,
- "celebrate": 664,
- "cta": 724,
- "total": 810,
+ "nope": 242,
+ "crumble": 258,
+ "rewind": 278,
+ "expand": 304,
+ "celebrate": 658,
+ "cta": 705,
+ "total": 750,
  "badge": "+1 salary",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

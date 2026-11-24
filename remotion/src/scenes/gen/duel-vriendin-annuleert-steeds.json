@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "kennis",
    "text": "So sorry, something came up. Rain check?",
-   "at": 10,
-   "until": 83
+   "at": 4,
+   "until": 77
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Haha, it's fine, maybe next time.",
-   "at": 85,
-   "until": 148,
+   "at": 79,
+   "until": 142,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "You're the best! Same time next month?",
-   "at": 150,
-   "until": 206
+   "at": 144,
+   "until": 200
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Let's just plan to plan something. Sometime!",
-   "at": 208,
-   "until": 300
+   "at": 202,
+   "until": 294
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "So sorry, something came up. Rain check?",
-   "at": 356,
-   "until": 429
+   "at": 350,
+   "until": 423
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I've noticed our plans keep falling through.",
-   "at": 431,
-   "until": 492,
+   "at": 425,
+   "until": 486,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Ugh, you're right. I'm sorry.",
-   "at": 494,
-   "until": 547
+   "at": 488,
+   "until": 541
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Want to suggest a day when you're actually free?",
-   "at": 549,
-   "until": 624,
+   "at": 543,
+   "until": 618,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Saturday. I'm putting it in my calendar now.",
-   "at": 626,
-   "until": 758
+   "at": 620,
+   "until": 740
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 140
+   "at": 134
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 198
+   "at": 192
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 272
+   "at": 266
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 484
+   "at": 478
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 614
+   "at": 608
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 734
+   "at": 728
   }
  ],
- "nope": 284,
- "crumble": 300,
- "rewind": 320,
- "expand": 346,
- "celebrate": 708,
- "cta": 768,
- "total": 855,
+ "nope": 278,
+ "crumble": 294,
+ "rewind": 314,
+ "expand": 340,
+ "celebrate": 702,
+ "cta": 750,
+ "total": 795,
  "badge": "+1 friendship",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

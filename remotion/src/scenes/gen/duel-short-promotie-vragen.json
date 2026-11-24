@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "So, anything else before we wrap up?",
-   "at": 10,
-   "until": 76
+   "at": 4,
+   "until": 70
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "I mean, if there's ever a chance, maybe...",
-   "at": 78,
-   "until": 155,
+   "at": 72,
+   "until": 149,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Great chat! Same time next year?",
-   "at": 157,
-   "until": 227
+   "at": 151,
+   "until": 221
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "So, anything else before we wrap up?",
-   "at": 283,
-   "until": 349
+   "at": 277,
+   "until": 343
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'd like to talk about my next step here.",
-   "at": 351,
-   "until": 418,
+   "at": 345,
+   "until": 412,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Honestly? You're close. Let's make a plan.",
-   "at": 420,
-   "until": 511
+   "at": 414,
+   "until": 515
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 149
+   "at": 143
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 199
+   "at": 193
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 408
+   "at": 402
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 517
+   "at": 511
   }
  ],
- "nope": 211,
- "crumble": 227,
- "rewind": 247,
- "expand": 273,
- "celebrate": 491,
- "cta": 521,
+ "nope": 205,
+ "crumble": 221,
+ "rewind": 241,
+ "expand": 267,
+ "celebrate": 485,
+ "cta": 525,
  "total": 570,
  "badge": "+1 ambition",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

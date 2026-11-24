@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "Hey! Got a minute? I just need to vent.",
-   "at": 10,
-   "until": 87
+   "at": 4,
+   "until": 81
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Hey! Yeah, I can talk...",
-   "at": 89,
-   "until": 140,
+   "at": 83,
+   "until": 134,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Oh wait, my sister's calling. I'll add her.",
-   "at": 142,
-   "until": 239
+   "at": 136,
+   "until": 233
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Hey! Got a minute? I just need to vent.",
-   "at": 295,
-   "until": 372
+   "at": 289,
+   "until": 366
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm in the middle of something right now.",
-   "at": 374,
-   "until": 439,
+   "at": 368,
+   "until": 433,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Tonight's perfect. I'll make tea.",
-   "at": 441,
-   "until": 513
+   "at": 435,
+   "until": 515
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 134
+   "at": 128
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 211
+   "at": 205
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 429
+   "at": 423
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 519
+   "at": 513
   }
  ],
- "nope": 223,
- "crumble": 239,
- "rewind": 259,
- "expand": 285,
- "celebrate": 493,
- "cta": 523,
+ "nope": 217,
+ "crumble": 233,
+ "rewind": 253,
+ "expand": 279,
+ "celebrate": 487,
+ "cta": 525,
  "total": 570,
  "badge": "+1 focus",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

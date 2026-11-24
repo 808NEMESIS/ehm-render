@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "kennis",
    "text": "You're good at logos, right? Quick favor?",
-   "at": 10,
-   "until": 79
+   "at": 4,
+   "until": 73
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Oh, sure, it's probably quick...",
-   "at": 81,
-   "until": 142,
+   "at": 75,
+   "until": 136,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Great! And a website. It's small.",
-   "at": 144,
-   "until": 205
+   "at": 138,
+   "until": 199
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "My cousin needs one too. Thanks, bestie!",
-   "at": 207,
-   "until": 298
+   "at": 201,
+   "until": 292
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "You're good at logos, right? Quick favor?",
-   "at": 354,
-   "until": 423
+   "at": 348,
+   "until": 417
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "This is the kind of work I normally charge for.",
-   "at": 425,
-   "until": 500,
+   "at": 419,
+   "until": 494,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Oh, right. I didn't think of that.",
-   "at": 502,
-   "until": 563
+   "at": 496,
+   "until": 557
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Want me to send you my rates?",
-   "at": 565,
-   "until": 620,
+   "at": 559,
+   "until": 614,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Yes please. I'd rather pay a pro.",
-   "at": 622,
-   "until": 732
+   "at": 616,
+   "until": 710
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 134
+   "at": 128
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 197
+   "at": 191
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 270
+   "at": 264
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 492
+   "at": 486
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 610
+   "at": 604
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 708
+   "at": 702
   }
  ],
- "nope": 282,
- "crumble": 298,
- "rewind": 318,
- "expand": 344,
- "celebrate": 682,
- "cta": 742,
- "total": 825,
+ "nope": 276,
+ "crumble": 292,
+ "rewind": 312,
+ "expand": 338,
+ "celebrate": 676,
+ "cta": 720,
+ "total": 765,
  "badge": "+1 worth",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "So that's 80 each. Easy, right?",
-   "at": 10,
-   "until": 69
+   "at": 4,
+   "until": 63
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Oh, okay, I'll just pay it.",
-   "at": 71,
-   "until": 132,
+   "at": 65,
+   "until": 126,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Same time next week? Your treat!",
-   "at": 134,
-   "until": 204
+   "at": 128,
+   "until": 198
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "So that's 80 each. Easy, right?",
-   "at": 260,
-   "until": 319
+   "at": 254,
+   "until": 313
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Hey, I think the split might be off.",
-   "at": 321,
-   "until": 385,
+   "at": 315,
+   "until": 379,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Fair. You had water. I had lobster.",
-   "at": 387,
-   "until": 478
+   "at": 381,
+   "until": 485
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 126
+   "at": 120
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 176
+   "at": 170
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 375
+   "at": 369
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 484
+   "at": 478
   }
  ],
- "nope": 188,
- "crumble": 204,
- "rewind": 224,
- "expand": 250,
- "celebrate": 458,
- "cta": 488,
+ "nope": 182,
+ "crumble": 198,
+ "rewind": 218,
+ "expand": 244,
+ "celebrate": 452,
+ "cta": 495,
  "total": 540,
  "badge": "+1 wallet",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

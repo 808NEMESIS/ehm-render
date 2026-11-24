@@ -15,86 +15,82 @@
   {
    "part": "hook",
    "text": "Do you ever freeze up when a coworker tries to dump their work on you?",
-   "at": 12,
-   "end": 130,
-   "until": 136
-  },
-  {
-   "part": "scene",
-   "text": "You're already swamped. Then your coworker leans over.",
-   "at": 154,
-   "end": 245,
-   "until": 251
+   "at": 6,
+   "end": 124,
+   "until": 130
   },
   {
    "part": "panic",
    "text": "Your mind goes blank.",
-   "at": 337,
-   "end": 388,
-   "until": 394
+   "at": 214,
+   "end": 265,
+   "until": 271
   },
   {
    "part": "turn",
    "text": "Here's what to say instead.",
-   "at": 406,
-   "end": 457,
-   "until": 463
+   "at": 283,
+   "end": 334,
+   "until": 340
   },
   {
    "part": "cta",
-   "text": "Save this for the next time it happens.",
-   "at": 752,
-   "end": 820,
-   "until": 826
+   "text": "Save this one.",
+   "at": 617,
+   "end": 651,
+   "until": 657
   }
  ],
  "lines": [
   {
    "who": "collega",
    "text": "Hey, can you take my reports this week?",
-   "at": 253,
-   "end": 317,
-   "until": 400
+   "at": 130,
+   "end": 194,
+   "until": 277
   },
   {
    "who": "ehm",
    "text": "I can't take this on as well.",
-   "at": 467,
-   "end": 512,
-   "until": 518,
+   "at": 344,
+   "end": 389,
+   "until": 395,
    "tone": "yes"
   },
   {
    "who": "collega",
    "text": "Oh. But I'm swamped...",
-   "at": 520,
-   "end": 553,
-   "until": 559
+   "at": 397,
+   "end": 430,
+   "until": 436
   },
   {
    "who": "ehm",
    "text": "Want to check with our manager who should pick it up?",
-   "at": 561,
-   "end": 632,
-   "until": 640,
+   "at": 438,
+   "end": 509,
+   "until": 517,
    "tone": "yes"
   },
   {
    "who": "collega",
    "text": "Fair. I'll ask her. Sorry for dumping it.",
-   "at": 642,
-   "end": 710,
-   "until": 740
+   "at": 519,
+   "end": 587,
+   "until": 609
   }
  ],
- "scene": 144,
- "panic": 323,
- "turn": 400,
- "good": 467,
- "celebrate": 716,
- "cta": 746,
- "total": 870,
+ "scene": 1,
+ "panic": 200,
+ "turn": 277,
+ "good": 344,
+ "celebrate": 593,
+ "cta": 615,
+ "total": 660,
  "badge": "+1 boundaries",
  "sticker": "10 lines for when your mind goes blank → free PDF",
- "voice": "kokoro"
+ "voice": "kokoro",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

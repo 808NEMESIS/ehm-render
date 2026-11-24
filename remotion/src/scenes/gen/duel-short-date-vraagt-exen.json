@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "So, why did your last relationship end?",
-   "at": 10,
-   "until": 76
+   "at": 4,
+   "until": 70
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Oh god, where do I even start?",
-   "at": 78,
-   "until": 138,
+   "at": 72,
+   "until": 132,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Should we invite them to sit with us?",
-   "at": 140,
-   "until": 219
+   "at": 134,
+   "until": 213
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "So, why did your last relationship end?",
-   "at": 275,
-   "until": 341
+   "at": 269,
+   "until": 335
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'd rather get to know each other before unpacking past relationships.",
-   "at": 343,
-   "until": 450,
+   "at": 337,
+   "until": 444,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Easy. This next date, apparently.",
-   "at": 452,
-   "until": 539
+   "at": 446,
+   "until": 545
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 132
+   "at": 126
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 191
+   "at": 185
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 440
+   "at": 434
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 545
+   "at": 539
   }
  ],
- "nope": 203,
- "crumble": 219,
- "rewind": 239,
- "expand": 265,
- "celebrate": 519,
- "cta": 549,
+ "nope": 197,
+ "crumble": 213,
+ "rewind": 233,
+ "expand": 259,
+ "celebrate": 513,
+ "cta": 555,
  "total": 600,
  "badge": "+1 charm",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

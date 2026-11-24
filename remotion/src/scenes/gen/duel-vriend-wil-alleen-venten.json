@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "kennis",
    "text": "Can I tell you something? It's my boss.",
-   "at": 10,
-   "until": 78
+   "at": 4,
+   "until": 72
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Oh no, tell me what happened now.",
-   "at": 80,
-   "until": 146,
+   "at": 74,
+   "until": 140,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "So then he said... wait, let me start over.",
-   "at": 148,
-   "until": 227
+   "at": 142,
+   "until": 221
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Okay, now part two. Get comfy.",
-   "at": 229,
-   "until": 314
+   "at": 223,
+   "until": 308
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Can I tell you something? It's my boss.",
-   "at": 370,
-   "until": 438
+   "at": 364,
+   "until": 432
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I don't have much emotional energy tonight.",
-   "at": 440,
-   "until": 513,
+   "at": 434,
+   "until": 507,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Oh. Yeah, it's really late.",
-   "at": 515,
-   "until": 568
+   "at": 509,
+   "until": 562
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Can we talk tomorrow when I can really listen?",
-   "at": 570,
-   "until": 649,
+   "at": 564,
+   "until": 643,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Tomorrow, coffee. I'll bring the good stuff.",
-   "at": 651,
-   "until": 776
+   "at": 645,
+   "until": 755
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 138
+   "at": 132
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 219
+   "at": 213
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 286
+   "at": 280
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 505
+   "at": 499
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 639
+   "at": 633
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 752
+   "at": 746
   }
  ],
- "nope": 298,
- "crumble": 314,
- "rewind": 334,
- "expand": 360,
- "celebrate": 726,
- "cta": 786,
- "total": 870,
+ "nope": 292,
+ "crumble": 308,
+ "rewind": 328,
+ "expand": 354,
+ "celebrate": 720,
+ "cta": 765,
+ "total": 810,
  "badge": "+1 energy",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

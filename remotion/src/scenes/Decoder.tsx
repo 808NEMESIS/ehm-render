@@ -83,7 +83,7 @@ export const Decoder: React.FC<DecoderProps> = ({data: d, audio}) => {
           </div>
         )}
       </div>
-      <Sticker text={d.sticker} top={1590} at={d.outro + 12} t={out} />
+      <Sticker text={d.sticker} top={1590} at={d.outro + 4} t={out} />
       {audio && <Html5Audio src={staticFile(audio)} />}
     </Paper>
   );

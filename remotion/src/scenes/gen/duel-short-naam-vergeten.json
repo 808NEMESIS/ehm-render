@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "Hey! Remember me?",
-   "at": 10,
-   "until": 48
+   "at": 4,
+   "until": 42
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um... hey, you!",
-   "at": 50,
-   "until": 89,
+   "at": 44,
+   "until": 83,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Wait. You do remember my name, right?",
-   "at": 91,
-   "until": 182
+   "at": 85,
+   "until": 176
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Hey! Remember me?",
-   "at": 238,
-   "until": 276
+   "at": 232,
+   "until": 270
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "This is embarrassing, but your name just slipped my mind.",
-   "at": 278,
-   "until": 370,
+   "at": 272,
+   "until": 364,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "I'm Sam too. That's why I remembered you.",
-   "at": 372,
-   "until": 466
+   "at": 366,
+   "until": 470
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 83
+   "at": 77
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 154
+   "at": 148
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 360
+   "at": 354
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 472
+   "at": 466
   }
  ],
- "nope": 166,
- "crumble": 182,
- "rewind": 202,
- "expand": 228,
- "celebrate": 446,
- "cta": 476,
+ "nope": 160,
+ "crumble": 176,
+ "rewind": 196,
+ "expand": 222,
+ "celebrate": 440,
+ "cta": 480,
  "total": 525,
  "badge": "+1 courage",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

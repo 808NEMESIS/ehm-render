@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "So, when are you two having kids?",
-   "at": 10,
-   "until": 68
+   "at": 4,
+   "until": 62
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, well, it's kind of complicated...",
-   "at": 70,
-   "until": 139,
+   "at": 64,
+   "until": 133,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Everyone, they're thinking about it! Cheers!",
-   "at": 141,
-   "until": 234
+   "at": 135,
+   "until": 228
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "So, when are you two having kids?",
-   "at": 290,
-   "until": 348
+   "at": 284,
+   "until": 342
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'd rather keep that to myself.",
-   "at": 350,
-   "until": 403,
+   "at": 344,
+   "until": 397,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Oh, me? Well, I took up salsa!",
-   "at": 405,
-   "until": 499
+   "at": 399,
+   "until": 500
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 133
+   "at": 127
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 206
+   "at": 200
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 393
+   "at": 387
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 505
+   "at": 499
   }
  ],
- "nope": 218,
- "crumble": 234,
- "rewind": 254,
- "expand": 280,
- "celebrate": 479,
- "cta": 509,
+ "nope": 212,
+ "crumble": 228,
+ "rewind": 248,
+ "expand": 274,
+ "celebrate": 473,
+ "cta": 510,
  "total": 555,
  "badge": "+1 grace",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

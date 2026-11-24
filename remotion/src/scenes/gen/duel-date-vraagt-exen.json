@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "kennis",
    "text": "So, why did your last relationship end?",
-   "at": 10,
-   "until": 76
+   "at": 4,
+   "until": 70
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Oh god, where do I even start?",
-   "at": 78,
-   "until": 140,
+   "at": 72,
+   "until": 134,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Wow. And then what happened?",
-   "at": 142,
-   "until": 194
+   "at": 136,
+   "until": 188
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Should we invite them to sit with us?",
-   "at": 196,
-   "until": 275
+   "at": 190,
+   "until": 269
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "So, why did your last relationship end?",
-   "at": 331,
-   "until": 397
+   "at": 325,
+   "until": 391
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'd rather get to know each other before unpacking past relationships.",
-   "at": 399,
-   "until": 504,
+   "at": 393,
+   "until": 498,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Fair enough. Too soon?",
-   "at": 506,
-   "until": 546
+   "at": 500,
+   "until": 540
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "What are you looking forward to this year?",
-   "at": 548,
-   "until": 613,
+   "at": 542,
+   "until": 607,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Easy. This next date, apparently.",
-   "at": 615,
-   "until": 732
+   "at": 609,
+   "until": 710
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 132
+   "at": 126
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 186
+   "at": 180
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 247
+   "at": 241
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 496
+   "at": 490
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 603
+   "at": 597
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 708
+   "at": 702
   }
  ],
- "nope": 259,
- "crumble": 275,
- "rewind": 295,
- "expand": 321,
- "celebrate": 682,
- "cta": 742,
- "total": 825,
+ "nope": 253,
+ "crumble": 269,
+ "rewind": 289,
+ "expand": 315,
+ "celebrate": 676,
+ "cta": 720,
+ "total": 765,
  "badge": "+1 charm",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "So, tell me about yourself.",
-   "at": 10,
-   "until": 60
+   "at": 4,
+   "until": 54
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, well, I was born in...",
-   "at": 62,
-   "until": 119,
+   "at": 56,
+   "until": 113,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Let's skip to your first job.",
-   "at": 121,
-   "until": 184
+   "at": 115,
+   "until": 178
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "So, tell me about yourself.",
-   "at": 240,
-   "until": 290
+   "at": 234,
+   "until": 284
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm a project manager who's great at keeping big projects on track.",
-   "at": 292,
-   "until": 393,
+   "at": 286,
+   "until": 387,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "That's the best answer I heard all week.",
-   "at": 395,
-   "until": 474
+   "at": 389,
+   "until": 470
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 113
+   "at": 107
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 156
+   "at": 150
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 383
+   "at": 377
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 480
+   "at": 474
   }
  ],
- "nope": 168,
- "crumble": 184,
- "rewind": 204,
- "expand": 230,
- "celebrate": 454,
- "cta": 484,
- "total": 540,
+ "nope": 162,
+ "crumble": 178,
+ "rewind": 198,
+ "expand": 224,
+ "celebrate": 448,
+ "cta": 480,
+ "total": 525,
  "badge": "+1 confidence",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

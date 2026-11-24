@@ -18,44 +18,44 @@
    "panel": "top",
    "who": "baas",
    "text": "Any questions for us?",
-   "at": 10,
-   "until": 47
+   "at": 4,
+   "until": 41
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "No, I think you covered everything.",
-   "at": 49,
-   "until": 119,
+   "at": 43,
+   "until": 113,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Maybe.",
-   "at": 121,
-   "until": 154
+   "at": 115,
+   "until": 148
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Any questions for us?",
-   "at": 210,
-   "until": 247
+   "at": 204,
+   "until": 241
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "What does success look like in this role after six months?",
-   "at": 249,
-   "until": 332,
+   "at": 243,
+   "until": 326,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Honestly? The people. You'd fit right in.",
-   "at": 334,
+   "at": 328,
    "until": 425
   }
  ],
@@ -63,32 +63,35 @@
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 113
+   "at": 107
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 126
+   "at": 120
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 322
+   "at": 316
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 431
+   "at": 425
   }
  ],
- "nope": 138,
- "crumble": 154,
- "rewind": 174,
- "expand": 200,
- "celebrate": 405,
+ "nope": 132,
+ "crumble": 148,
+ "rewind": 168,
+ "expand": 194,
+ "celebrate": 399,
  "cta": 435,
  "total": 480,
  "badge": "+1 interview",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

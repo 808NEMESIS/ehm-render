@@ -4,7 +4,7 @@
  "slug": "verhuizing-helpen",
  "pillar": "grenzen",
  "caption": "Your friend is moving:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "buiten",
  "cast": "kennis",
@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "kennis",
    "text": "Can you help me move Saturday?",
-   "at": 10,
-   "until": 59
+   "at": 4,
+   "until": 53
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um... which weekend was it again?",
-   "at": 61,
-   "until": 121,
+   "at": 55,
+   "until": 115,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "This Saturday! 7 AM.",
-   "at": 123,
-   "until": 169
+   "at": 117,
+   "until": 163
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "You're the only one who said yes!",
-   "at": 171,
-   "until": 244
+   "at": 165,
+   "until": 238
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Can you help me move Saturday?",
-   "at": 300,
-   "until": 349
+   "at": 294,
+   "until": 343
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I won't be helping with the heavy lifting this time.",
-   "at": 351,
-   "until": 430,
+   "at": 345,
+   "until": 424,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Oh. Okay, that's fair.",
-   "at": 432,
-   "until": 479
+   "at": 426,
+   "until": 473
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "But I'll bring pizza for everyone that evening.",
-   "at": 481,
-   "until": 558,
+   "at": 475,
+   "until": 552,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Pizza? You're officially my favorite friend.",
-   "at": 560,
-   "until": 684
+   "at": 554,
+   "until": 665
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 113
+   "at": 107
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 161
+   "at": 155
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 216
+   "at": 210
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 422
+   "at": 416
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 548
+   "at": 542
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 660
+   "at": 654
   }
  ],
- "nope": 228,
- "crumble": 244,
- "rewind": 264,
- "expand": 290,
- "celebrate": 634,
- "cta": 694,
- "total": 780,
+ "nope": 222,
+ "crumble": 238,
+ "rewind": 258,
+ "expand": 284,
+ "celebrate": 628,
+ "cta": 675,
+ "total": 720,
  "badge": "+1 boundary",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

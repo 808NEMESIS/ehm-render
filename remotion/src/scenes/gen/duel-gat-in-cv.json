@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "I see a gap here. What happened?",
-   "at": 10,
-   "until": 72
+   "at": 4,
+   "until": 66
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Oh, um, that was... a weird time.",
-   "at": 74,
-   "until": 146,
+   "at": 68,
+   "until": 140,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Weird how?",
-   "at": 148,
-   "until": 167
+   "at": 142,
+   "until": 161
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Let's... keep this one short, then.",
-   "at": 169,
-   "until": 246
+   "at": 163,
+   "until": 240
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "I see a gap here. What happened?",
-   "at": 302,
-   "until": 364
+   "at": 296,
+   "until": 358
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I took some time off to care for a family member.",
-   "at": 366,
-   "until": 451,
+   "at": 360,
+   "until": 445,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "I'm sorry. That's important.",
-   "at": 453,
-   "until": 501
+   "at": 447,
+   "until": 495
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "In that time, I kept my skills sharp with an online course.",
-   "at": 503,
-   "until": 595,
+   "at": 497,
+   "until": 589,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "That's great. Most people never say it that clearly.",
-   "at": 597,
-   "until": 723
+   "at": 591,
+   "until": 710
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 138
+   "at": 132
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 159
+   "at": 153
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 218
+   "at": 212
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 443
+   "at": 437
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 585
+   "at": 579
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 699
+   "at": 693
   }
  ],
- "nope": 230,
- "crumble": 246,
- "rewind": 266,
- "expand": 292,
- "celebrate": 673,
- "cta": 733,
- "total": 810,
+ "nope": 224,
+ "crumble": 240,
+ "rewind": 260,
+ "expand": 286,
+ "celebrate": 667,
+ "cta": 720,
+ "total": 765,
  "badge": "+1 confidence",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

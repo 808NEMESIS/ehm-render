@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "collega",
    "text": "So I had this idea: weekly client calls.",
-   "at": 10,
-   "until": 71
+   "at": 4,
+   "until": 65
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Yeah, exactly what I was thinking...",
-   "at": 73,
-   "until": 137,
+   "at": 67,
+   "until": 131,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "Glad you agree! I'll lead it then.",
-   "at": 139,
-   "until": 199
+   "at": 133,
+   "until": 193
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "The director loved my idea, by the way.",
-   "at": 201,
-   "until": 299
+   "at": 195,
+   "until": 293
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "So I had this idea: weekly client calls.",
-   "at": 355,
-   "until": 416
+   "at": 349,
+   "until": 410
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I'm glad we're building on my earlier suggestion.",
-   "at": 418,
-   "until": 489,
+   "at": 412,
+   "until": 483,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Oh, right. That was yours?",
-   "at": 491,
-   "until": 540
+   "at": 485,
+   "until": 534
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Can I walk everyone through my original approach?",
-   "at": 542,
-   "until": 623,
+   "at": 536,
+   "until": 617,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Fair. It is your idea. Go ahead.",
-   "at": 625,
-   "until": 746
+   "at": 619,
+   "until": 725
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 129
+   "at": 123
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 191
+   "at": 185
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 271
+   "at": 265
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 481
+   "at": 475
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 613
+   "at": 607
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 722
+   "at": 716
   }
  ],
- "nope": 283,
- "crumble": 299,
- "rewind": 319,
- "expand": 345,
- "celebrate": 696,
- "cta": 756,
- "total": 840,
+ "nope": 277,
+ "crumble": 293,
+ "rewind": 313,
+ "expand": 339,
+ "celebrate": 690,
+ "cta": 735,
+ "total": 780,
  "badge": "+1 credit",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }

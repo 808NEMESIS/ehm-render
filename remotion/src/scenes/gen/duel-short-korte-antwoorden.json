@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "Just got back from Rome.",
-   "at": 10,
-   "until": 45
+   "at": 4,
+   "until": 39
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "So, was it good?",
-   "at": 47,
-   "until": 85,
+   "at": 41,
+   "until": 79,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "Anyway.",
-   "at": 87,
-   "until": 128
+   "at": 81,
+   "until": 122
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Just got back from Rome.",
-   "at": 184,
-   "until": 219
+   "at": 178,
+   "until": 213
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "What was the best part?",
-   "at": 221,
-   "until": 260,
+   "at": 215,
+   "until": 254,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Nobody ever asks! Okay, so we missed our train...",
-   "at": 262,
-   "until": 377
+   "at": 256,
+   "until": 380
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 79
+   "at": 73
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 100
+   "at": 94
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 250
+   "at": 244
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 383
+   "at": 377
   }
  ],
- "nope": 112,
- "crumble": 128,
- "rewind": 148,
- "expand": 174,
- "celebrate": 357,
- "cta": 387,
+ "nope": 106,
+ "crumble": 122,
+ "rewind": 142,
+ "expand": 168,
+ "celebrate": 351,
+ "cta": 390,
  "total": 435,
  "badge": "+1 conversation",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

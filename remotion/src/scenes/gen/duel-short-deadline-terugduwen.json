@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "I need the full report by tomorrow.",
-   "at": 10,
-   "until": 69
+   "at": 4,
+   "until": 63
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Sure, no problem, I'll make it work...",
-   "at": 71,
-   "until": 138,
+   "at": 65,
+   "until": 132,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "You're amazing. Same thing next week?",
-   "at": 140,
-   "until": 218
+   "at": 134,
+   "until": 212
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "I need the full report by tomorrow.",
-   "at": 274,
-   "until": 333
+   "at": 268,
+   "until": 327
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Tomorrow isn't realistic with what's on my plate.",
-   "at": 335,
-   "until": 408,
+   "at": 329,
+   "until": 402,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Thursday works. The client can wait a day.",
-   "at": 410,
-   "until": 496
+   "at": 404,
+   "until": 500
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 132
+   "at": 126
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 190
+   "at": 184
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 398
+   "at": 392
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 502
+   "at": 496
   }
  ],
- "nope": 202,
- "crumble": 218,
- "rewind": 238,
- "expand": 264,
- "celebrate": 476,
- "cta": 506,
+ "nope": 196,
+ "crumble": 212,
+ "rewind": 232,
+ "expand": 258,
+ "celebrate": 470,
+ "cta": 510,
  "total": 555,
  "badge": "+1 sanity",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

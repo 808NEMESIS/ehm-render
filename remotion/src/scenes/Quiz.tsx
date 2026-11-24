@@ -324,11 +324,11 @@ const Celebration: React.FC<{d: QuizData; out: number}> = ({d, out}) => {
 const Cta: React.FC<{d: QuizData; out: number}> = ({d, out}) => {
   if (out < d.cta) return null;
   const a = spr(out, d.cta, {damping: 11, stiffness: 220});
-  const b = spr(out, d.cta + 12, {damping: 9, stiffness: 220});
+  const b = spr(out, d.cta + 6, {damping: 9, stiffness: 220});   // eindkaart is kort (1,5 s)
   const letter = d.options[d.correct].letter;
   return (
     <>
-      <div style={{position: 'absolute', left: 60, right: 60, top: 1010, textAlign: 'center', transform: `scale(${a}) rotate(${-2 + Math.sin(out / 10)}deg)`}}>
+      <div style={{position: 'absolute', left: 60, right: 60, top: 930, textAlign: 'center', transform: `scale(${a}) rotate(${-2 + Math.sin(out / 10)}deg)`}}>  {/* boven het goede kaartje, niet erover */}
         <span style={{fontFamily: FONT_HEAD, fontWeight: 700, fontSize: 80, color: C.white, ...outline(14), textShadow: `0 8px 0 ${C.ink}`}}>
           Did you pick {letter}? Comment your letter!
         </span>

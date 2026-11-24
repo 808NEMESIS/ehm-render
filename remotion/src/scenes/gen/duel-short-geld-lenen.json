@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "kennis",
    "text": "Hey, could you lend me some money?",
-   "at": 10,
-   "until": 68
+   "at": 4,
+   "until": 62
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um... how much?",
-   "at": 70,
-   "until": 102,
+   "at": 64,
+   "until": 96,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "kennis",
    "text": "So... could you cover my whole month?",
-   "at": 104,
-   "until": 184
+   "at": 98,
+   "until": 178
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Hey, could you lend me some money?",
-   "at": 240,
-   "until": 298
+   "at": 234,
+   "until": 292
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I don't lend money, even to friends.",
-   "at": 300,
-   "until": 366,
+   "at": 294,
+   "until": 360,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "kennis",
    "text": "Thanks. I needed a friend more than money.",
-   "at": 368,
-   "until": 458
+   "at": 362,
+   "until": 455
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 96
+   "at": 90
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 156
+   "at": 150
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 356
+   "at": 350
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 464
+   "at": 458
   }
  ],
- "nope": 168,
- "crumble": 184,
- "rewind": 204,
- "expand": 230,
- "celebrate": 438,
- "cta": 468,
- "total": 525,
+ "nope": 162,
+ "crumble": 178,
+ "rewind": 198,
+ "expand": 224,
+ "celebrate": 432,
+ "cta": 465,
+ "total": 510,
  "badge": "+1 boundary",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

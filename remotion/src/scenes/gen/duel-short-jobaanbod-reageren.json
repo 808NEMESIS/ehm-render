@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "baas",
    "text": "Congrats! We'd love to offer you the job.",
-   "at": 10,
-   "until": 78
+   "at": 4,
+   "until": 72
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Yes! I accept! When can I start?",
-   "at": 80,
-   "until": 147,
+   "at": 74,
+   "until": 141,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "And weekends are... flexible. Welcome aboard!",
-   "at": 149,
-   "until": 242
+   "at": 143,
+   "until": 236
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Congrats! We'd love to offer you the job.",
-   "at": 298,
-   "until": 366
+   "at": 292,
+   "until": 360
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Thank you, I'm really excited about this offer.",
-   "at": 368,
-   "until": 452,
+   "at": 362,
+   "until": 446,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Sure. I'll include the signing bonus too.",
-   "at": 454,
-   "until": 542
+   "at": 448,
+   "until": 545
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 141
+   "at": 135
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 214
+   "at": 208
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 442
+   "at": 436
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 548
+   "at": 542
   }
  ],
- "nope": 226,
- "crumble": 242,
- "rewind": 262,
- "expand": 288,
- "celebrate": 522,
- "cta": 552,
+ "nope": 220,
+ "crumble": 236,
+ "rewind": 256,
+ "expand": 282,
+ "celebrate": 516,
+ "cta": 555,
  "total": 600,
  "badge": "+1 leverage",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

@@ -18,77 +18,80 @@
    "panel": "top",
    "who": "collega",
    "text": "Hey, can you take my reports this week?",
-   "at": 10,
-   "until": 74
+   "at": 4,
+   "until": 68
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Sure, just send it over...",
-   "at": 76,
-   "until": 124,
+   "at": 70,
+   "until": 118,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "collega",
    "text": "You're the best. I'm off to lunch.",
-   "at": 126,
-   "until": 202
+   "at": 120,
+   "until": 196
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Hey, can you take my reports this week?",
-   "at": 258,
-   "until": 322
+   "at": 252,
+   "until": 316
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "I can't take this on as well.",
-   "at": 324,
-   "until": 375,
+   "at": 318,
+   "until": 369,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "collega",
    "text": "Fair. I'll ask her. Sorry for dumping it.",
-   "at": 377,
-   "until": 474
+   "at": 371,
+   "until": 470
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 118
+   "at": 112
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 174
+   "at": 168
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 365
+   "at": 359
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 480
+   "at": 474
   }
  ],
- "nope": 186,
- "crumble": 202,
- "rewind": 222,
- "expand": 248,
- "celebrate": 454,
- "cta": 484,
- "total": 540,
+ "nope": 180,
+ "crumble": 196,
+ "rewind": 216,
+ "expand": 242,
+ "celebrate": 448,
+ "cta": 480,
+ "total": 525,
  "badge": "+1 boundaries",
  "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ },
  "variant": "short"
 }

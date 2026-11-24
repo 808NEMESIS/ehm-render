@@ -4,7 +4,7 @@
  "slug": "salariswensen",
  "pillar": "werk",
  "caption": "When they ask your salary expectations:",
- "hook": "Watch Ehm get it wrong. Then right.",
+ "hook": "Be honest: which one is you?",
  "verdict": false,
  "setting": "vergadering",
  "cast": "baas",
@@ -18,108 +18,111 @@
    "panel": "top",
    "who": "baas",
    "text": "What salary are you looking for?",
-   "at": 10,
-   "until": 63
+   "at": 4,
+   "until": 57
   },
   {
    "panel": "top",
    "who": "ehm",
    "text": "Um, whatever you usually pay is fine.",
-   "at": 65,
-   "until": 139,
+   "at": 59,
+   "until": 133,
    "tone": "not"
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Whatever we usually pay? Interesting.",
-   "at": 141,
-   "until": 213
+   "at": 135,
+   "until": 207
   },
   {
    "panel": "top",
    "who": "baas",
    "text": "Perfect. Welcome to the sandwich package.",
-   "at": 215,
-   "until": 301
+   "at": 209,
+   "until": 295
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "What salary are you looking for?",
-   "at": 357,
-   "until": 410
+   "at": 351,
+   "until": 404
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Could you share the range for this role first?",
-   "at": 412,
-   "until": 473,
+   "at": 406,
+   "until": 467,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Our range is $65,000 to $85,000.",
-   "at": 475,
-   "until": 516
+   "at": 469,
+   "until": 510
   },
   {
    "panel": "bottom",
    "who": "ehm",
    "text": "Based on my experience, I'm looking at $70,000 to $80,000.",
-   "at": 518,
-   "until": 610,
+   "at": 512,
+   "until": 604,
    "tone": "yes"
   },
   {
    "panel": "bottom",
    "who": "baas",
    "text": "Great. I was worried you'd ask for sandwiches.",
-   "at": 612,
-   "until": 736
+   "at": 606,
+   "until": 710
   }
  ],
  "sfx": [
   {
    "panel": "top",
    "text": "GULP!",
-   "at": 131
+   "at": 125
   },
   {
    "panel": "top",
    "text": "AWK...",
-   "at": 205
+   "at": 199
   },
   {
    "panel": "top",
    "text": "UH-OH",
-   "at": 273
+   "at": 267
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 465
+   "at": 459
   },
   {
    "panel": "bottom",
    "text": "NICE!",
-   "at": 600
+   "at": 594
   },
   {
    "panel": "bottom",
    "text": "YAY!",
-   "at": 712
+   "at": 706
   }
  ],
- "nope": 285,
- "crumble": 301,
- "rewind": 321,
- "expand": 347,
- "celebrate": 686,
- "cta": 746,
- "total": 825,
+ "nope": 279,
+ "crumble": 295,
+ "rewind": 315,
+ "expand": 341,
+ "celebrate": 680,
+ "cta": 720,
+ "total": 765,
  "badge": "+1 confidence",
- "sticker": "10 lines for when your mind goes blank → free PDF"
+ "sticker": "10 lines for when your mind goes blank → free PDF",
+ "sticker_by_platform": {
+  "instagram": "Comment SAY → free PDF"
+ }
 }
